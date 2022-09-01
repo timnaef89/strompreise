@@ -109,7 +109,7 @@ for (i in years) {
   
 }
 
-
+dta_historic <- write_csv(dta_gesamt, "dta_historic.csv")
 
 
 # aktuellste tabelle anbieter rausfiltern
@@ -129,3 +129,78 @@ missing_operators_past <- dta_gesamt %>%
 
 
 # There are 175 missing operators!
+
+
+################################################################################
+################################################################################
+############################ create dummy-json #################################
+################################################################################
+################################################################################
+
+
+
+df_dummy <- dta_gesamt %>% 
+  filter(category %in% c("H3", "C3", "H6"),
+         product == "standard",
+         period >= 2018) %>% 
+  select(period, operatorLabel, category, total) %>% 
+  filter(category == "H3")
+
+
+
+df_dummy2 <- dta_gde %>% 
+  left_join(df_dummy, by = c("Name" = "operatorLabel"))
+
+
+
+dummy_anbieter <- c("Energie Gossau AG", "Elektrizitätsversorgung Benken", 
+                    "EW Wald AG", "Energie Uster AG","EKZ Einsiedeln AG",
+                    "Energie Oberhofen AG", "Energie AG Sumiswald", "NetZulg AG", 
+                    "Elektrizitätswerk der PG Wagenhausen", "Thurwerke AG")
+
+
+
+# load group-function
+
+# gruppen hinzufügen für späteres "gehört zu den Topgemeinden..."
+
+# w = vector
+# x = seq-start
+# y = seq-end
+# z = anzahl gruppen
+
+gruppen <- function(w,x,y,z){
+  as.numeric(cut(w,
+                 breaks = c(-Inf,quantile(w, 
+                                          seq(x, y, length.out = z)))))
+}
+
+
+dummy2 <- dta_gde %>% 
+  filter(Name %in% dummy_anbieter) %>% 
+  select(Gde.Nr., Gemeinde, Kanton, Name) %>% 
+  left_join(df_dummy, by = c("Name" = "operatorLabel")) %>% 
+  filter(period %in% c(2021, 2022)) %>% 
+  pivot_wider(names_from = period,
+              names_prefix = "preis_",
+              values_from = total) %>% 
+  mutate(change_in_prozent = round(((preis_2022/preis_2021)-1)*100, digits = 2),
+         verbrauch = 4500,
+         preis_pro_2021 = preis_2021 * verbrauch / 100,
+         preis_pro_2022 = preis_2022 * verbrauch / 100,
+         differenz = preis_pro_2022 - preis_pro_2021) %>% 
+  rename(gde_name = Gemeinde,
+         gde_nr = Gde.Nr.) %>% 
+  mutate(rang = min_rank(desc(change_in_prozent)),
+         gruppen = gruppen(change_in_prozent,
+                           .25,
+                           1,
+                           4))
+
+
+strompreis_json_dummy <- list(all_gde = dummy2 %>%
+                                mutate(r = map(gde_nr, function(nr) dummy2 %>% 
+                                          filter(nr == gde_nr)))
+)
+
+jsonlite::write_json(strompreis_json_dummy, "strompreis_json_dummy.json")
