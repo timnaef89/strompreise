@@ -10,10 +10,14 @@ source("gde_texte/DW/custom_DW_functions.R")
 
 # create dummy df
 
-dummy <- data.frame(herisau = c(2008:2019, 2021, 2022),
-                    kraenze = c(1,2,3,4,5,6,7,8,9,10,11,12,13,14))
+dummy <- data.frame(Kategorie = c("2-Zimmerwohnung mit E-Herd", "4-Zimmerwohnung mit Herd und Boiler",
+                                  "5-Zimmer Einfamilienhaus", "Mittlerer Betrieb"),
+                    `Preiserhöhung in Rp.`= c(6, 8, 10, 7),
+                    `Erhöhung in Prozent` = c(10, 12, 15, 11),
+                    `Verbrauch in kWh` = c(1600, 4500, 25000, 150000),
+                    `Mehrkosten in Franken` = c(96, 360, 2500, 10500))
 
-write_csv(dummy, "gde_texte/DW/dummy.csv")
+write_csv(dummy, "DW/dummy1.csv")
 
 
 

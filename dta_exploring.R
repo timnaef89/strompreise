@@ -180,7 +180,7 @@ dummy2 <- dta_gde %>%
   filter(Name %in% dummy_anbieter) %>% 
   select(Gde.Nr., Gemeinde, Kanton, Name) %>% 
   left_join(df_dummy, by = c("Name" = "operatorLabel")) %>% 
-  filter(period %in% c(2021, 2022)) %>% 
+  filter(period %in% c(2018:2022)) %>% 
   pivot_wider(names_from = period,
               names_prefix = "preis_",
               values_from = total) %>% 
@@ -193,9 +193,13 @@ dummy2 <- dta_gde %>%
          gde_nr = Gde.Nr.) %>% 
   mutate(rang = min_rank(desc(change_in_prozent)),
          gruppen = gruppen(change_in_prozent,
-                           .25,
+                           .20,
                            1,
-                           4))
+                           5),
+         entwicklung = ((round(((preis_2019/preis_2018)-1)*100, digits = 2) + 
+                          round(((preis_2020/preis_2019)-1)*100, digits = 2) + 
+                          round(((preis_2021/preis_2020)-1)*100, digits = 2) + 
+                          round(((preis_2022/preis_2021)-1)*100, digits = 2)) /4))
 
 
 strompreis_json_dummy <- list(all_gde = dummy2 %>%
@@ -204,3 +208,107 @@ strompreis_json_dummy <- list(all_gde = dummy2 %>%
 )
 
 jsonlite::write_json(strompreis_json_dummy, "strompreis_json_dummy.json")
+
+
+# how many gde with more than 1 netzbetreiber?
+
+netzbetreiber_anzahl_pro_gde <- dta_gde %>% 
+  group_by(Gemeinde) %>% 
+  summarise(n = n())
+
+
+
+# # preisentwicklung pro anbieter für h3
+# 
+# preisentwicklung_pro_anbieter <- dta_gesamt %>% 
+#   filter(period %in% c(2021,2022),
+#          category == "H3",
+#          product == "standard",
+#          operatorLabel == "St.Gallisch-Appenzellische Kraftwerke AG SAK")
+# 
+# 
+# pseudo_gdr <- function(x, data) {
+#   
+#   preis_pro_anbieter <- preisentwicklung_pro_anbieter %>% 
+#     filter(operatorLabel == "St.Gallisch-Appenzellische Kraftwerke AG SAK")
+#   
+#   label <- as.character(unique(preis_pro_anbieter$charge))
+#   
+#   preisentwicklung_pro_anbieter2 <- preisentwicklung_pro_anbieter %>% 
+#     mutate()
+#   
+# } 
+# 
+# 
+# 
+#   group_by(period, operatorLabel, charge)
+#   pivot_wider(names_from = period,
+#               names_prefix = "durchschnittspreis_",
+#               values_from = steigerung_schnitt) %>% 
+#   mutate(steigerung_in_prozent = round(((unique(na.omit(preisentwicklung_pro_anbieter$durchschnittspreis_2022))/
+#                                      unique(na.omit(preisentwicklung_pro_anbieter$durchschnittspreis_2021)))-1)*100,2),
+#          )
+
+
+
+dummy_gesamt <- dta_gde %>% 
+  select(Gde.Nr., Gemeinde, Kanton, Name) %>% 
+ # filter(Gemeinde == "Degersheim") %>%  
+  rowwise() %>%
+  mutate(preis_2018 = sample(c(15:30),1),
+         preis_2019 = sample(c(15:30),1),
+         preis_2020 = sample(c(15:30),1),
+         preis_2021 = sample(c(15:30),1),
+         preis_2022 = sample(c(15:30),1),
+         preis_2023 = sample(c(15:30),1),
+         ) %>% 
+  mutate(change_in_prozent = round(((preis_2023/preis_2022)-1)*100, digits = 2),
+         verbrauch = 4500,
+         preis_pro_2022 = preis_2022 * verbrauch / 100,
+         preis_pro_2023 = preis_2023 * verbrauch / 100,
+         differenz = preis_pro_2023 - preis_pro_2022) %>% 
+  rename(gde_name = Gemeinde,
+         gde_nr = Gde.Nr.) %>% 
+  mutate(change_in_prozent = sqrt(change_in_prozent^2),
+         entwicklung = ((round(((preis_2019/preis_2018)-1)*100, digits = 2) + 
+                           round(((preis_2020/preis_2019)-1)*100, digits = 2) + 
+                           round(((preis_2021/preis_2020)-1)*100, digits = 2) + 
+                           round(((preis_2022/preis_2021)-1)*100, digits = 2))+
+                          round(((preis_2023/preis_2022)-1)*100, digits = 2))/5) %>% 
+  ungroup() %>% 
+  mutate(gruppen = as.numeric(ntile(change_in_prozent, 5)),
+         
+         rang = as.numeric(min_rank(desc(change_in_prozent))),
+         rang_preis_pro_2023 = as.numeric(min_rank(desc(preis_pro_2023))))
+
+dummy_gesamt2 <-dummy_gesamt %>% 
+            group_by(gde_nr) %>% 
+            arrange(desc(change_in_prozent)) %>% 
+            mutate(anb_nr = seq_along(gde_nr)) %>% 
+            ungroup() %>% 
+            gather(key = "Variable", value = "Wert", -c("gde_nr", "gde_name", "Kanton", "anb_nr")) %>% 
+            mutate(Variable = paste0("Anb_", anb_nr, "_", Variable)) %>% 
+            select(-anb_nr) %>% 
+            spread(key = Variable, value= Wert) %>% 
+  select(-c(Anb_4_change_in_prozent:Anb_4_verbrauch)) %>% 
+  group_by(gde_nr) %>% 
+  #filter(gde_name == "Degersheim") %>% 
+  mutate(Anb_1_change_in_prozent = as.numeric(Anb_1_change_in_prozent),
+         Anb_2_change_in_prozent = as.numeric(Anb_2_change_in_prozent),
+         Anb_3_change_in_prozent = as.numeric(Anb_3_change_in_prozent)) %>% 
+  mutate(change_in_perc_schnitt = mean(c(Anb_1_change_in_prozent, Anb_2_change_in_prozent,Anb_3_change_in_prozent), na.rm = T)) %>% 
+  mutate(anzahl_anbieter = ifelse(is.na(Anb_2_change_in_prozent),1,ifelse(is.na(Anb_3_change_in_prozent),2,3)),
+         Anb_1_gruppen = as.numeric(Anb_1_gruppen),
+         Anb_2_gruppen = as.numeric(Anb_2_gruppen),
+         Anb_3_gruppen = as.numeric(Anb_3_gruppen))
+            
+write_csv(dummy_gesamt2, "dummy_gesamt2.csv")
+
+
+strompreis_json_dummy_gesamt <- list(all_gde = dummy_gesamt2 %>%
+                                       filter(gde_nr %in% c(4726, 3401, 1, 3378)) %>% 
+                                mutate(r = map(gde_nr, function(nr) dummy2 %>% 
+                                                 filter(nr == gde_nr)))
+)
+
+jsonlite::write_json(strompreis_json_dummy_gesamt, "strompreis_json_dummy_gesamt.json")
