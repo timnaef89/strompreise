@@ -1,0 +1,27 @@
+Kanton_Nr,Kanton_BFS,Kanton_d,Kanton_f,Kanton_i,Kanton_r,Kanton_Short,Kanton_DW
+19,Aargau,Aargau,Argovie,Argovia,Argovia,AG,Aargau
+15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Rhodes-Extérieures,Appenzello Esterno,Appenzell Dadora,AR,Appenzell Ausserrhoden
+16,Appenzell Innerrhoden,Appenzell Innerrhoden,Appenzell Rhodes-Intérieures,Appenzello Interno,Appenzell Dadens,AI,Appenzell Innerrhoden
+13,Basel-Landschaft,Basel-Landschaft,Bâle-Campagne,Basilea Campagna,Basilea-Champagna,BL,Basel-Landschaft
+12,Basel-Stadt,Basel-Stadt,Bâle-Ville,Basilea Città,Basilea-Citad,BS,Basel-Stadt
+2,Bern / Berne,Bern,Berne,Berna,Berna,BE,Bern
+10,Fribourg / Freiburg,Freiburg,Fribourg,Friburgo,Friburg,FR,Fribourg
+25,Genève,Genf,Genève,Ginevra,Genevra,GE,Genève
+8,Glarus,Glarus,Glaris,Glarona,Glaruna,GL,Glarus
+18,Graubünden / Grigioni / Grischun,Graubünden,Grisons,Grigioni,Grischun,GR,Graubünden
+26,Jura,Jura,Jura,Giura,Giura,JU,Jura
+3,Luzern,Luzern,Lucerne,Lucerna,Lucerna,LU,Luzern
+24,Neuchâtel,Neuenburg,Neuchâtel,Neuchâtel,Neuchâtel,NE,Neuchâtel
+7,Nidwalden,Nidwalden,Nidwald,Nidvaldo,Sutsilvania,NW,Nidwalden
+6,Obwalden,Obwalden,Obwald,Obvaldo,Sursilvania,OW,Obwalden
+14,Schaffhausen,Schaffhausen,Schaffhouse,Sciaffusa,Schaffusa,SH,Schaffhausen
+5,Schwyz,Schwyz,Schwyz,Svitto,Sviz,SZ,Schwyz
+11,Solothurn,Solothurn,Soleure,Soletta,Soloturn,SO,Solothurn
+17,St. Gallen,St. Gallen,Saint-Gall,San Gallo,Son Gagl,SG,Sankt Gallen
+20,Thurgau,Thurgau,Thurgovie,Turgovia,Turgovia,TG,Thurgau
+21,Ticino,Tessin,Tessin,Ticino,Tessin,TI,Ticino
+4,Uri,Uri,Uri,Uri,Uri,UR,Uri
+23,Valais / Wallis,Wallis,Valais,Vallese,Vallais,VS,Valais
+22,Vaud,Waadt,Vaud,Vaud,Vad,VD,Vaud
+9,Zug,Zug,Zoug,Zugo,Zug,ZG,Zug
+1,Zürich,Zürich,Zurich,Zurigo,Turitg,ZH,Zürich

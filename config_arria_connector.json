@@ -1,0 +1,18 @@
+{
+  "export_journal_path" : "export_journal_AZ.csv",
+  "export_error_log_path" : "export_error_log_AZ.csv",
+  "replace_placeholders" : "replace_table.csv",
+  "catchword_index" : 2,
+  "headline_index" : 3,
+  "lead_index" : 4,
+  "photo_caption_index" : 1,
+  "ftp_destination" : "nzz_stage",
+  "upload_sleep_time" : 5,
+  "department_type_text" : "Gemeindetexte",
+  "string_split_arria_texts" : "\\*\\*\\*\\*\\*\\*\r\n\r\n|\\*\\*\\*\\*\\*\\*",
+  "string_split_one_arria_text" : "\r\n\r\n\r\n|\r\n\r\n",
+  "max_gde_per_batch" : 20,
+  "plot_image_folder" : "pics",
+  "plot_full_prefix" : "pics/strompreis_teaser_",
+  "photo_path_prefix" : "pics/strompreis_teaser_"
+}

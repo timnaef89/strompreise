@@ -102,6 +102,12 @@ transmute(Name = Betreiber_Name,
          rang = as.numeric(min_rank(desc(change_in_prozent))),
          rang_preis_pro_2023 = as.numeric(min_rank(desc(preis_pro_2023))))
 
+# !!!
+# an dieser stelle werden die iframe-codes der grafiken gejoined
+# !!!
+
+
+
 dta_real_gesamt3 <- dta_real_gesamt2 %>% 
   group_by(gde_nr) %>% 
   arrange(desc(change_in_prozent)) %>% 
@@ -126,6 +132,42 @@ dta_real_gesamt3 <- dta_real_gesamt2 %>%
 
 #csv für karte erstellen
 write_csv(dta_real_gesamt3, "dta_real_gesamt3.csv")
+
+#csv für regionen
+
+#Ost
+dta_ostschweiz <- dta_real_gesamt3 %>% 
+  filter(Kanton %in% c("SG", "TG", "AR", "AI"))
+
+write_csv(dta_ostschweiz, "dta_ostschweiz.csv")
+
+#Zentral
+dta_zentral <- dta_real_gesamt3 %>% 
+  filter(Kanton %in% c("LU", "ZG", "OW", "NW", "UR", "SZ"))
+
+write_csv(dta_zentral, "dta_zentral.csv")
+
+# Aargau
+dta_aargau <- dta_real_gesamt3 %>% 
+  filter(Kanton == "AG")
+
+write_csv(dta_aargau, "dta_aargau.csv")
+
+#Solothurn
+
+dta_solothurn <- dta_real_gesamt3 %>% 
+  filter(Kanton == "SO")
+
+write_csv(dta_solothurn, "dta_solothurn.csv")
+
+# Beide Basel
+
+dta_basels <- dta_real_gesamt3 %>% 
+  filter(Kanton %in% c("BL", "BS"))
+
+write_csv(dta_basels, "dta_basels.csv")
+
+
 
 #liste für json 
 strompreis_json_dta_real_gesamt3 <- list(all_gde = dta_real_gesamt3 %>%
@@ -188,6 +230,10 @@ test_daten2 <- test_daten %>%
          Anb_3_gruppen = as.numeric(Anb_3_gruppen))
 
 write_csv(test_daten2, "test_daten2.csv")
+
+
+testtest <- test_daten2 %>% 
+  filter(Kanton %in% c("LU", "ZG", "OW", "NW", "UR", "SZ"))
 
 
 strompreis_json_test_daten2 <- list(all_gde = test_daten2 %>%

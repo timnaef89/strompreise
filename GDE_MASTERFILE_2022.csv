@@ -1,0 +1,2149 @@
+Gemeinde_Nr,Gemeinde_Name,Gemeinde_d,Bezirk_Nr,Bezirk_Name,Kanton_Short,Kanton_Nr,Kanton_BFS,Kanton_d,Kanton_DW,Gemeinde_Name_dw
+1,Aeugst am Albis,Aeugst am Albis,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Aeugst am Albis
+2,Affoltern am Albis,Affoltern am Albis,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Affoltern am Albis
+3,Bonstetten,Bonstetten,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Bonstetten
+4,Hausen am Albis,Hausen am Albis,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Hausen am Albis
+5,Hedingen,Hedingen,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Hedingen
+6,Kappel am Albis,Kappel am Albis,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Kappel am Albis
+7,Knonau,Knonau,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Knonau
+8,Maschwanden,Maschwanden,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Maschwanden
+9,Mettmenstetten,Mettmenstetten,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Mettmenstetten
+10,Obfelden,Obfelden,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Obfelden
+11,Ottenbach,Ottenbach,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Ottenbach
+12,Rifferswil,Rifferswil,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Rifferswil
+13,Stallikon,Stallikon,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Stallikon
+14,Wettswil am Albis,Wettswil am Albis,101,Affoltern,ZH,1,Zürich,Zürich,Zürich,Wettswil am Albis
+21,Adlikon,Adlikon,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Adlikon
+22,Benken (ZH),Benken (ZH),102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Benken (ZH)
+23,Berg am Irchel,Berg am Irchel,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Berg am Irchel
+24,Buch am Irchel,Buch am Irchel,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Buch am Irchel
+25,Dachsen,Dachsen,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Dachsen
+26,Dorf,Dorf,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Dorf
+27,Feuerthalen,Feuerthalen,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Feuerthalen
+28,Flaach,Flaach,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Flaach
+29,Flurlingen,Flurlingen,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Flurlingen
+30,Andelfingen,Andelfingen,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Andelfingen
+31,Henggart,Henggart,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Henggart
+32,Humlikon,Humlikon,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Humlikon
+33,Kleinandelfingen,Kleinandelfingen,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Kleinandelfingen
+34,Laufen-Uhwiesen,Laufen-Uhwiesen,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Laufen-Uhwiesen
+35,Marthalen,Marthalen,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Marthalen
+37,Ossingen,Ossingen,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Ossingen
+38,Rheinau,Rheinau,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Rheinau
+39,Thalheim an der Thur,Thalheim an der Thur,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Thalheim an der Thur
+40,Trüllikon,Trüllikon,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Trüllikon
+41,Truttikon,Truttikon,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Truttikon
+43,Volken,Volken,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Volken
+51,Bachenbülach,Bachenbülach,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Bachenbülach
+52,Bassersdorf,Bassersdorf,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Bassersdorf
+53,Bülach,Bülach,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Bülach
+54,Dietlikon,Dietlikon,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Dietlikon
+55,Eglisau,Eglisau,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Eglisau
+56,Embrach,Embrach,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Embrach
+57,Freienstein-Teufen,Freienstein-Teufen,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Freienstein-Teufen
+58,Glattfelden,Glattfelden,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Glattfelden
+59,Hochfelden,Hochfelden,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Hochfelden
+60,Höri,Höri,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Höri
+61,Hüntwangen,Hüntwangen,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Hüntwangen
+62,Kloten,Kloten,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Kloten
+63,Lufingen,Lufingen,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Lufingen
+64,Nürensdorf,Nürensdorf,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Nürensdorf
+65,Oberembrach,Oberembrach,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Oberembrach
+66,Opfikon,Opfikon,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Opfikon
+67,Rafz,Rafz,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Rafz
+68,Rorbas,Rorbas,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Rorbas
+69,Wallisellen,Wallisellen,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Wallisellen
+70,Wasterkingen,Wasterkingen,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Wasterkingen
+71,Wil (ZH),Wil (ZH),103,Bülach,ZH,1,Zürich,Zürich,Zürich,Wil (ZH)
+72,Winkel,Winkel,103,Bülach,ZH,1,Zürich,Zürich,Zürich,Winkel
+81,Bachs,Bachs,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Bachs
+82,Boppelsen,Boppelsen,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Boppelsen
+83,Buchs (ZH),Buchs (ZH),104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Buchs (ZH)
+84,Dällikon,Dällikon,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Dällikon
+85,Dänikon,Dänikon,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Dänikon
+86,Dielsdorf,Dielsdorf,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Dielsdorf
+87,Hüttikon,Hüttikon,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Hüttikon
+88,Neerach,Neerach,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Neerach
+89,Niederglatt,Niederglatt,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Niederglatt
+90,Niederhasli,Niederhasli,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Niederhasli
+91,Niederweningen,Niederweningen,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Niederweningen
+92,Oberglatt,Oberglatt,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Oberglatt
+93,Oberweningen,Oberweningen,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Oberweningen
+94,Otelfingen,Otelfingen,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Otelfingen
+95,Regensberg,Regensberg,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Regensberg
+96,Regensdorf,Regensdorf,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Regensdorf
+97,Rümlang,Rümlang,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Rümlang
+98,Schleinikon,Schleinikon,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Schleinikon
+99,Schöfflisdorf,Schöfflisdorf,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Schöfflisdorf
+100,Stadel,Stadel,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Stadel
+101,Steinmaur,Steinmaur,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Steinmaur
+102,Weiach,Weiach,104,Dielsdorf,ZH,1,Zürich,Zürich,Zürich,Weiach
+111,Bäretswil,Bäretswil,105,Hinwil,ZH,1,Zürich,Zürich,Zürich,Bäretswil
+112,Bubikon,Bubikon,105,Hinwil,ZH,1,Zürich,Zürich,Zürich,Bubikon
+113,Dürnten,Dürnten,105,Hinwil,ZH,1,Zürich,Zürich,Zürich,Dürnten
+114,Fischenthal,Fischenthal,105,Hinwil,ZH,1,Zürich,Zürich,Zürich,Fischenthal
+115,Gossau (ZH),Gossau (ZH),105,Hinwil,ZH,1,Zürich,Zürich,Zürich,Gossau (ZH)
+116,Grüningen,Grüningen,105,Hinwil,ZH,1,Zürich,Zürich,Zürich,Grüningen
+117,Hinwil,Hinwil,105,Hinwil,ZH,1,Zürich,Zürich,Zürich,Hinwil
+118,Rüti (ZH),Rüti (ZH),105,Hinwil,ZH,1,Zürich,Zürich,Zürich,Rüti (ZH)
+119,Seegräben,Seegräben,105,Hinwil,ZH,1,Zürich,Zürich,Zürich,Seegräben
+120,Wald (ZH),Wald (ZH),105,Hinwil,ZH,1,Zürich,Zürich,Zürich,Wald (ZH)
+121,Wetzikon (ZH),Wetzikon (ZH),105,Hinwil,ZH,1,Zürich,Zürich,Zürich,Wetzikon (ZH)
+131,Adliswil,Adliswil,106,Horgen,ZH,1,Zürich,Zürich,Zürich,Adliswil
+135,Kilchberg (ZH),Kilchberg (ZH),106,Horgen,ZH,1,Zürich,Zürich,Zürich,Kilchberg (ZH)
+136,Langnau am Albis,Langnau am Albis,106,Horgen,ZH,1,Zürich,Zürich,Zürich,Langnau am Albis
+137,Oberrieden,Oberrieden,106,Horgen,ZH,1,Zürich,Zürich,Zürich,Oberrieden
+138,Richterswil,Richterswil,106,Horgen,ZH,1,Zürich,Zürich,Zürich,Richterswil
+139,Rüschlikon,Rüschlikon,106,Horgen,ZH,1,Zürich,Zürich,Zürich,Rüschlikon
+141,Thalwil,Thalwil,106,Horgen,ZH,1,Zürich,Zürich,Zürich,Thalwil
+151,Erlenbach (ZH),Erlenbach (ZH),107,Meilen,ZH,1,Zürich,Zürich,Zürich,Erlenbach (ZH)
+152,Herrliberg,Herrliberg,107,Meilen,ZH,1,Zürich,Zürich,Zürich,Herrliberg
+153,Hombrechtikon,Hombrechtikon,107,Meilen,ZH,1,Zürich,Zürich,Zürich,Hombrechtikon
+154,Küsnacht (ZH),Küsnacht (ZH),107,Meilen,ZH,1,Zürich,Zürich,Zürich,Küsnacht (ZH)
+155,Männedorf,Männedorf,107,Meilen,ZH,1,Zürich,Zürich,Zürich,Männedorf
+156,Meilen,Meilen,107,Meilen,ZH,1,Zürich,Zürich,Zürich,Meilen
+157,Oetwil am See,Oetwil am See,107,Meilen,ZH,1,Zürich,Zürich,Zürich,Oetwil am See
+158,Stäfa,Stäfa,107,Meilen,ZH,1,Zürich,Zürich,Zürich,Stäfa
+159,Uetikon am See,Uetikon am See,107,Meilen,ZH,1,Zürich,Zürich,Zürich,Uetikon am See
+160,Zumikon,Zumikon,107,Meilen,ZH,1,Zürich,Zürich,Zürich,Zumikon
+161,Zollikon,Zollikon,107,Meilen,ZH,1,Zürich,Zürich,Zürich,Zollikon
+172,Fehraltorf,Fehraltorf,108,Pfäffikon,ZH,1,Zürich,Zürich,Zürich,Fehraltorf
+173,Hittnau,Hittnau,108,Pfäffikon,ZH,1,Zürich,Zürich,Zürich,Hittnau
+176,Lindau,Lindau,108,Pfäffikon,ZH,1,Zürich,Zürich,Zürich,Lindau
+177,Pfäffikon,Pfäffikon,108,Pfäffikon,ZH,1,Zürich,Zürich,Zürich,Pfäffikon
+178,Russikon,Russikon,108,Pfäffikon,ZH,1,Zürich,Zürich,Zürich,Russikon
+180,Weisslingen,Weisslingen,108,Pfäffikon,ZH,1,Zürich,Zürich,Zürich,Weisslingen
+181,Wila,Wila,108,Pfäffikon,ZH,1,Zürich,Zürich,Zürich,Wila
+182,Wildberg,Wildberg,108,Pfäffikon,ZH,1,Zürich,Zürich,Zürich,Wildberg
+191,Dübendorf,Dübendorf,109,Uster,ZH,1,Zürich,Zürich,Zürich,Dübendorf
+192,Egg,Egg,109,Uster,ZH,1,Zürich,Zürich,Zürich,Egg
+193,Fällanden,Fällanden,109,Uster,ZH,1,Zürich,Zürich,Zürich,Fällanden
+194,Greifensee,Greifensee,109,Uster,ZH,1,Zürich,Zürich,Zürich,Greifensee
+195,Maur,Maur,109,Uster,ZH,1,Zürich,Zürich,Zürich,Maur
+196,Mönchaltorf,Mönchaltorf,109,Uster,ZH,1,Zürich,Zürich,Zürich,Mönchaltorf
+197,Schwerzenbach,Schwerzenbach,109,Uster,ZH,1,Zürich,Zürich,Zürich,Schwerzenbach
+198,Uster,Uster,109,Uster,ZH,1,Zürich,Zürich,Zürich,Uster
+199,Volketswil,Volketswil,109,Uster,ZH,1,Zürich,Zürich,Zürich,Volketswil
+200,Wangen-Brüttisellen,Wangen-Brüttisellen,109,Uster,ZH,1,Zürich,Zürich,Zürich,Wangen-Brüttisellen
+211,Altikon,Altikon,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Altikon
+213,Brütten,Brütten,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Brütten
+214,Dägerlen,Dägerlen,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Dägerlen
+215,Dättlikon,Dättlikon,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Dättlikon
+216,Dinhard,Dinhard,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Dinhard
+218,Ellikon an der Thur,Ellikon an der Thur,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Ellikon an der Thur
+219,Elsau,Elsau,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Elsau
+220,Hagenbuch,Hagenbuch,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Hagenbuch
+221,Hettlingen,Hettlingen,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Hettlingen
+223,Neftenbach,Neftenbach,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Neftenbach
+224,Pfungen,Pfungen,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Pfungen
+225,Rickenbach (ZH),Rickenbach (ZH),110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Rickenbach (ZH)
+226,Schlatt (ZH),Schlatt (ZH),110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Schlatt (ZH)
+227,Seuzach,Seuzach,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Seuzach
+228,Turbenthal,Turbenthal,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Turbenthal
+230,Winterthur,Winterthur,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Winterthur
+231,Zell (ZH),Zell (ZH),110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Zell (ZH)
+241,Aesch (ZH),Aesch (ZH),111,Dietikon,ZH,1,Zürich,Zürich,Zürich,Aesch (ZH)
+242,Birmensdorf (ZH),Birmensdorf (ZH),111,Dietikon,ZH,1,Zürich,Zürich,Zürich,Birmensdorf (ZH)
+243,Dietikon,Dietikon,111,Dietikon,ZH,1,Zürich,Zürich,Zürich,Dietikon
+244,Geroldswil,Geroldswil,111,Dietikon,ZH,1,Zürich,Zürich,Zürich,Geroldswil
+245,Oberengstringen,Oberengstringen,111,Dietikon,ZH,1,Zürich,Zürich,Zürich,Oberengstringen
+246,Oetwil an der Limmat,Oetwil an der Limmat,111,Dietikon,ZH,1,Zürich,Zürich,Zürich,Oetwil an der Limmat
+247,Schlieren,Schlieren,111,Dietikon,ZH,1,Zürich,Zürich,Zürich,Schlieren
+248,Uitikon,Uitikon,111,Dietikon,ZH,1,Zürich,Zürich,Zürich,Uitikon
+249,Unterengstringen,Unterengstringen,111,Dietikon,ZH,1,Zürich,Zürich,Zürich,Unterengstringen
+250,Urdorf,Urdorf,111,Dietikon,ZH,1,Zürich,Zürich,Zürich,Urdorf
+251,Weiningen (ZH),Weiningen (ZH),111,Dietikon,ZH,1,Zürich,Zürich,Zürich,Weiningen (ZH)
+261,Zürich,Zürich,112,Zürich,ZH,1,Zürich,Zürich,Zürich,Zürich
+292,Stammheim,Stammheim,102,Andelfingen,ZH,1,Zürich,Zürich,Zürich,Stammheim
+293,Wädenswil,Wädenswil,106,Horgen,ZH,1,Zürich,Zürich,Zürich,Wädenswil
+294,Elgg,Elgg,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Elgg
+295,Horgen,Horgen,106,Horgen,ZH,1,Zürich,Zürich,Zürich,Horgen
+296,Illnau-Effretikon,Illnau-Effretikon,108,Pfäffikon,ZH,1,Zürich,Zürich,Zürich,Illnau-Effretikon
+297,Bauma,Bauma,108,Pfäffikon,ZH,1,Zürich,Zürich,Zürich,Bauma
+298,Wiesendangen,Wiesendangen,110,Winterthur,ZH,1,Zürich,Zürich,Zürich,Wiesendangen
+301,Aarberg,Aarberg,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Aarberg
+302,Bargen (BE),Bargen (BE),243,Seeland,BE,2,Bern / Berne,Bern,Bern,Bargen (BE)
+303,Grossaffoltern,Grossaffoltern,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Grossaffoltern
+304,Kallnach,Kallnach,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Kallnach
+305,Kappelen,Kappelen,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Kappelen
+306,Lyss,Lyss,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Lyss
+307,Meikirch,Meikirch,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Meikirch
+309,Radelfingen,Radelfingen,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Radelfingen
+310,Rapperswil (BE),Rapperswil (BE),243,Seeland,BE,2,Bern / Berne,Bern,Bern,Rapperswil (BE)
+311,Schüpfen,Schüpfen,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Schüpfen
+312,Seedorf (BE),Seedorf (BE),243,Seeland,BE,2,Bern / Berne,Bern,Bern,Seedorf (BE)
+321,Aarwangen,Aarwangen,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Aarwangen
+322,Auswil,Auswil,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Auswil
+323,Bannwil,Bannwil,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Bannwil
+324,Bleienbach,Bleienbach,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Bleienbach
+325,Busswil bei Melchnau,Busswil bei Melchnau,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Busswil bei Melchnau
+326,Gondiswil,Gondiswil,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Gondiswil
+329,Langenthal,Langenthal,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Langenthal
+331,Lotzwil,Lotzwil,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Lotzwil
+332,Madiswil,Madiswil,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Madiswil
+333,Melchnau,Melchnau,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Melchnau
+335,Oeschenbach,Oeschenbach,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Oeschenbach
+336,Reisiswil,Reisiswil,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Reisiswil
+337,Roggwil (BE),Roggwil (BE),244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Roggwil (BE)
+338,Rohrbach,Rohrbach,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Rohrbach
+339,Rohrbachgraben,Rohrbachgraben,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Rohrbachgraben
+340,Rütschelen,Rütschelen,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Rütschelen
+341,Schwarzhäusern,Schwarzhäusern,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Schwarzhäusern
+342,Thunstetten,Thunstetten,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Thunstetten
+344,Ursenbach,Ursenbach,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Ursenbach
+345,Wynau,Wynau,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Wynau
+351,Bern,Bern,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Bern
+352,Bolligen,Bolligen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Bolligen
+353,Bremgarten bei Bern,Bremgarten bei Bern,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Bremgarten bei Bern
+354,Kirchlindach,Kirchlindach,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Kirchlindach
+355,Köniz,Köniz,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Köniz
+356,Muri bei Bern,Muri bei Bern,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Muri bei Bern
+357,Oberbalm,Oberbalm,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Oberbalm
+358,Stettlen,Stettlen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Stettlen
+359,Vechigen,Vechigen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Vechigen
+360,Wohlen bei Bern,Wohlen bei Bern,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Wohlen bei Bern
+361,Zollikofen,Zollikofen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Zollikofen
+362,Ittigen,Ittigen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Ittigen
+363,Ostermundigen,Ostermundigen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Ostermundigen
+371,Biel/Bienne,Biel/Bienne,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Biel/Bienne
+372,Evilard,Evilard,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Evilard
+381,Arch,Arch,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Arch
+382,Büetigen,Büetigen,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Büetigen
+383,Büren an der Aare,Büren an der Aare,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Büren an der Aare
+385,Diessbach bei Büren,Diessbach bei Büren,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Diessbach bei Büren
+386,Dotzigen,Dotzigen,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Dotzigen
+387,Lengnau (BE),Lengnau (BE),242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Lengnau (BE)
+388,Leuzigen,Leuzigen,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Leuzigen
+389,Meienried,Meienried,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Meienried
+390,Meinisberg,Meinisberg,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Meinisberg
+391,Oberwil bei Büren,Oberwil bei Büren,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Oberwil bei Büren
+392,Pieterlen,Pieterlen,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Pieterlen
+393,Rüti bei Büren,Rüti bei Büren,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Rüti bei Büren
+394,Wengi,Wengi,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Wengi
+401,Aefligen,Aefligen,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Aefligen
+402,Alchenstorf,Alchenstorf,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Alchenstorf
+403,Bäriswil,Bäriswil,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Bäriswil
+404,Burgdorf,Burgdorf,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Burgdorf
+405,Ersigen,Ersigen,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Ersigen
+406,Hasle bei Burgdorf,Hasle bei Burgdorf,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Hasle bei Burgdorf
+407,Heimiswil,Heimiswil,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Heimiswil
+408,Hellsau,Hellsau,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Hellsau
+409,Hindelbank,Hindelbank,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Hindelbank
+410,Höchstetten,Höchstetten,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Höchstetten
+411,Kernenried,Kernenried,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Kernenried
+412,Kirchberg (BE),Kirchberg (BE),245,Emmental,BE,2,Bern / Berne,Bern,Bern,Kirchberg (BE)
+413,Koppigen,Koppigen,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Koppigen
+414,Krauchthal,Krauchthal,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Krauchthal
+415,Lyssach,Lyssach,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Lyssach
+418,Oberburg,Oberburg,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Oberburg
+420,Rüdtligen-Alchenflüh,Rüdtligen-Alchenflüh,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Rüdtligen-Alchenflüh
+421,Rumendingen,Rumendingen,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Rumendingen
+422,Rüti bei Lyssach,Rüti bei Lyssach,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Rüti bei Lyssach
+423,Willadingen,Willadingen,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Willadingen
+424,Wynigen,Wynigen,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Wynigen
+431,Corgémont,Corgémont,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Corgémont
+432,Cormoret,Cormoret,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Cormoret
+433,Cortébert,Cortébert,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Cortébert
+434,Courtelary,Courtelary,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Courtelary
+435,La Ferrière,La Ferrière,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,La Ferrière
+437,Mont-Tramelan,Mont-Tramelan,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Mont-Tramelan
+438,Orvin,Orvin,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Orvin
+441,Renan (BE),Renan (BE),241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Renan (BE)
+442,Romont (BE),Romont (BE),241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Romont (BE)
+443,Saint-Imier,Saint-Imier,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Saint-Imier
+444,Sonceboz-Sombeval,Sonceboz-Sombeval,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Sonceboz-Sombeval
+445,Sonvilier,Sonvilier,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Sonvilier
+446,Tramelan,Tramelan,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Tramelan
+448,Villeret,Villeret,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Villeret
+449,Sauge,Sauge,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Sauge
+450,Péry-La Heutte,Péry-La Heutte,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Péry-La Heutte
+491,Brüttelen,Brüttelen,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Brüttelen
+492,Erlach,Erlach,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Erlach
+493,Finsterhennen,Finsterhennen,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Finsterhennen
+494,Gals,Gals,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Gals
+495,Gampelen,Gampelen,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Gampelen
+496,Ins,Ins,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Ins
+497,Lüscherz,Lüscherz,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Lüscherz
+498,Müntschemier,Müntschemier,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Müntschemier
+499,Siselen,Siselen,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Siselen
+500,Treiten,Treiten,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Treiten
+501,Tschugg,Tschugg,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Tschugg
+502,Vinelz,Vinelz,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Vinelz
+533,Bätterkinden,Bätterkinden,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Bätterkinden
+535,Deisswil bei Münchenbuchsee,Deisswil bei Münchenbuchsee,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Deisswil bei Münchenbuchsee
+536,Diemerswil,Diemerswil,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Diemerswil
+538,Fraubrunnen,Fraubrunnen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Fraubrunnen
+540,Jegenstorf,Jegenstorf,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Jegenstorf
+541,Iffwil,Iffwil,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Iffwil
+543,Mattstetten,Mattstetten,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Mattstetten
+544,Moosseedorf,Moosseedorf,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Moosseedorf
+546,Münchenbuchsee,Münchenbuchsee,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Münchenbuchsee
+551,Urtenen-Schönbühl,Urtenen-Schönbühl,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Urtenen-Schönbühl
+552,Utzenstorf,Utzenstorf,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Utzenstorf
+553,Wiggiswil,Wiggiswil,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Wiggiswil
+554,Wiler bei Utzenstorf,Wiler bei Utzenstorf,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Wiler bei Utzenstorf
+556,Zielebach,Zielebach,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Zielebach
+557,Zuzwil (BE),Zuzwil (BE),246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Zuzwil (BE)
+561,Adelboden,Adelboden,249,Frutigen-Niedersimmental,BE,2,Bern / Berne,Bern,Bern,Adelboden
+562,Aeschi bei Spiez,Aeschi bei Spiez,249,Frutigen-Niedersimmental,BE,2,Bern / Berne,Bern,Bern,Aeschi bei Spiez
+563,Frutigen,Frutigen,249,Frutigen-Niedersimmental,BE,2,Bern / Berne,Bern,Bern,Frutigen
+564,Kandergrund,Kandergrund,249,Frutigen-Niedersimmental,BE,2,Bern / Berne,Bern,Bern,Kandergrund
+565,Kandersteg,Kandersteg,249,Frutigen-Niedersimmental,BE,2,Bern / Berne,Bern,Bern,Kandersteg
+566,Krattigen,Krattigen,249,Frutigen-Niedersimmental,BE,2,Bern / Berne,Bern,Bern,Krattigen
+567,Reichenbach im Kandertal,Reichenbach im Kandertal,249,Frutigen-Niedersimmental,BE,2,Bern / Berne,Bern,Bern,Reichenbach im Kandertal
+571,Beatenberg,Beatenberg,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Beatenberg
+572,Bönigen,Bönigen,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Bönigen
+573,Brienz (BE),Brienz (BE),250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Brienz (BE)
+574,Brienzwiler,Brienzwiler,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Brienzwiler
+575,Därligen,Därligen,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Därligen
+576,Grindelwald,Grindelwald,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Grindelwald
+577,Gsteigwiler,Gsteigwiler,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Gsteigwiler
+578,Gündlischwand,Gündlischwand,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Gündlischwand
+579,Habkern,Habkern,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Habkern
+580,Hofstetten bei Brienz,Hofstetten bei Brienz,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Hofstetten bei Brienz
+581,Interlaken,Interlaken,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Interlaken
+582,Iseltwald,Iseltwald,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Iseltwald
+584,Lauterbrunnen,Lauterbrunnen,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Lauterbrunnen
+585,Leissigen,Leissigen,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Leissigen
+586,Lütschental,Lütschental,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Lütschental
+587,Matten bei Interlaken,Matten bei Interlaken,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Matten bei Interlaken
+588,Niederried bei Interlaken,Niederried bei Interlaken,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Niederried bei Interlaken
+589,Oberried am Brienzersee,Oberried am Brienzersee,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Oberried am Brienzersee
+590,Ringgenberg (BE),Ringgenberg (BE),250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Ringgenberg (BE)
+591,Saxeten,Saxeten,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Saxeten
+592,Schwanden bei Brienz,Schwanden bei Brienz,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Schwanden bei Brienz
+593,Unterseen,Unterseen,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Unterseen
+594,Wilderswil,Wilderswil,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Wilderswil
+602,Arni (BE),Arni (BE),246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Arni (BE)
+603,Biglen,Biglen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Biglen
+605,Bowil,Bowil,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Bowil
+606,Brenzikofen,Brenzikofen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Brenzikofen
+607,Freimettigen,Freimettigen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Freimettigen
+608,Grosshöchstetten,Grosshöchstetten,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Grosshöchstetten
+609,Häutligen,Häutligen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Häutligen
+610,Herbligen,Herbligen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Herbligen
+611,Kiesen,Kiesen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Kiesen
+612,Konolfingen,Konolfingen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Konolfingen
+613,Landiswil,Landiswil,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Landiswil
+614,Linden,Linden,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Linden
+615,Mirchel,Mirchel,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Mirchel
+616,Münsingen,Münsingen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Münsingen
+617,Niederhünigen,Niederhünigen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Niederhünigen
+619,Oberdiessbach,Oberdiessbach,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Oberdiessbach
+620,Oberthal,Oberthal,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Oberthal
+622,Oppligen,Oppligen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Oppligen
+623,Rubigen,Rubigen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Rubigen
+626,Walkringen,Walkringen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Walkringen
+627,Worb,Worb,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Worb
+628,Zäziwil,Zäziwil,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Zäziwil
+629,Oberhünigen,Oberhünigen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Oberhünigen
+630,Allmendingen,Allmendingen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Allmendingen
+632,Wichtrach,Wichtrach,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Wichtrach
+662,Ferenbalm,Ferenbalm,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Ferenbalm
+663,Frauenkappelen,Frauenkappelen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Frauenkappelen
+665,Gurbrü,Gurbrü,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Gurbrü
+666,Kriechenwil,Kriechenwil,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Kriechenwil
+667,Laupen,Laupen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Laupen
+668,Mühleberg,Mühleberg,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Mühleberg
+669,Münchenwiler,Münchenwiler,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Münchenwiler
+670,Neuenegg,Neuenegg,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Neuenegg
+671,Wileroltigen,Wileroltigen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Wileroltigen
+681,Belprahon,Belprahon,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Belprahon
+683,Champoz,Champoz,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Champoz
+687,Corcelles (BE),Corcelles (BE),241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Corcelles (BE)
+690,Court,Court,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Court
+691,Crémines,Crémines,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Crémines
+692,Eschert,Eschert,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Eschert
+694,Grandval,Grandval,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Grandval
+696,Loveresse,Loveresse,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Loveresse
+700,Moutier,Moutier,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Moutier
+701,Perrefitte,Perrefitte,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Perrefitte
+703,Reconvilier,Reconvilier,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Reconvilier
+704,Roches (BE),Roches (BE),241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Roches (BE)
+706,Saicourt,Saicourt,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Saicourt
+707,Saules (BE),Saules (BE),241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Saules (BE)
+708,Schelten,Schelten,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Schelten
+709,Seehof,Seehof,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Seehof
+711,Sorvilier,Sorvilier,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Sorvilier
+713,Tavannes,Tavannes,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Tavannes
+715,Rebévelier,Rebévelier,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Rebévelier
+716,Petit-Val,Petit-Val,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Petit-Val
+717,Valbirse,Valbirse,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Valbirse
+723,La Neuveville,La Neuveville,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,La Neuveville
+724,Nods,Nods,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Nods
+726,Plateau de Diesse,Plateau de Diesse,241,Jura bernois,BE,2,Bern / Berne,Bern,Bern,Plateau de Diesse
+731,Aegerten,Aegerten,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Aegerten
+732,Bellmund,Bellmund,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Bellmund
+733,Brügg,Brügg,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Brügg
+734,Bühl,Bühl,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Bühl
+735,Epsach,Epsach,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Epsach
+736,Hagneck,Hagneck,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Hagneck
+737,Hermrigen,Hermrigen,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Hermrigen
+738,Jens,Jens,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Jens
+739,Ipsach,Ipsach,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Ipsach
+740,Ligerz,Ligerz,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Ligerz
+741,Merzligen,Merzligen,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Merzligen
+742,Mörigen,Mörigen,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Mörigen
+743,Nidau,Nidau,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Nidau
+744,Orpund,Orpund,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Orpund
+745,Port,Port,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Port
+746,Safnern,Safnern,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Safnern
+747,Scheuren,Scheuren,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Scheuren
+748,Schwadernau,Schwadernau,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Schwadernau
+749,Studen (BE),Studen (BE),243,Seeland,BE,2,Bern / Berne,Bern,Bern,Studen (BE)
+750,Sutz-Lattrigen,Sutz-Lattrigen,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Sutz-Lattrigen
+751,Täuffelen,Täuffelen,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Täuffelen
+754,Walperswil,Walperswil,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Walperswil
+755,Worben,Worben,243,Seeland,BE,2,Bern / Berne,Bern,Bern,Worben
+756,Twann-Tüscherz,Twann-Tüscherz,242,Biel/Bienne,BE,2,Bern / Berne,Bern,Bern,Twann-Tüscherz
+761,Därstetten,Därstetten,249,Frutigen-Niedersimmental,BE,2,Bern / Berne,Bern,Bern,Därstetten
+762,Diemtigen,Diemtigen,249,Frutigen-Niedersimmental,BE,2,Bern / Berne,Bern,Bern,Diemtigen
+763,Erlenbach im Simmental,Erlenbach im Simmental,249,Frutigen-Niedersimmental,BE,2,Bern / Berne,Bern,Bern,Erlenbach im Simmental
+766,Oberwil im Simmental,Oberwil im Simmental,249,Frutigen-Niedersimmental,BE,2,Bern / Berne,Bern,Bern,Oberwil im Simmental
+767,Reutigen,Reutigen,247,Thun,BE,2,Bern / Berne,Bern,Bern,Reutigen
+768,Spiez,Spiez,249,Frutigen-Niedersimmental,BE,2,Bern / Berne,Bern,Bern,Spiez
+769,Wimmis,Wimmis,249,Frutigen-Niedersimmental,BE,2,Bern / Berne,Bern,Bern,Wimmis
+770,Stocken-Höfen,Stocken-Höfen,247,Thun,BE,2,Bern / Berne,Bern,Bern,Stocken-Höfen
+782,Guttannen,Guttannen,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Guttannen
+783,Hasliberg,Hasliberg,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Hasliberg
+784,Innertkirchen,Innertkirchen,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Innertkirchen
+785,Meiringen,Meiringen,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Meiringen
+786,Schattenhalb,Schattenhalb,250,Interlaken-Oberhasli,BE,2,Bern / Berne,Bern,Bern,Schattenhalb
+791,Boltigen,Boltigen,248,Obersimmental-Saanen,BE,2,Bern / Berne,Bern,Bern,Boltigen
+792,Lenk,Lenk,248,Obersimmental-Saanen,BE,2,Bern / Berne,Bern,Bern,Lenk
+793,St. Stephan,St. Stephan,248,Obersimmental-Saanen,BE,2,Bern / Berne,Bern,Bern,St. Stephan
+794,Zweisimmen,Zweisimmen,248,Obersimmental-Saanen,BE,2,Bern / Berne,Bern,Bern,Zweisimmen
+841,Gsteig,Gsteig,248,Obersimmental-Saanen,BE,2,Bern / Berne,Bern,Bern,Gsteig
+842,Lauenen,Lauenen,248,Obersimmental-Saanen,BE,2,Bern / Berne,Bern,Bern,Lauenen
+843,Saanen,Saanen,248,Obersimmental-Saanen,BE,2,Bern / Berne,Bern,Bern,Saanen
+852,Guggisberg,Guggisberg,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Guggisberg
+853,Rüschegg,Rüschegg,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Rüschegg
+855,Schwarzenburg,Schwarzenburg,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Schwarzenburg
+861,Belp,Belp,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Belp
+863,Burgistein,Burgistein,247,Thun,BE,2,Bern / Berne,Bern,Bern,Burgistein
+866,Gerzensee,Gerzensee,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Gerzensee
+867,Gurzelen,Gurzelen,247,Thun,BE,2,Bern / Berne,Bern,Bern,Gurzelen
+868,Jaberg,Jaberg,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Jaberg
+869,Kaufdorf,Kaufdorf,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Kaufdorf
+870,Kehrsatz,Kehrsatz,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Kehrsatz
+872,Kirchdorf (BE),Kirchdorf (BE),246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Kirchdorf (BE)
+877,Niedermuhlern,Niedermuhlern,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Niedermuhlern
+879,Riggisberg,Riggisberg,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Riggisberg
+880,Rüeggisberg,Rüeggisberg,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Rüeggisberg
+883,Seftigen,Seftigen,247,Thun,BE,2,Bern / Berne,Bern,Bern,Seftigen
+884,Toffen,Toffen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Toffen
+885,Uttigen,Uttigen,247,Thun,BE,2,Bern / Berne,Bern,Bern,Uttigen
+886,Wattenwil,Wattenwil,247,Thun,BE,2,Bern / Berne,Bern,Bern,Wattenwil
+888,Wald (BE),Wald (BE),246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Wald (BE)
+889,Thurnen,Thurnen,246,Bern-Mittelland,BE,2,Bern / Berne,Bern,Bern,Thurnen
+901,Eggiwil,Eggiwil,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Eggiwil
+902,Langnau im Emmental,Langnau im Emmental,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Langnau im Emmental
+903,Lauperswil,Lauperswil,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Lauperswil
+904,Röthenbach im Emmental,Röthenbach im Emmental,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Röthenbach im Emmental
+905,Rüderswil,Rüderswil,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Rüderswil
+906,Schangnau,Schangnau,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Schangnau
+907,Signau,Signau,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Signau
+908,Trub,Trub,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Trub
+909,Trubschachen,Trubschachen,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Trubschachen
+921,Amsoldingen,Amsoldingen,247,Thun,BE,2,Bern / Berne,Bern,Bern,Amsoldingen
+922,Blumenstein,Blumenstein,247,Thun,BE,2,Bern / Berne,Bern,Bern,Blumenstein
+923,Buchholterberg,Buchholterberg,247,Thun,BE,2,Bern / Berne,Bern,Bern,Buchholterberg
+924,Eriz,Eriz,247,Thun,BE,2,Bern / Berne,Bern,Bern,Eriz
+925,Fahrni,Fahrni,247,Thun,BE,2,Bern / Berne,Bern,Bern,Fahrni
+927,Heiligenschwendi,Heiligenschwendi,247,Thun,BE,2,Bern / Berne,Bern,Bern,Heiligenschwendi
+928,Heimberg,Heimberg,247,Thun,BE,2,Bern / Berne,Bern,Bern,Heimberg
+929,Hilterfingen,Hilterfingen,247,Thun,BE,2,Bern / Berne,Bern,Bern,Hilterfingen
+931,Homberg,Homberg,247,Thun,BE,2,Bern / Berne,Bern,Bern,Homberg
+932,Horrenbach-Buchen,Horrenbach-Buchen,247,Thun,BE,2,Bern / Berne,Bern,Bern,Horrenbach-Buchen
+934,Oberhofen am Thunersee,Oberhofen am Thunersee,247,Thun,BE,2,Bern / Berne,Bern,Bern,Oberhofen am Thunersee
+935,Oberlangenegg,Oberlangenegg,247,Thun,BE,2,Bern / Berne,Bern,Bern,Oberlangenegg
+936,Pohlern,Pohlern,247,Thun,BE,2,Bern / Berne,Bern,Bern,Pohlern
+938,Sigriswil,Sigriswil,247,Thun,BE,2,Bern / Berne,Bern,Bern,Sigriswil
+939,Steffisburg,Steffisburg,247,Thun,BE,2,Bern / Berne,Bern,Bern,Steffisburg
+940,Teuffenthal (BE),Teuffenthal (BE),247,Thun,BE,2,Bern / Berne,Bern,Bern,Teuffenthal (BE)
+941,Thierachern,Thierachern,247,Thun,BE,2,Bern / Berne,Bern,Bern,Thierachern
+942,Thun,Thun,247,Thun,BE,2,Bern / Berne,Bern,Bern,Thun
+943,Uebeschi,Uebeschi,247,Thun,BE,2,Bern / Berne,Bern,Bern,Uebeschi
+944,Uetendorf,Uetendorf,247,Thun,BE,2,Bern / Berne,Bern,Bern,Uetendorf
+945,Unterlangenegg,Unterlangenegg,247,Thun,BE,2,Bern / Berne,Bern,Bern,Unterlangenegg
+946,Wachseldorn,Wachseldorn,247,Thun,BE,2,Bern / Berne,Bern,Bern,Wachseldorn
+947,Zwieselberg,Zwieselberg,247,Thun,BE,2,Bern / Berne,Bern,Bern,Zwieselberg
+948,Forst-Längenbühl,Forst-Längenbühl,247,Thun,BE,2,Bern / Berne,Bern,Bern,Forst-Längenbühl
+951,Affoltern im Emmental,Affoltern im Emmental,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Affoltern im Emmental
+952,Dürrenroth,Dürrenroth,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Dürrenroth
+953,Eriswil,Eriswil,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Eriswil
+954,Huttwil,Huttwil,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Huttwil
+955,Lützelflüh,Lützelflüh,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Lützelflüh
+956,Rüegsau,Rüegsau,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Rüegsau
+957,Sumiswald,Sumiswald,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Sumiswald
+958,Trachselwald,Trachselwald,245,Emmental,BE,2,Bern / Berne,Bern,Bern,Trachselwald
+959,Walterswil (BE),Walterswil (BE),244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Walterswil (BE)
+960,Wyssachen,Wyssachen,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Wyssachen
+971,Attiswil,Attiswil,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Attiswil
+972,Berken,Berken,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Berken
+973,Bettenhausen,Bettenhausen,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Bettenhausen
+975,Farnern,Farnern,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Farnern
+976,Graben,Graben,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Graben
+977,Heimenhausen,Heimenhausen,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Heimenhausen
+979,Herzogenbuchsee,Herzogenbuchsee,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Herzogenbuchsee
+980,Inkwil,Inkwil,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Inkwil
+981,Niederbipp,Niederbipp,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Niederbipp
+982,Niederönz,Niederönz,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Niederönz
+983,Oberbipp,Oberbipp,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Oberbipp
+985,Ochlenberg,Ochlenberg,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Ochlenberg
+987,Rumisberg,Rumisberg,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Rumisberg
+988,Seeberg,Seeberg,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Seeberg
+989,Thörigen,Thörigen,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Thörigen
+990,Walliswil bei Niederbipp,Walliswil bei Niederbipp,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Walliswil bei Niederbipp
+991,Walliswil bei Wangen,Walliswil bei Wangen,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Walliswil bei Wangen
+992,Wangen an der Aare,Wangen an der Aare,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Wangen an der Aare
+993,Wangenried,Wangenried,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Wangenried
+995,Wiedlisbach,Wiedlisbach,244,Oberaargau,BE,2,Bern / Berne,Bern,Bern,Wiedlisbach
+1001,Doppleschwand,Doppleschwand,316,Entlebuch,LU,3,Luzern,Luzern,Luzern,Doppleschwand
+1002,Entlebuch,Entlebuch,316,Entlebuch,LU,3,Luzern,Luzern,Luzern,Entlebuch
+1004,Flühli,Flühli,316,Entlebuch,LU,3,Luzern,Luzern,Luzern,Flühli
+1005,Hasle (LU),Hasle (LU),316,Entlebuch,LU,3,Luzern,Luzern,Luzern,Hasle (LU)
+1007,Romoos,Romoos,316,Entlebuch,LU,3,Luzern,Luzern,Luzern,Romoos
+1008,Schüpfheim,Schüpfheim,316,Entlebuch,LU,3,Luzern,Luzern,Luzern,Schüpfheim
+1009,Werthenstein,Werthenstein,316,Entlebuch,LU,3,Luzern,Luzern,Luzern,Werthenstein
+1010,Escholzmatt-Marbach,Escholzmatt-Marbach,316,Entlebuch,LU,3,Luzern,Luzern,Luzern,Escholzmatt-Marbach
+1021,Aesch (LU),Aesch (LU),313,Hochdorf,LU,3,Luzern,Luzern,Luzern,Aesch (LU)
+1023,Ballwil,Ballwil,313,Hochdorf,LU,3,Luzern,Luzern,Luzern,Ballwil
+1024,Emmen,Emmen,313,Hochdorf,LU,3,Luzern,Luzern,Luzern,Emmen
+1025,Ermensee,Ermensee,313,Hochdorf,LU,3,Luzern,Luzern,Luzern,Ermensee
+1026,Eschenbach (LU),Eschenbach (LU),313,Hochdorf,LU,3,Luzern,Luzern,Luzern,Eschenbach (LU)
+1030,Hitzkirch,Hitzkirch,313,Hochdorf,LU,3,Luzern,Luzern,Luzern,Hitzkirch
+1031,Hochdorf,Hochdorf,313,Hochdorf,LU,3,Luzern,Luzern,Luzern,Hochdorf
+1032,Hohenrain,Hohenrain,313,Hochdorf,LU,3,Luzern,Luzern,Luzern,Hohenrain
+1033,Inwil,Inwil,313,Hochdorf,LU,3,Luzern,Luzern,Luzern,Inwil
+1037,Rain,Rain,313,Hochdorf,LU,3,Luzern,Luzern,Luzern,Rain
+1039,Römerswil,Römerswil,313,Hochdorf,LU,3,Luzern,Luzern,Luzern,Römerswil
+1040,Rothenburg,Rothenburg,313,Hochdorf,LU,3,Luzern,Luzern,Luzern,Rothenburg
+1041,Schongau,Schongau,313,Hochdorf,LU,3,Luzern,Luzern,Luzern,Schongau
+1051,Adligenswil,Adligenswil,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Adligenswil
+1052,Buchrain,Buchrain,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Buchrain
+1053,Dierikon,Dierikon,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Dierikon
+1054,Ebikon,Ebikon,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Ebikon
+1055,Gisikon,Gisikon,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Gisikon
+1056,Greppen,Greppen,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Greppen
+1057,Honau,Honau,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Honau
+1058,Horw,Horw,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Horw
+1059,Kriens,Kriens,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Kriens
+1061,Luzern,Luzern,311,Luzern-Stadt,LU,3,Luzern,Luzern,Luzern,Luzern
+1062,Malters,Malters,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Malters
+1063,Meggen,Meggen,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Meggen
+1064,Meierskappel,Meierskappel,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Meierskappel
+1065,Root,Root,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Root
+1066,Schwarzenberg,Schwarzenberg,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Schwarzenberg
+1067,Udligenswil,Udligenswil,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Udligenswil
+1068,Vitznau,Vitznau,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Vitznau
+1069,Weggis,Weggis,312,Luzern-Land,LU,3,Luzern,Luzern,Luzern,Weggis
+1081,Beromünster,Beromünster,314,Sursee,LU,3,Luzern,Luzern,Luzern,Beromünster
+1082,Büron,Büron,314,Sursee,LU,3,Luzern,Luzern,Luzern,Büron
+1083,Buttisholz,Buttisholz,314,Sursee,LU,3,Luzern,Luzern,Luzern,Buttisholz
+1084,Eich,Eich,314,Sursee,LU,3,Luzern,Luzern,Luzern,Eich
+1085,Geuensee,Geuensee,314,Sursee,LU,3,Luzern,Luzern,Luzern,Geuensee
+1086,Grosswangen,Grosswangen,314,Sursee,LU,3,Luzern,Luzern,Luzern,Grosswangen
+1088,Hildisrieden,Hildisrieden,314,Sursee,LU,3,Luzern,Luzern,Luzern,Hildisrieden
+1089,Knutwil,Knutwil,314,Sursee,LU,3,Luzern,Luzern,Luzern,Knutwil
+1091,Mauensee,Mauensee,314,Sursee,LU,3,Luzern,Luzern,Luzern,Mauensee
+1093,Neuenkirch,Neuenkirch,314,Sursee,LU,3,Luzern,Luzern,Luzern,Neuenkirch
+1094,Nottwil,Nottwil,314,Sursee,LU,3,Luzern,Luzern,Luzern,Nottwil
+1095,Oberkirch,Oberkirch,314,Sursee,LU,3,Luzern,Luzern,Luzern,Oberkirch
+1097,Rickenbach (LU),Rickenbach (LU),314,Sursee,LU,3,Luzern,Luzern,Luzern,Rickenbach (LU)
+1098,Ruswil,Ruswil,314,Sursee,LU,3,Luzern,Luzern,Luzern,Ruswil
+1099,Schenkon,Schenkon,314,Sursee,LU,3,Luzern,Luzern,Luzern,Schenkon
+1100,Schlierbach,Schlierbach,314,Sursee,LU,3,Luzern,Luzern,Luzern,Schlierbach
+1102,Sempach,Sempach,314,Sursee,LU,3,Luzern,Luzern,Luzern,Sempach
+1103,Sursee,Sursee,314,Sursee,LU,3,Luzern,Luzern,Luzern,Sursee
+1104,Triengen,Triengen,314,Sursee,LU,3,Luzern,Luzern,Luzern,Triengen
+1107,Wolhusen,Wolhusen,316,Entlebuch,LU,3,Luzern,Luzern,Luzern,Wolhusen
+1121,Alberswil,Alberswil,315,Willisau,LU,3,Luzern,Luzern,Luzern,Alberswil
+1122,Altbüron,Altbüron,315,Willisau,LU,3,Luzern,Luzern,Luzern,Altbüron
+1123,Altishofen,Altishofen,315,Willisau,LU,3,Luzern,Luzern,Luzern,Altishofen
+1125,Dagmersellen,Dagmersellen,315,Willisau,LU,3,Luzern,Luzern,Luzern,Dagmersellen
+1127,Egolzwil,Egolzwil,315,Willisau,LU,3,Luzern,Luzern,Luzern,Egolzwil
+1128,Ettiswil,Ettiswil,315,Willisau,LU,3,Luzern,Luzern,Luzern,Ettiswil
+1129,Fischbach,Fischbach,315,Willisau,LU,3,Luzern,Luzern,Luzern,Fischbach
+1131,Grossdietwil,Grossdietwil,315,Willisau,LU,3,Luzern,Luzern,Luzern,Grossdietwil
+1132,Hergiswil bei Willisau,Hergiswil bei Willisau,315,Willisau,LU,3,Luzern,Luzern,Luzern,Hergiswil bei Willisau
+1135,Luthern,Luthern,315,Willisau,LU,3,Luzern,Luzern,Luzern,Luthern
+1136,Menznau,Menznau,315,Willisau,LU,3,Luzern,Luzern,Luzern,Menznau
+1137,Nebikon,Nebikon,315,Willisau,LU,3,Luzern,Luzern,Luzern,Nebikon
+1139,Pfaffnau,Pfaffnau,315,Willisau,LU,3,Luzern,Luzern,Luzern,Pfaffnau
+1140,Reiden,Reiden,315,Willisau,LU,3,Luzern,Luzern,Luzern,Reiden
+1142,Roggliswil,Roggliswil,315,Willisau,LU,3,Luzern,Luzern,Luzern,Roggliswil
+1143,Schötz,Schötz,315,Willisau,LU,3,Luzern,Luzern,Luzern,Schötz
+1145,Ufhusen,Ufhusen,315,Willisau,LU,3,Luzern,Luzern,Luzern,Ufhusen
+1146,Wauwil,Wauwil,315,Willisau,LU,3,Luzern,Luzern,Luzern,Wauwil
+1147,Wikon,Wikon,315,Willisau,LU,3,Luzern,Luzern,Luzern,Wikon
+1150,Zell (LU),Zell (LU),315,Willisau,LU,3,Luzern,Luzern,Luzern,Zell (LU)
+1151,Willisau,Willisau,315,Willisau,LU,3,Luzern,Luzern,Luzern,Willisau
+1201,Altdorf (UR),Altdorf (UR),400,Kt. Uri,UR,4,Uri,Uri,Uri,Altdorf (UR)
+1202,Andermatt,Andermatt,400,Kt. Uri,UR,4,Uri,Uri,Uri,Andermatt
+1203,Attinghausen,Attinghausen,400,Kt. Uri,UR,4,Uri,Uri,Uri,Attinghausen
+1205,Bürglen (UR),Bürglen (UR),400,Kt. Uri,UR,4,Uri,Uri,Uri,Bürglen (UR)
+1206,Erstfeld,Erstfeld,400,Kt. Uri,UR,4,Uri,Uri,Uri,Erstfeld
+1207,Flüelen,Flüelen,400,Kt. Uri,UR,4,Uri,Uri,Uri,Flüelen
+1208,Göschenen,Göschenen,400,Kt. Uri,UR,4,Uri,Uri,Uri,Göschenen
+1209,Gurtnellen,Gurtnellen,400,Kt. Uri,UR,4,Uri,Uri,Uri,Gurtnellen
+1210,Hospental,Hospental,400,Kt. Uri,UR,4,Uri,Uri,Uri,Hospental
+1211,Isenthal,Isenthal,400,Kt. Uri,UR,4,Uri,Uri,Uri,Isenthal
+1212,Realp,Realp,400,Kt. Uri,UR,4,Uri,Uri,Uri,Realp
+1213,Schattdorf,Schattdorf,400,Kt. Uri,UR,4,Uri,Uri,Uri,Schattdorf
+1214,Seedorf (UR),Seedorf (UR),400,Kt. Uri,UR,4,Uri,Uri,Uri,Seedorf (UR)
+1215,Seelisberg,Seelisberg,400,Kt. Uri,UR,4,Uri,Uri,Uri,Seelisberg
+1216,Silenen,Silenen,400,Kt. Uri,UR,4,Uri,Uri,Uri,Silenen
+1217,Sisikon,Sisikon,400,Kt. Uri,UR,4,Uri,Uri,Uri,Sisikon
+1218,Spiringen,Spiringen,400,Kt. Uri,UR,4,Uri,Uri,Uri,Spiringen
+1219,Unterschächen,Unterschächen,400,Kt. Uri,UR,4,Uri,Uri,Uri,Unterschächen
+1220,Wassen,Wassen,400,Kt. Uri,UR,4,Uri,Uri,Uri,Wassen
+1301,Einsiedeln,Einsiedeln,501,Einsiedeln,SZ,5,Schwyz,Schwyz,Schwyz,Einsiedeln
+1311,Gersau,Gersau,502,Gersau,SZ,5,Schwyz,Schwyz,Schwyz,Gersau
+1321,Feusisberg,Feusisberg,503,Höfe,SZ,5,Schwyz,Schwyz,Schwyz,Feusisberg
+1322,Freienbach,Freienbach,503,Höfe,SZ,5,Schwyz,Schwyz,Schwyz,Freienbach
+1323,Wollerau,Wollerau,503,Höfe,SZ,5,Schwyz,Schwyz,Schwyz,Wollerau
+1331,Küssnacht (SZ),Küssnacht (SZ),504,Küssnacht (SZ),SZ,5,Schwyz,Schwyz,Schwyz,Küssnacht (SZ)
+1341,Altendorf,Altendorf,505,March,SZ,5,Schwyz,Schwyz,Schwyz,Altendorf
+1342,Galgenen,Galgenen,505,March,SZ,5,Schwyz,Schwyz,Schwyz,Galgenen
+1343,Innerthal,Innerthal,505,March,SZ,5,Schwyz,Schwyz,Schwyz,Innerthal
+1344,Lachen,Lachen,505,March,SZ,5,Schwyz,Schwyz,Schwyz,Lachen
+1345,Reichenburg,Reichenburg,505,March,SZ,5,Schwyz,Schwyz,Schwyz,Reichenburg
+1346,Schübelbach,Schübelbach,505,March,SZ,5,Schwyz,Schwyz,Schwyz,Schübelbach
+1347,Tuggen,Tuggen,505,March,SZ,5,Schwyz,Schwyz,Schwyz,Tuggen
+1348,Vorderthal,Vorderthal,505,March,SZ,5,Schwyz,Schwyz,Schwyz,Vorderthal
+1349,Wangen (SZ),Wangen (SZ),505,March,SZ,5,Schwyz,Schwyz,Schwyz,Wangen (SZ)
+1361,Alpthal,Alpthal,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Alpthal
+1362,Arth,Arth,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Arth
+1363,Illgau,Illgau,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Illgau
+1364,Ingenbohl,Ingenbohl,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Ingenbohl
+1365,Lauerz,Lauerz,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Lauerz
+1366,Morschach,Morschach,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Morschach
+1367,Muotathal,Muotathal,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Muotathal
+1368,Oberiberg,Oberiberg,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Oberiberg
+1369,Riemenstalden,Riemenstalden,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Riemenstalden
+1370,Rothenthurm,Rothenthurm,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Rothenthurm
+1371,Sattel,Sattel,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Sattel
+1372,Schwyz,Schwyz,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Schwyz
+1373,Steinen,Steinen,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Steinen
+1374,Steinerberg,Steinerberg,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Steinerberg
+1375,Unteriberg,Unteriberg,506,Schwyz,SZ,5,Schwyz,Schwyz,Schwyz,Unteriberg
+1401,Alpnach,Alpnach,600,Kt. Obwalden,OW,6,Obwalden,Obwalden,Obwalden,Alpnach
+1402,Engelberg,Engelberg,600,Kt. Obwalden,OW,6,Obwalden,Obwalden,Obwalden,Engelberg
+1403,Giswil,Giswil,600,Kt. Obwalden,OW,6,Obwalden,Obwalden,Obwalden,Giswil
+1404,Kerns,Kerns,600,Kt. Obwalden,OW,6,Obwalden,Obwalden,Obwalden,Kerns
+1405,Lungern,Lungern,600,Kt. Obwalden,OW,6,Obwalden,Obwalden,Obwalden,Lungern
+1406,Sachseln,Sachseln,600,Kt. Obwalden,OW,6,Obwalden,Obwalden,Obwalden,Sachseln
+1407,Sarnen,Sarnen,600,Kt. Obwalden,OW,6,Obwalden,Obwalden,Obwalden,Sarnen
+1501,Beckenried,Beckenried,700,Kt. Nidwalden,NW,7,Nidwalden,Nidwalden,Nidwalden,Beckenried
+1502,Buochs,Buochs,700,Kt. Nidwalden,NW,7,Nidwalden,Nidwalden,Nidwalden,Buochs
+1503,Dallenwil,Dallenwil,700,Kt. Nidwalden,NW,7,Nidwalden,Nidwalden,Nidwalden,Dallenwil
+1504,Emmetten,Emmetten,700,Kt. Nidwalden,NW,7,Nidwalden,Nidwalden,Nidwalden,Emmetten
+1505,Ennetbürgen,Ennetbürgen,700,Kt. Nidwalden,NW,7,Nidwalden,Nidwalden,Nidwalden,Ennetbürgen
+1506,Ennetmoos,Ennetmoos,700,Kt. Nidwalden,NW,7,Nidwalden,Nidwalden,Nidwalden,Ennetmoos
+1507,Hergiswil (NW),Hergiswil (NW),700,Kt. Nidwalden,NW,7,Nidwalden,Nidwalden,Nidwalden,Hergiswil (NW)
+1508,Oberdorf (NW),Oberdorf (NW),700,Kt. Nidwalden,NW,7,Nidwalden,Nidwalden,Nidwalden,Oberdorf (NW)
+1509,Stans,Stans,700,Kt. Nidwalden,NW,7,Nidwalden,Nidwalden,Nidwalden,Stans
+1510,Stansstad,Stansstad,700,Kt. Nidwalden,NW,7,Nidwalden,Nidwalden,Nidwalden,Stansstad
+1511,Wolfenschiessen,Wolfenschiessen,700,Kt. Nidwalden,NW,7,Nidwalden,Nidwalden,Nidwalden,Wolfenschiessen
+1630,Glarus Nord,Glarus Nord,800,Kt. Glarus,GL,8,Glarus,Glarus,Glarus,Glarus Nord
+1631,Glarus Süd,Glarus Süd,800,Kt. Glarus,GL,8,Glarus,Glarus,Glarus,Glarus Süd
+1632,Glarus,Glarus,800,Kt. Glarus,GL,8,Glarus,Glarus,Glarus,Glarus
+1701,Baar,Baar,900,Kt. Zug,ZG,9,Zug,Zug,Zug,Baar
+1702,Cham,Cham,900,Kt. Zug,ZG,9,Zug,Zug,Zug,Cham
+1703,Hünenberg,Hünenberg,900,Kt. Zug,ZG,9,Zug,Zug,Zug,Hünenberg
+1704,Menzingen,Menzingen,900,Kt. Zug,ZG,9,Zug,Zug,Zug,Menzingen
+1705,Neuheim,Neuheim,900,Kt. Zug,ZG,9,Zug,Zug,Zug,Neuheim
+1706,Oberägeri,Oberägeri,900,Kt. Zug,ZG,9,Zug,Zug,Zug,Oberägeri
+1707,Risch,Risch,900,Kt. Zug,ZG,9,Zug,Zug,Zug,Risch
+1708,Steinhausen,Steinhausen,900,Kt. Zug,ZG,9,Zug,Zug,Zug,Steinhausen
+1709,Unterägeri,Unterägeri,900,Kt. Zug,ZG,9,Zug,Zug,Zug,Unterägeri
+1710,Walchwil,Walchwil,900,Kt. Zug,ZG,9,Zug,Zug,Zug,Walchwil
+1711,Zug,Zug,900,Kt. Zug,ZG,9,Zug,Zug,Zug,Zug
+2008,Châtillon (FR),Châtillon (FR),1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Châtillon (FR)
+2011,Cugy (FR),Cugy (FR),1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Cugy (FR)
+2016,Fétigny,Fétigny,1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Fétigny
+2022,Gletterens,Gletterens,1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Gletterens
+2025,Lully (FR),Lully (FR),1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Lully (FR)
+2027,Ménières,Ménières,1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Ménières
+2029,Montagny (FR),Montagny (FR),1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Montagny (FR)
+2035,Nuvilly,Nuvilly,1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Nuvilly
+2038,Prévondavaux,Prévondavaux,1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Prévondavaux
+2041,Saint-Aubin (FR),Saint-Aubin (FR),1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Saint-Aubin (FR)
+2043,Sévaz,Sévaz,1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Sévaz
+2044,Surpierre,Surpierre,1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Surpierre
+2045,Vallon,Vallon,1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Vallon
+2050,Les Montets,Les Montets,1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Les Montets
+2051,Delley-Portalban,Delley-Portalban,1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Delley-Portalban
+2053,Belmont-Broye,Belmont-Broye,1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Belmont-Broye
+2054,Estavayer,Estavayer,1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Estavayer
+2055,Cheyres-Châbles,Cheyres-Châbles,1001,La Broye,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Cheyres-Châbles
+2061,Auboranges,Auboranges,1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Auboranges
+2063,Billens-Hennens,Billens-Hennens,1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Billens-Hennens
+2066,Chapelle (Glâne),Chapelle (Glâne),1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Chapelle (Glâne)
+2067,Le Châtelard,Le Châtelard,1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Le Châtelard
+2068,Châtonnaye,Châtonnaye,1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Châtonnaye
+2072,Ecublens (FR),Ecublens (FR),1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Ecublens (FR)
+2079,Grangettes,Grangettes,1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Grangettes
+2086,Massonnens,Massonnens,1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Massonnens
+2087,Mézières (FR),Mézières (FR),1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Mézières (FR)
+2089,Montet (Glâne),Montet (Glâne),1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Montet (Glâne)
+2096,Romont (FR),Romont (FR),1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Romont (FR)
+2097,Rue,Rue,1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Rue
+2099,Siviriez,Siviriez,1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Siviriez
+2102,Ursy,Ursy,1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Ursy
+2113,Vuisternens-devant-Romont,Vuisternens-devant-Romont,1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Vuisternens-devant-Romont
+2114,Villorsonnens,Villorsonnens,1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Villorsonnens
+2115,Torny,Torny,1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Torny
+2117,Villaz,Villaz,1002,La Glâne,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Villaz
+2121,Haut-Intyamon,Haut-Intyamon,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Haut-Intyamon
+2122,Pont-en-Ogoz,Pont-en-Ogoz,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Pont-en-Ogoz
+2123,Botterens,Botterens,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Botterens
+2124,Broc,Broc,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Broc
+2125,Bulle,Bulle,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Bulle
+2128,Châtel-sur-Montsalvens,Châtel-sur-Montsalvens,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Châtel-sur-Montsalvens
+2129,Corbières,Corbières,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Corbières
+2130,Crésuz,Crésuz,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Crésuz
+2131,Echarlens,Echarlens,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Echarlens
+2134,Grandvillard,Grandvillard,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Grandvillard
+2135,Gruyères,Gruyères,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Gruyères
+2137,Hauteville,Hauteville,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Hauteville
+2138,Jaun,Jaun,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Jaun
+2140,Marsens,Marsens,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Marsens
+2143,Morlon,Morlon,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Morlon
+2145,Le Pâquier (FR),Le Pâquier (FR),1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Le Pâquier (FR)
+2147,Pont-la-Ville,Pont-la-Ville,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Pont-la-Ville
+2148,Riaz,Riaz,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Riaz
+2149,La Roche,La Roche,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,La Roche
+2152,Sâles,Sâles,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Sâles
+2153,Sorens,Sorens,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Sorens
+2155,Vaulruz,Vaulruz,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Vaulruz
+2160,Vuadens,Vuadens,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Vuadens
+2162,Bas-Intyamon,Bas-Intyamon,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Bas-Intyamon
+2163,Val-de-Charmey,Val-de-Charmey,1003,La Gruyère,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Val-de-Charmey
+2173,Autigny,Autigny,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Autigny
+2174,Avry,Avry,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Avry
+2175,Belfaux,Belfaux,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Belfaux
+2177,Chénens,Chénens,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Chénens
+2183,Corminboeuf,Corminboeuf,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Corminboeuf
+2186,Cottens (FR),Cottens (FR),1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Cottens (FR)
+2194,Ferpicloz,Ferpicloz,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Ferpicloz
+2196,Fribourg,Fribourg,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Fribourg
+2197,Givisiez,Givisiez,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Givisiez
+2198,Granges-Paccot,Granges-Paccot,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Granges-Paccot
+2200,Grolley,Grolley,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Grolley
+2206,Marly,Marly,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Marly
+2208,Matran,Matran,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Matran
+2211,Neyruz (FR),Neyruz (FR),1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Neyruz (FR)
+2216,Pierrafortscha,Pierrafortscha,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Pierrafortscha
+2217,Ponthaux,Ponthaux,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Ponthaux
+2220,Le Mouret,Le Mouret,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Le Mouret
+2226,Treyvaux,Treyvaux,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Treyvaux
+2228,Villars-sur-Glâne,Villars-sur-Glâne,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Villars-sur-Glâne
+2230,Villarsel-sur-Marly,Villarsel-sur-Marly,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Villarsel-sur-Marly
+2233,Hauterive (FR),Hauterive (FR),1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Hauterive (FR)
+2234,La Brillaz,La Brillaz,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,La Brillaz
+2235,La Sonnaz,La Sonnaz,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,La Sonnaz
+2236,Gibloux,Gibloux,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Gibloux
+2237,Prez,Prez,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Prez
+2238,Bois-d'Amont,Bois-d'Amont,1004,La Sarine,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Bois-d'Amont
+2250,Courgevaux,Courgevaux,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Courgevaux
+2254,Courtepin,Courtepin,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Courtepin
+2257,Cressier (FR),Cressier (FR),1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Cressier (FR)
+2258,Fräschels,Fräschels,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Fräschels
+2261,Greng,Greng,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Greng
+2262,Gurmels,Gurmels,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Gurmels
+2265,Kerzers,Kerzers,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Kerzers
+2266,Kleinbösingen,Kleinbösingen,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Kleinbösingen
+2271,Meyriez,Meyriez,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Meyriez
+2272,Misery-Courtion,Misery-Courtion,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Misery-Courtion
+2274,Muntelier,Muntelier,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Muntelier
+2275,Murten,Murten,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Murten
+2276,Ried bei Kerzers,Ried bei Kerzers,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Ried bei Kerzers
+2278,Ulmiz,Ulmiz,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Ulmiz
+2284,Mont-Vully,Mont-Vully,1005,See / Lac,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Mont-Vully
+2292,Brünisried,Brünisried,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Brünisried
+2293,Düdingen,Düdingen,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Düdingen
+2294,Giffers,Giffers,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Giffers
+2295,Bösingen,Bösingen,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Bösingen
+2296,Heitenried,Heitenried,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Heitenried
+2299,Plaffeien,Plaffeien,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Plaffeien
+2300,Plasselb,Plasselb,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Plasselb
+2301,Rechthalten,Rechthalten,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Rechthalten
+2303,St. Silvester,St. Silvester,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,St. Silvester
+2304,St. Ursen,St. Ursen,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,St. Ursen
+2305,Schmitten (FR),Schmitten (FR),1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Schmitten (FR)
+2306,Tafers,Tafers,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Tafers
+2307,Tentlingen,Tentlingen,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Tentlingen
+2308,Ueberstorf,Ueberstorf,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Ueberstorf
+2309,Wünnewil-Flamatt,Wünnewil-Flamatt,1006,Sense,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Wünnewil-Flamatt
+2321,Attalens,Attalens,1007,La Veveyse,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Attalens
+2323,Bossonnens,Bossonnens,1007,La Veveyse,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Bossonnens
+2325,Châtel-Saint-Denis,Châtel-Saint-Denis,1007,La Veveyse,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Châtel-Saint-Denis
+2328,Granges (Veveyse),Granges (Veveyse),1007,La Veveyse,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Granges (Veveyse)
+2333,Remaufens,Remaufens,1007,La Veveyse,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Remaufens
+2335,Saint-Martin (FR),Saint-Martin (FR),1007,La Veveyse,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Saint-Martin (FR)
+2336,Semsales,Semsales,1007,La Veveyse,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Semsales
+2337,Le Flon,Le Flon,1007,La Veveyse,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,Le Flon
+2338,La Verrerie,La Verrerie,1007,La Veveyse,FR,10,Fribourg / Freiburg,Freiburg,Fribourg,La Verrerie
+2401,Egerkingen,Egerkingen,1101,Gäu,SO,11,Solothurn,Solothurn,Solothurn,Egerkingen
+2402,Härkingen,Härkingen,1101,Gäu,SO,11,Solothurn,Solothurn,Solothurn,Härkingen
+2403,Kestenholz,Kestenholz,1101,Gäu,SO,11,Solothurn,Solothurn,Solothurn,Kestenholz
+2404,Neuendorf,Neuendorf,1101,Gäu,SO,11,Solothurn,Solothurn,Solothurn,Neuendorf
+2405,Niederbuchsiten,Niederbuchsiten,1101,Gäu,SO,11,Solothurn,Solothurn,Solothurn,Niederbuchsiten
+2406,Oberbuchsiten,Oberbuchsiten,1101,Gäu,SO,11,Solothurn,Solothurn,Solothurn,Oberbuchsiten
+2407,Oensingen,Oensingen,1101,Gäu,SO,11,Solothurn,Solothurn,Solothurn,Oensingen
+2408,Wolfwil,Wolfwil,1101,Gäu,SO,11,Solothurn,Solothurn,Solothurn,Wolfwil
+2421,Aedermannsdorf,Aedermannsdorf,1102,Thal,SO,11,Solothurn,Solothurn,Solothurn,Aedermannsdorf
+2422,Balsthal,Balsthal,1102,Thal,SO,11,Solothurn,Solothurn,Solothurn,Balsthal
+2424,Herbetswil,Herbetswil,1102,Thal,SO,11,Solothurn,Solothurn,Solothurn,Herbetswil
+2425,Holderbank (SO),Holderbank (SO),1102,Thal,SO,11,Solothurn,Solothurn,Solothurn,Holderbank (SO)
+2426,Laupersdorf,Laupersdorf,1102,Thal,SO,11,Solothurn,Solothurn,Solothurn,Laupersdorf
+2427,Matzendorf,Matzendorf,1102,Thal,SO,11,Solothurn,Solothurn,Solothurn,Matzendorf
+2428,Mümliswil-Ramiswil,Mümliswil-Ramiswil,1102,Thal,SO,11,Solothurn,Solothurn,Solothurn,Mümliswil-Ramiswil
+2430,Welschenrohr-Gänsbrunnen,Welschenrohr-Gänsbrunnen,1102,Thal,SO,11,Solothurn,Solothurn,Solothurn,Welschenrohr-Gänsbrunnen
+2445,Biezwil,Biezwil,1103,Bucheggberg,SO,11,Solothurn,Solothurn,Solothurn,Biezwil
+2455,Lüterkofen-Ichertswil,Lüterkofen-Ichertswil,1103,Bucheggberg,SO,11,Solothurn,Solothurn,Solothurn,Lüterkofen-Ichertswil
+2456,Lüterswil-Gächliwil,Lüterswil-Gächliwil,1103,Bucheggberg,SO,11,Solothurn,Solothurn,Solothurn,Lüterswil-Gächliwil
+2457,Messen,Messen,1103,Bucheggberg,SO,11,Solothurn,Solothurn,Solothurn,Messen
+2461,Schnottwil,Schnottwil,1103,Bucheggberg,SO,11,Solothurn,Solothurn,Solothurn,Schnottwil
+2463,Unterramsern,Unterramsern,1103,Bucheggberg,SO,11,Solothurn,Solothurn,Solothurn,Unterramsern
+2464,Lüsslingen-Nennigkofen,Lüsslingen-Nennigkofen,1103,Bucheggberg,SO,11,Solothurn,Solothurn,Solothurn,Lüsslingen-Nennigkofen
+2465,Buchegg,Buchegg,1103,Bucheggberg,SO,11,Solothurn,Solothurn,Solothurn,Buchegg
+2471,Bättwil,Bättwil,1104,Dorneck,SO,11,Solothurn,Solothurn,Solothurn,Bättwil
+2472,Büren (SO),Büren (SO),1104,Dorneck,SO,11,Solothurn,Solothurn,Solothurn,Büren (SO)
+2473,Dornach,Dornach,1104,Dorneck,SO,11,Solothurn,Solothurn,Solothurn,Dornach
+2474,Gempen,Gempen,1104,Dorneck,SO,11,Solothurn,Solothurn,Solothurn,Gempen
+2475,Hochwald,Hochwald,1104,Dorneck,SO,11,Solothurn,Solothurn,Solothurn,Hochwald
+2476,Hofstetten-Flüh,Hofstetten-Flüh,1104,Dorneck,SO,11,Solothurn,Solothurn,Solothurn,Hofstetten-Flüh
+2477,Metzerlen-Mariastein,Metzerlen-Mariastein,1104,Dorneck,SO,11,Solothurn,Solothurn,Solothurn,Metzerlen-Mariastein
+2478,Nuglar-St. Pantaleon,Nuglar-St. Pantaleon,1104,Dorneck,SO,11,Solothurn,Solothurn,Solothurn,Nuglar-St. Pantaleon
+2479,Rodersdorf,Rodersdorf,1104,Dorneck,SO,11,Solothurn,Solothurn,Solothurn,Rodersdorf
+2480,Seewen,Seewen,1104,Dorneck,SO,11,Solothurn,Solothurn,Solothurn,Seewen
+2481,Witterswil,Witterswil,1104,Dorneck,SO,11,Solothurn,Solothurn,Solothurn,Witterswil
+2491,Hauenstein-Ifenthal,Hauenstein-Ifenthal,1105,Gösgen,SO,11,Solothurn,Solothurn,Solothurn,Hauenstein-Ifenthal
+2492,Kienberg,Kienberg,1105,Gösgen,SO,11,Solothurn,Solothurn,Solothurn,Kienberg
+2493,Lostorf,Lostorf,1105,Gösgen,SO,11,Solothurn,Solothurn,Solothurn,Lostorf
+2495,Niedergösgen,Niedergösgen,1105,Gösgen,SO,11,Solothurn,Solothurn,Solothurn,Niedergösgen
+2497,Obergösgen,Obergösgen,1105,Gösgen,SO,11,Solothurn,Solothurn,Solothurn,Obergösgen
+2499,Stüsslingen,Stüsslingen,1105,Gösgen,SO,11,Solothurn,Solothurn,Solothurn,Stüsslingen
+2500,Trimbach,Trimbach,1105,Gösgen,SO,11,Solothurn,Solothurn,Solothurn,Trimbach
+2501,Winznau,Winznau,1105,Gösgen,SO,11,Solothurn,Solothurn,Solothurn,Winznau
+2502,Wisen (SO),Wisen (SO),1105,Gösgen,SO,11,Solothurn,Solothurn,Solothurn,Wisen (SO)
+2503,Erlinsbach (SO),Erlinsbach (SO),1105,Gösgen,SO,11,Solothurn,Solothurn,Solothurn,Erlinsbach (SO)
+2511,Aeschi (SO),Aeschi (SO),1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Aeschi (SO)
+2513,Biberist,Biberist,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Biberist
+2514,Bolken,Bolken,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Bolken
+2516,Deitingen,Deitingen,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Deitingen
+2517,Derendingen,Derendingen,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Derendingen
+2518,Etziken,Etziken,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Etziken
+2519,Gerlafingen,Gerlafingen,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Gerlafingen
+2520,Halten,Halten,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Halten
+2523,Horriwil,Horriwil,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Horriwil
+2524,Hüniken,Hüniken,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Hüniken
+2525,Kriegstetten,Kriegstetten,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Kriegstetten
+2526,Lohn-Ammannsegg,Lohn-Ammannsegg,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Lohn-Ammannsegg
+2527,Luterbach,Luterbach,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Luterbach
+2528,Obergerlafingen,Obergerlafingen,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Obergerlafingen
+2529,Oekingen,Oekingen,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Oekingen
+2530,Recherswil,Recherswil,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Recherswil
+2532,Subingen,Subingen,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Subingen
+2534,Zuchwil,Zuchwil,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Zuchwil
+2535,Drei Höfe,Drei Höfe,1106,Wasseramt,SO,11,Solothurn,Solothurn,Solothurn,Drei Höfe
+2541,Balm bei Günsberg,Balm bei Günsberg,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Balm bei Günsberg
+2542,Bellach,Bellach,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Bellach
+2543,Bettlach,Bettlach,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Bettlach
+2544,Feldbrunnen-St. Niklaus,Feldbrunnen-St. Niklaus,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Feldbrunnen-St. Niklaus
+2545,Flumenthal,Flumenthal,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Flumenthal
+2546,Grenchen,Grenchen,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Grenchen
+2547,Günsberg,Günsberg,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Günsberg
+2548,Hubersdorf,Hubersdorf,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Hubersdorf
+2549,Kammersrohr,Kammersrohr,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Kammersrohr
+2550,Langendorf,Langendorf,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Langendorf
+2551,Lommiswil,Lommiswil,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Lommiswil
+2553,Oberdorf (SO),Oberdorf (SO),1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Oberdorf (SO)
+2554,Riedholz,Riedholz,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Riedholz
+2555,Rüttenen,Rüttenen,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Rüttenen
+2556,Selzach,Selzach,1107,Lebern,SO,11,Solothurn,Solothurn,Solothurn,Selzach
+2571,Boningen,Boningen,1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Boningen
+2572,Däniken,Däniken,1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Däniken
+2573,Dulliken,Dulliken,1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Dulliken
+2574,Eppenberg-Wöschnau,Eppenberg-Wöschnau,1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Eppenberg-Wöschnau
+2575,Fulenbach,Fulenbach,1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Fulenbach
+2576,Gretzenbach,Gretzenbach,1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Gretzenbach
+2578,Gunzgen,Gunzgen,1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Gunzgen
+2579,Hägendorf,Hägendorf,1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Hägendorf
+2580,Kappel (SO),Kappel (SO),1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Kappel (SO)
+2581,Olten,Olten,1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Olten
+2582,Rickenbach (SO),Rickenbach (SO),1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Rickenbach (SO)
+2583,Schönenwerd,Schönenwerd,1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Schönenwerd
+2584,Starrkirch-Wil,Starrkirch-Wil,1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Starrkirch-Wil
+2585,Walterswil (SO),Walterswil (SO),1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Walterswil (SO)
+2586,Wangen bei Olten,Wangen bei Olten,1108,Olten,SO,11,Solothurn,Solothurn,Solothurn,Wangen bei Olten
+2601,Solothurn,Solothurn,1109,Solothurn,SO,11,Solothurn,Solothurn,Solothurn,Solothurn
+2611,Bärschwil,Bärschwil,1110,Thierstein,SO,11,Solothurn,Solothurn,Solothurn,Bärschwil
+2612,Beinwil (SO),Beinwil (SO),1110,Thierstein,SO,11,Solothurn,Solothurn,Solothurn,Beinwil (SO)
+2613,Breitenbach,Breitenbach,1110,Thierstein,SO,11,Solothurn,Solothurn,Solothurn,Breitenbach
+2614,Büsserach,Büsserach,1110,Thierstein,SO,11,Solothurn,Solothurn,Solothurn,Büsserach
+2615,Erschwil,Erschwil,1110,Thierstein,SO,11,Solothurn,Solothurn,Solothurn,Erschwil
+2616,Fehren,Fehren,1110,Thierstein,SO,11,Solothurn,Solothurn,Solothurn,Fehren
+2617,Grindel,Grindel,1110,Thierstein,SO,11,Solothurn,Solothurn,Solothurn,Grindel
+2618,Himmelried,Himmelried,1110,Thierstein,SO,11,Solothurn,Solothurn,Solothurn,Himmelried
+2619,Kleinlützel,Kleinlützel,1110,Thierstein,SO,11,Solothurn,Solothurn,Solothurn,Kleinlützel
+2620,Meltingen,Meltingen,1110,Thierstein,SO,11,Solothurn,Solothurn,Solothurn,Meltingen
+2621,Nunningen,Nunningen,1110,Thierstein,SO,11,Solothurn,Solothurn,Solothurn,Nunningen
+2622,Zullwil,Zullwil,1110,Thierstein,SO,11,Solothurn,Solothurn,Solothurn,Zullwil
+2701,Basel,Basel,1200,Kt. Basel-Stadt,BS,12,Basel-Stadt,Basel-Stadt,Basel-Stadt,Basel
+2702,Bettingen,Bettingen,1200,Kt. Basel-Stadt,BS,12,Basel-Stadt,Basel-Stadt,Basel-Stadt,Bettingen
+2703,Riehen,Riehen,1200,Kt. Basel-Stadt,BS,12,Basel-Stadt,Basel-Stadt,Basel-Stadt,Riehen
+2761,Aesch (BL),Aesch (BL),1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Aesch (BL)
+2762,Allschwil,Allschwil,1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Allschwil
+2763,Arlesheim,Arlesheim,1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Arlesheim
+2764,Biel-Benken,Biel-Benken,1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Biel-Benken
+2765,Binningen,Binningen,1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Binningen
+2766,Birsfelden,Birsfelden,1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Birsfelden
+2767,Bottmingen,Bottmingen,1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Bottmingen
+2768,Ettingen,Ettingen,1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Ettingen
+2769,Münchenstein,Münchenstein,1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Münchenstein
+2770,Muttenz,Muttenz,1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Muttenz
+2771,Oberwil (BL),Oberwil (BL),1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Oberwil (BL)
+2772,Pfeffingen,Pfeffingen,1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Pfeffingen
+2773,Reinach (BL),Reinach (BL),1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Reinach (BL)
+2774,Schönenbuch,Schönenbuch,1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Schönenbuch
+2775,Therwil,Therwil,1301,Arlesheim,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Therwil
+2781,Blauen,Blauen,1302,Laufen,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Blauen
+2782,Brislach,Brislach,1302,Laufen,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Brislach
+2783,Burg im Leimental,Burg im Leimental,1302,Laufen,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Burg im Leimental
+2784,Dittingen,Dittingen,1302,Laufen,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Dittingen
+2785,Duggingen,Duggingen,1302,Laufen,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Duggingen
+2786,Grellingen,Grellingen,1302,Laufen,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Grellingen
+2787,Laufen,Laufen,1302,Laufen,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Laufen
+2788,Liesberg,Liesberg,1302,Laufen,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Liesberg
+2789,Nenzlingen,Nenzlingen,1302,Laufen,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Nenzlingen
+2790,Roggenburg,Roggenburg,1302,Laufen,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Roggenburg
+2791,Röschenz,Röschenz,1302,Laufen,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Röschenz
+2792,Wahlen,Wahlen,1302,Laufen,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Wahlen
+2793,Zwingen,Zwingen,1302,Laufen,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Zwingen
+2821,Arisdorf,Arisdorf,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Arisdorf
+2822,Augst,Augst,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Augst
+2823,Bubendorf,Bubendorf,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Bubendorf
+2824,Frenkendorf,Frenkendorf,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Frenkendorf
+2825,Füllinsdorf,Füllinsdorf,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Füllinsdorf
+2826,Giebenach,Giebenach,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Giebenach
+2827,Hersberg,Hersberg,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Hersberg
+2828,Lausen,Lausen,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Lausen
+2829,Liestal,Liestal,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Liestal
+2830,Lupsingen,Lupsingen,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Lupsingen
+2831,Pratteln,Pratteln,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Pratteln
+2832,Ramlinsburg,Ramlinsburg,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Ramlinsburg
+2833,Seltisberg,Seltisberg,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Seltisberg
+2834,Ziefen,Ziefen,1303,Liestal,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Ziefen
+2841,Anwil,Anwil,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Anwil
+2842,Böckten,Böckten,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Böckten
+2843,Buckten,Buckten,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Buckten
+2844,Buus,Buus,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Buus
+2845,Diepflingen,Diepflingen,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Diepflingen
+2846,Gelterkinden,Gelterkinden,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Gelterkinden
+2847,Häfelfingen,Häfelfingen,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Häfelfingen
+2848,Hemmiken,Hemmiken,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Hemmiken
+2849,Itingen,Itingen,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Itingen
+2850,Känerkinden,Känerkinden,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Känerkinden
+2851,Kilchberg (BL),Kilchberg (BL),1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Kilchberg (BL)
+2852,Läufelfingen,Läufelfingen,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Läufelfingen
+2853,Maisprach,Maisprach,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Maisprach
+2854,Nusshof,Nusshof,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Nusshof
+2855,Oltingen,Oltingen,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Oltingen
+2856,Ormalingen,Ormalingen,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Ormalingen
+2857,Rickenbach (BL),Rickenbach (BL),1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Rickenbach (BL)
+2858,Rothenfluh,Rothenfluh,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Rothenfluh
+2859,Rümlingen,Rümlingen,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Rümlingen
+2860,Rünenberg,Rünenberg,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Rünenberg
+2861,Sissach,Sissach,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Sissach
+2862,Tecknau,Tecknau,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Tecknau
+2863,Tenniken,Tenniken,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Tenniken
+2864,Thürnen,Thürnen,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Thürnen
+2865,Wenslingen,Wenslingen,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Wenslingen
+2866,Wintersingen,Wintersingen,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Wintersingen
+2867,Wittinsburg,Wittinsburg,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Wittinsburg
+2868,Zeglingen,Zeglingen,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Zeglingen
+2869,Zunzgen,Zunzgen,1304,Sissach,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Zunzgen
+2881,Arboldswil,Arboldswil,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Arboldswil
+2882,Bennwil,Bennwil,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Bennwil
+2883,Bretzwil,Bretzwil,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Bretzwil
+2884,Diegten,Diegten,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Diegten
+2885,Eptingen,Eptingen,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Eptingen
+2886,Hölstein,Hölstein,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Hölstein
+2887,Lampenberg,Lampenberg,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Lampenberg
+2888,Langenbruck,Langenbruck,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Langenbruck
+2889,Lauwil,Lauwil,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Lauwil
+2890,Liedertswil,Liedertswil,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Liedertswil
+2891,Niederdorf,Niederdorf,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Niederdorf
+2892,Oberdorf (BL),Oberdorf (BL),1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Oberdorf (BL)
+2893,Reigoldswil,Reigoldswil,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Reigoldswil
+2894,Titterten,Titterten,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Titterten
+2895,Waldenburg,Waldenburg,1305,Waldenburg,BL,13,Basel-Landschaft,Basel-Landschaft,Basel-Landschaft,Waldenburg
+2901,Gächlingen,Gächlingen,1401,Oberklettgau,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Gächlingen
+2903,Löhningen,Löhningen,1401,Oberklettgau,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Löhningen
+2904,Neunkirch,Neunkirch,1401,Oberklettgau,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Neunkirch
+2914,Büttenhardt,Büttenhardt,1402,Reiat,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Büttenhardt
+2915,Dörflingen,Dörflingen,1402,Reiat,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Dörflingen
+2917,Lohn (SH),Lohn (SH),1402,Reiat,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Lohn (SH)
+2919,Stetten (SH),Stetten (SH),1402,Reiat,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Stetten (SH)
+2920,Thayngen,Thayngen,1402,Reiat,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Thayngen
+2931,Bargen (SH),Bargen (SH),1403,Schaffhausen,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Bargen (SH)
+2932,Beringen,Beringen,1403,Schaffhausen,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Beringen
+2933,Buchberg,Buchberg,1403,Schaffhausen,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Buchberg
+2936,Merishausen,Merishausen,1403,Schaffhausen,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Merishausen
+2937,Neuhausen am Rheinfall,Neuhausen am Rheinfall,1403,Schaffhausen,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Neuhausen am Rheinfall
+2938,Rüdlingen,Rüdlingen,1403,Schaffhausen,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Rüdlingen
+2939,Schaffhausen,Schaffhausen,1403,Schaffhausen,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Schaffhausen
+2951,Beggingen,Beggingen,1404,Schleitheim,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Beggingen
+2952,Schleitheim,Schleitheim,1404,Schleitheim,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Schleitheim
+2953,Siblingen,Siblingen,1404,Schleitheim,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Siblingen
+2961,Buch (SH),Buch (SH),1405,Stein,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Buch (SH)
+2962,Hemishofen,Hemishofen,1405,Stein,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Hemishofen
+2963,Ramsen,Ramsen,1405,Stein,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Ramsen
+2964,Stein am Rhein,Stein am Rhein,1405,Stein,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Stein am Rhein
+2971,Hallau,Hallau,1406,Unterklettgau,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Hallau
+2972,Oberhallau,Oberhallau,1406,Unterklettgau,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Oberhallau
+2973,Trasadingen,Trasadingen,1406,Unterklettgau,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Trasadingen
+2974,Wilchingen,Wilchingen,1406,Unterklettgau,SH,14,Schaffhausen,Schaffhausen,Schaffhausen,Wilchingen
+3001,Herisau,Herisau,1501,Hinterland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Herisau
+3002,Hundwil,Hundwil,1501,Hinterland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Hundwil
+3003,Schönengrund,Schönengrund,1501,Hinterland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Schönengrund
+3004,Schwellbrunn,Schwellbrunn,1501,Hinterland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Schwellbrunn
+3005,Stein (AR),Stein (AR),1501,Hinterland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Stein (AR)
+3006,Urnäsch,Urnäsch,1501,Hinterland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Urnäsch
+3007,Waldstatt,Waldstatt,1501,Hinterland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Waldstatt
+3021,Bühler,Bühler,1502,Mittelland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Bühler
+3022,Gais,Gais,1502,Mittelland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Gais
+3023,Speicher,Speicher,1502,Mittelland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Speicher
+3024,Teufen (AR),Teufen (AR),1502,Mittelland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Teufen (AR)
+3025,Trogen,Trogen,1502,Mittelland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Trogen
+3031,Grub (AR),Grub (AR),1503,Vorderland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Grub (AR)
+3032,Heiden,Heiden,1503,Vorderland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Heiden
+3033,Lutzenberg,Lutzenberg,1503,Vorderland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Lutzenberg
+3034,Rehetobel,Rehetobel,1503,Vorderland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Rehetobel
+3035,Reute (AR),Reute (AR),1503,Vorderland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Reute (AR)
+3036,Wald (AR),Wald (AR),1503,Vorderland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Wald (AR)
+3037,Walzenhausen,Walzenhausen,1503,Vorderland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Walzenhausen
+3038,Wolfhalden,Wolfhalden,1503,Vorderland,AR,15,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Appenzell Ausserrhoden,Wolfhalden
+3101,Appenzell,Appenzell,1600,Kt. Appenzell i.Rh.,AI,16,Appenzell Innerrhoden,Appenzell Innerrhoden,Appenzell Innerrhoden,Appenzell
+3102,Gonten,Gonten,1600,Kt. Appenzell i.Rh.,AI,16,Appenzell Innerrhoden,Appenzell Innerrhoden,Appenzell Innerrhoden,Gonten
+3103,Rüte,Rüte,1600,Kt. Appenzell i.Rh.,AI,16,Appenzell Innerrhoden,Appenzell Innerrhoden,Appenzell Innerrhoden,Rüte
+3104,Schlatt-Haslen,Schlatt-Haslen,1600,Kt. Appenzell i.Rh.,AI,16,Appenzell Innerrhoden,Appenzell Innerrhoden,Appenzell Innerrhoden,Schlatt-Haslen
+3105,Schwende,Schwende,1600,Kt. Appenzell i.Rh.,AI,16,Appenzell Innerrhoden,Appenzell Innerrhoden,Appenzell Innerrhoden,Schwende
+3111,Oberegg,Oberegg,1600,Kt. Appenzell i.Rh.,AI,16,Appenzell Innerrhoden,Appenzell Innerrhoden,Appenzell Innerrhoden,Oberegg
+3201,Häggenschwil,Häggenschwil,1721,St. Gallen,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Häggenschwil
+3202,Muolen,Muolen,1721,St. Gallen,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Muolen
+3203,St. Gallen,St. Gallen,1721,St. Gallen,SG,17,St. Gallen,St. Gallen,Sankt Gallen,St. Gallen
+3204,Wittenbach,Wittenbach,1721,St. Gallen,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Wittenbach
+3211,Berg (SG),Berg (SG),1722,Rorschach,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Berg (SG)
+3212,Eggersriet,Eggersriet,1721,St. Gallen,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Eggersriet
+3213,Goldach,Goldach,1722,Rorschach,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Goldach
+3214,Mörschwil,Mörschwil,1722,Rorschach,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Mörschwil
+3215,Rorschach,Rorschach,1722,Rorschach,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Rorschach
+3216,Rorschacherberg,Rorschacherberg,1722,Rorschach,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Rorschacherberg
+3217,Steinach,Steinach,1722,Rorschach,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Steinach
+3218,Tübach,Tübach,1722,Rorschach,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Tübach
+3219,Untereggen,Untereggen,1722,Rorschach,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Untereggen
+3231,Au (SG),Au (SG),1723,Rheintal,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Au (SG)
+3232,Balgach,Balgach,1723,Rheintal,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Balgach
+3233,Berneck,Berneck,1723,Rheintal,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Berneck
+3234,Diepoldsau,Diepoldsau,1723,Rheintal,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Diepoldsau
+3235,Rheineck,Rheineck,1723,Rheintal,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Rheineck
+3236,St. Margrethen,St. Margrethen,1723,Rheintal,SG,17,St. Gallen,St. Gallen,Sankt Gallen,St. Margrethen
+3237,Thal,Thal,1722,Rorschach,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Thal
+3238,Widnau,Widnau,1723,Rheintal,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Widnau
+3251,Altstätten,Altstätten,1723,Rheintal,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Altstätten
+3252,Eichberg,Eichberg,1723,Rheintal,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Eichberg
+3253,Marbach (SG),Marbach (SG),1723,Rheintal,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Marbach (SG)
+3254,Oberriet (SG),Oberriet (SG),1723,Rheintal,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Oberriet (SG)
+3255,Rebstein,Rebstein,1723,Rheintal,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Rebstein
+3256,Rüthi (SG),Rüthi (SG),1723,Rheintal,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Rüthi (SG)
+3271,Buchs (SG),Buchs (SG),1724,Werdenberg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Buchs (SG)
+3272,Gams,Gams,1724,Werdenberg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Gams
+3273,Grabs,Grabs,1724,Werdenberg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Grabs
+3274,Sennwald,Sennwald,1724,Werdenberg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Sennwald
+3275,Sevelen,Sevelen,1724,Werdenberg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Sevelen
+3276,Wartau,Wartau,1724,Werdenberg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Wartau
+3291,Bad Ragaz,Bad Ragaz,1725,Sarganserland,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Bad Ragaz
+3292,Flums,Flums,1725,Sarganserland,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Flums
+3293,Mels,Mels,1725,Sarganserland,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Mels
+3294,Pfäfers,Pfäfers,1725,Sarganserland,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Pfäfers
+3295,Quarten,Quarten,1725,Sarganserland,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Quarten
+3296,Sargans,Sargans,1725,Sarganserland,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Sargans
+3297,Vilters-Wangs,Vilters-Wangs,1725,Sarganserland,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Vilters-Wangs
+3298,Walenstadt,Walenstadt,1725,Sarganserland,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Walenstadt
+3311,Amden,Amden,1726,See-Gaster,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Amden
+3312,Benken (SG),Benken (SG),1726,See-Gaster,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Benken (SG)
+3313,Kaltbrunn,Kaltbrunn,1726,See-Gaster,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Kaltbrunn
+3315,Schänis,Schänis,1726,See-Gaster,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Schänis
+3316,Weesen,Weesen,1726,See-Gaster,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Weesen
+3338,Schmerikon,Schmerikon,1726,See-Gaster,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Schmerikon
+3339,Uznach,Uznach,1726,See-Gaster,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Uznach
+3340,Rapperswil-Jona,Rapperswil-Jona,1726,See-Gaster,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Rapperswil-Jona
+3341,Gommiswald,Gommiswald,1726,See-Gaster,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Gommiswald
+3342,Eschenbach (SG),Eschenbach (SG),1726,See-Gaster,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Eschenbach (SG)
+3352,Ebnat-Kappel,Ebnat-Kappel,1727,Toggenburg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Ebnat-Kappel
+3359,Wildhaus-Alt St. Johann,Wildhaus-Alt St. Johann,1727,Toggenburg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Wildhaus-Alt St. Johann
+3360,Nesslau,Nesslau,1727,Toggenburg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Nesslau
+3372,Hemberg,Hemberg,1727,Toggenburg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Hemberg
+3374,Lichtensteig,Lichtensteig,1727,Toggenburg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Lichtensteig
+3375,Oberhelfenschwil,Oberhelfenschwil,1727,Toggenburg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Oberhelfenschwil
+3378,Neckertal,Neckertal,1727,Toggenburg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Neckertal
+3379,Wattwil,Wattwil,1727,Toggenburg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Wattwil
+3392,Kirchberg (SG),Kirchberg (SG),1727,Toggenburg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Kirchberg (SG)
+3393,Lütisburg,Lütisburg,1727,Toggenburg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Lütisburg
+3394,Mosnang,Mosnang,1727,Toggenburg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Mosnang
+3395,Bütschwil-Ganterschwil,Bütschwil-Ganterschwil,1727,Toggenburg,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Bütschwil-Ganterschwil
+3401,Degersheim,Degersheim,1728,Wil,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Degersheim
+3402,Flawil,Flawil,1728,Wil,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Flawil
+3405,Jonschwil,Jonschwil,1728,Wil,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Jonschwil
+3407,Oberuzwil,Oberuzwil,1728,Wil,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Oberuzwil
+3408,Uzwil,Uzwil,1728,Wil,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Uzwil
+3422,Niederbüren,Niederbüren,1728,Wil,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Niederbüren
+3423,Niederhelfenschwil,Niederhelfenschwil,1728,Wil,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Niederhelfenschwil
+3424,Oberbüren,Oberbüren,1728,Wil,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Oberbüren
+3426,Zuzwil (SG),Zuzwil (SG),1728,Wil,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Zuzwil (SG)
+3427,Wil (SG),Wil (SG),1728,Wil,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Wil (SG)
+3441,Andwil (SG),Andwil (SG),1721,St. Gallen,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Andwil (SG)
+3442,Gaiserwald,Gaiserwald,1721,St. Gallen,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Gaiserwald
+3443,Gossau (SG),Gossau (SG),1721,St. Gallen,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Gossau (SG)
+3444,Waldkirch,Waldkirch,1721,St. Gallen,SG,17,St. Gallen,St. Gallen,Sankt Gallen,Waldkirch
+3506,Vaz/Obervaz,Vaz/Obervaz,1841,Albula,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Vaz/Obervaz
+3513,Lantsch/Lenz,Lantsch/Lenz,1841,Albula,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Lantsch/Lenz
+3514,Schmitten (GR),Schmitten (GR),1841,Albula,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Schmitten (GR)
+3542,Albula/Alvra,Albula/Alvra,1841,Albula,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Albula/Alvra
+3543,Surses,Surses,1841,Albula,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Surses
+3544,Bergün Filisur,Bergün Filisur,1841,Albula,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Bergün Filisur
+3551,Brusio,Brusio,1842,Bernina,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Brusio
+3561,Poschiavo,Poschiavo,1842,Bernina,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Poschiavo
+3572,Falera,Falera,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Falera
+3575,Laax,Laax,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Laax
+3581,Sagogn,Sagogn,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Sagogn
+3582,Schluein,Schluein,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Schluein
+3603,Vals,Vals,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Vals
+3618,Lumnezia,Lumnezia,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Lumnezia
+3619,Ilanz/Glion,Ilanz/Glion,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Ilanz/Glion
+3633,Fürstenau,Fürstenau,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Fürstenau
+3637,Rothenbrunnen,Rothenbrunnen,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Rothenbrunnen
+3638,Scharans,Scharans,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Scharans
+3640,Sils im Domleschg,Sils im Domleschg,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Sils im Domleschg
+3661,Cazis,Cazis,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Cazis
+3662,Flerden,Flerden,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Flerden
+3663,Masein,Masein,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Masein
+3668,Thusis,Thusis,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Thusis
+3669,Tschappina,Tschappina,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Tschappina
+3670,Urmein,Urmein,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Urmein
+3672,Safiental,Safiental,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Safiental
+3673,Domleschg,Domleschg,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Domleschg
+3681,Avers,Avers,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Avers
+3695,Sufers,Sufers,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Sufers
+3701,Andeer,Andeer,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Andeer
+3711,Rongellen,Rongellen,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Rongellen
+3712,Zillis-Reischen,Zillis-Reischen,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Zillis-Reischen
+3713,Ferrera,Ferrera,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Ferrera
+3714,Rheinwald,Rheinwald,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Rheinwald
+3715,Muntogna da Schons,Muntogna da Schons,1851,Viamala,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Muntogna da Schons
+3721,Bonaduz,Bonaduz,1844,Imboden,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Bonaduz
+3722,Domat/Ems,Domat/Ems,1844,Imboden,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Domat/Ems
+3723,Rhäzüns,Rhäzüns,1844,Imboden,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Rhäzüns
+3731,Felsberg,Felsberg,1844,Imboden,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Felsberg
+3732,Flims,Flims,1844,Imboden,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Flims
+3733,Tamins,Tamins,1844,Imboden,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Tamins
+3734,Trin,Trin,1844,Imboden,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Trin
+3746,Zernez,Zernez,1843,Engiadina B./Val Müstair,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Zernez
+3752,Samnaun,Samnaun,1843,Engiadina B./Val Müstair,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Samnaun
+3762,Scuol,Scuol,1843,Engiadina B./Val Müstair,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Scuol
+3764,Valsot,Valsot,1843,Engiadina B./Val Müstair,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Valsot
+3781,Bever,Bever,1846,Maloja,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Bever
+3782,Celerina/Schlarigna,Celerina/Schlarigna,1846,Maloja,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Celerina/Schlarigna
+3783,Madulain,Madulain,1846,Maloja,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Madulain
+3784,Pontresina,Pontresina,1846,Maloja,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Pontresina
+3785,La Punt Chamues-ch,La Punt Chamues-ch,1846,Maloja,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,La Punt Chamues-ch
+3786,Samedan,Samedan,1846,Maloja,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Samedan
+3787,St. Moritz,St. Moritz,1846,Maloja,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,St. Moritz
+3788,S-chanf,S-chanf,1846,Maloja,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,S-chanf
+3789,Sils im Engadin/Segl,Sils im Engadin/Segl,1846,Maloja,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Sils im Engadin/Segl
+3790,Silvaplana,Silvaplana,1846,Maloja,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Silvaplana
+3791,Zuoz,Zuoz,1846,Maloja,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Zuoz
+3792,Bregaglia,Bregaglia,1846,Maloja,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Bregaglia
+3804,Buseno,Buseno,1847,Moesa,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Buseno
+3805,Castaneda,Castaneda,1847,Moesa,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Castaneda
+3808,Rossa,Rossa,1847,Moesa,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Rossa
+3810,Santa Maria in Calanca,Santa Maria in Calanca,1847,Moesa,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Santa Maria in Calanca
+3821,Lostallo,Lostallo,1847,Moesa,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Lostallo
+3822,Mesocco,Mesocco,1847,Moesa,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Mesocco
+3823,Soazza,Soazza,1847,Moesa,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Soazza
+3831,Cama,Cama,1847,Moesa,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Cama
+3832,Grono,Grono,1847,Moesa,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Grono
+3834,Roveredo (GR),Roveredo (GR),1847,Moesa,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Roveredo (GR)
+3835,San Vittore,San Vittore,1847,Moesa,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,San Vittore
+3837,Calanca,Calanca,1847,Moesa,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Calanca
+3847,Val Müstair,Val Müstair,1843,Engiadina B./Val Müstair,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Val Müstair
+3851,Davos,Davos,1849,Prättigau / Davos,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Davos
+3861,Fideris,Fideris,1849,Prättigau / Davos,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Fideris
+3862,Furna,Furna,1849,Prättigau / Davos,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Furna
+3863,Jenaz,Jenaz,1849,Prättigau / Davos,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Jenaz
+3871,Klosters,Klosters,1849,Prättigau / Davos,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Klosters
+3881,Conters im Prättigau,Conters im Prättigau,1849,Prättigau / Davos,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Conters im Prättigau
+3882,Küblis,Küblis,1849,Prättigau / Davos,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Küblis
+3891,Luzein,Luzein,1849,Prättigau / Davos,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Luzein
+3901,Chur,Chur,1848,Plessur,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Chur
+3911,Churwalden,Churwalden,1848,Plessur,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Churwalden
+3921,Arosa,Arosa,1848,Plessur,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Arosa
+3932,Tschiertschen-Praden,Tschiertschen-Praden,1848,Plessur,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Tschiertschen-Praden
+3945,Trimmis,Trimmis,1845,Landquart,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Trimmis
+3946,Untervaz,Untervaz,1845,Landquart,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Untervaz
+3947,Zizers,Zizers,1845,Landquart,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Zizers
+3951,Fläsch,Fläsch,1845,Landquart,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Fläsch
+3952,Jenins,Jenins,1845,Landquart,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Jenins
+3953,Maienfeld,Maienfeld,1845,Landquart,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Maienfeld
+3954,Malans,Malans,1845,Landquart,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Malans
+3955,Landquart,Landquart,1845,Landquart,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Landquart
+3961,Grüsch,Grüsch,1849,Prättigau / Davos,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Grüsch
+3962,Schiers,Schiers,1849,Prättigau / Davos,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Schiers
+3972,Seewis im Prättigau,Seewis im Prättigau,1849,Prättigau / Davos,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Seewis im Prättigau
+3981,Breil/Brigels,Breil/Brigels,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Breil/Brigels
+3982,Disentis/Mustér,Disentis/Mustér,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Disentis/Mustér
+3983,Medel (Lucmagn),Medel (Lucmagn),1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Medel (Lucmagn)
+3985,Sumvitg,Sumvitg,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Sumvitg
+3986,Tujetsch,Tujetsch,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Tujetsch
+3987,Trun,Trun,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Trun
+3988,Obersaxen Mundaun,Obersaxen Mundaun,1850,Surselva,GR,18,Graubünden / Grigioni / Grischun,Graubünden,Graubünden,Obersaxen Mundaun
+4001,Aarau,Aarau,1901,Aarau,AG,19,Aargau,Aargau,Aargau,Aarau
+4002,Biberstein,Biberstein,1901,Aarau,AG,19,Aargau,Aargau,Aargau,Biberstein
+4003,Buchs (AG),Buchs (AG),1901,Aarau,AG,19,Aargau,Aargau,Aargau,Buchs (AG)
+4004,Densbüren,Densbüren,1901,Aarau,AG,19,Aargau,Aargau,Aargau,Densbüren
+4005,Erlinsbach (AG),Erlinsbach (AG),1901,Aarau,AG,19,Aargau,Aargau,Aargau,Erlinsbach (AG)
+4006,Gränichen,Gränichen,1901,Aarau,AG,19,Aargau,Aargau,Aargau,Gränichen
+4007,Hirschthal,Hirschthal,1901,Aarau,AG,19,Aargau,Aargau,Aargau,Hirschthal
+4008,Küttigen,Küttigen,1901,Aarau,AG,19,Aargau,Aargau,Aargau,Küttigen
+4009,Muhen,Muhen,1901,Aarau,AG,19,Aargau,Aargau,Aargau,Muhen
+4010,Oberentfelden,Oberentfelden,1901,Aarau,AG,19,Aargau,Aargau,Aargau,Oberentfelden
+4012,Suhr,Suhr,1901,Aarau,AG,19,Aargau,Aargau,Aargau,Suhr
+4013,Unterentfelden,Unterentfelden,1901,Aarau,AG,19,Aargau,Aargau,Aargau,Unterentfelden
+4021,Baden,Baden,1902,Baden,AG,19,Aargau,Aargau,Aargau,Baden
+4022,Bellikon,Bellikon,1902,Baden,AG,19,Aargau,Aargau,Aargau,Bellikon
+4023,Bergdietikon,Bergdietikon,1902,Baden,AG,19,Aargau,Aargau,Aargau,Bergdietikon
+4024,Birmenstorf (AG),Birmenstorf (AG),1902,Baden,AG,19,Aargau,Aargau,Aargau,Birmenstorf (AG)
+4026,Ennetbaden,Ennetbaden,1902,Baden,AG,19,Aargau,Aargau,Aargau,Ennetbaden
+4027,Fislisbach,Fislisbach,1902,Baden,AG,19,Aargau,Aargau,Aargau,Fislisbach
+4028,Freienwil,Freienwil,1902,Baden,AG,19,Aargau,Aargau,Aargau,Freienwil
+4029,Gebenstorf,Gebenstorf,1902,Baden,AG,19,Aargau,Aargau,Aargau,Gebenstorf
+4030,Killwangen,Killwangen,1902,Baden,AG,19,Aargau,Aargau,Aargau,Killwangen
+4031,Künten,Künten,1902,Baden,AG,19,Aargau,Aargau,Aargau,Künten
+4032,Mägenwil,Mägenwil,1902,Baden,AG,19,Aargau,Aargau,Aargau,Mägenwil
+4033,Mellingen,Mellingen,1902,Baden,AG,19,Aargau,Aargau,Aargau,Mellingen
+4034,Neuenhof,Neuenhof,1902,Baden,AG,19,Aargau,Aargau,Aargau,Neuenhof
+4035,Niederrohrdorf,Niederrohrdorf,1902,Baden,AG,19,Aargau,Aargau,Aargau,Niederrohrdorf
+4037,Oberrohrdorf,Oberrohrdorf,1902,Baden,AG,19,Aargau,Aargau,Aargau,Oberrohrdorf
+4038,Obersiggenthal,Obersiggenthal,1902,Baden,AG,19,Aargau,Aargau,Aargau,Obersiggenthal
+4039,Remetschwil,Remetschwil,1902,Baden,AG,19,Aargau,Aargau,Aargau,Remetschwil
+4040,Spreitenbach,Spreitenbach,1902,Baden,AG,19,Aargau,Aargau,Aargau,Spreitenbach
+4041,Stetten (AG),Stetten (AG),1902,Baden,AG,19,Aargau,Aargau,Aargau,Stetten (AG)
+4042,Turgi,Turgi,1902,Baden,AG,19,Aargau,Aargau,Aargau,Turgi
+4044,Untersiggenthal,Untersiggenthal,1902,Baden,AG,19,Aargau,Aargau,Aargau,Untersiggenthal
+4045,Wettingen,Wettingen,1902,Baden,AG,19,Aargau,Aargau,Aargau,Wettingen
+4046,Wohlenschwil,Wohlenschwil,1902,Baden,AG,19,Aargau,Aargau,Aargau,Wohlenschwil
+4047,Würenlingen,Würenlingen,1902,Baden,AG,19,Aargau,Aargau,Aargau,Würenlingen
+4048,Würenlos,Würenlos,1902,Baden,AG,19,Aargau,Aargau,Aargau,Würenlos
+4049,Ehrendingen,Ehrendingen,1902,Baden,AG,19,Aargau,Aargau,Aargau,Ehrendingen
+4061,Arni (AG),Arni (AG),1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Arni (AG)
+4062,Berikon,Berikon,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Berikon
+4063,Bremgarten (AG),Bremgarten (AG),1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Bremgarten (AG)
+4064,Büttikon,Büttikon,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Büttikon
+4065,Dottikon,Dottikon,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Dottikon
+4066,Eggenwil,Eggenwil,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Eggenwil
+4067,Fischbach-Göslikon,Fischbach-Göslikon,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Fischbach-Göslikon
+4068,Hägglingen,Hägglingen,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Hägglingen
+4071,Jonen,Jonen,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Jonen
+4072,Niederwil (AG),Niederwil (AG),1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Niederwil (AG)
+4073,Oberlunkhofen,Oberlunkhofen,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Oberlunkhofen
+4074,Oberwil-Lieli,Oberwil-Lieli,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Oberwil-Lieli
+4075,Rudolfstetten-Friedlisberg,Rudolfstetten-Friedlisberg,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Rudolfstetten-Friedlisberg
+4076,Sarmenstorf,Sarmenstorf,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Sarmenstorf
+4077,Tägerig,Tägerig,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Tägerig
+4078,Uezwil,Uezwil,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Uezwil
+4079,Unterlunkhofen,Unterlunkhofen,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Unterlunkhofen
+4080,Villmergen,Villmergen,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Villmergen
+4081,Widen,Widen,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Widen
+4082,Wohlen (AG),Wohlen (AG),1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Wohlen (AG)
+4083,Zufikon,Zufikon,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Zufikon
+4084,Islisberg,Islisberg,1903,Bremgarten,AG,19,Aargau,Aargau,Aargau,Islisberg
+4091,Auenstein,Auenstein,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Auenstein
+4092,Birr,Birr,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Birr
+4093,Birrhard,Birrhard,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Birrhard
+4095,Brugg,Brugg,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Brugg
+4099,Habsburg,Habsburg,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Habsburg
+4100,Hausen (AG),Hausen (AG),1904,Brugg,AG,19,Aargau,Aargau,Aargau,Hausen (AG)
+4104,Lupfig,Lupfig,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Lupfig
+4105,Mandach,Mandach,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Mandach
+4106,Mönthal,Mönthal,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Mönthal
+4107,Mülligen,Mülligen,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Mülligen
+4110,Remigen,Remigen,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Remigen
+4111,Riniken,Riniken,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Riniken
+4112,Rüfenach,Rüfenach,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Rüfenach
+4117,Thalheim (AG),Thalheim (AG),1904,Brugg,AG,19,Aargau,Aargau,Aargau,Thalheim (AG)
+4120,Veltheim (AG),Veltheim (AG),1904,Brugg,AG,19,Aargau,Aargau,Aargau,Veltheim (AG)
+4121,Villigen,Villigen,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Villigen
+4122,Villnachern,Villnachern,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Villnachern
+4123,Windisch,Windisch,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Windisch
+4124,Bözberg,Bözberg,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Bözberg
+4125,Schinznach,Schinznach,1904,Brugg,AG,19,Aargau,Aargau,Aargau,Schinznach
+4131,Beinwil am See,Beinwil am See,1905,Kulm,AG,19,Aargau,Aargau,Aargau,Beinwil am See
+4132,Birrwil,Birrwil,1905,Kulm,AG,19,Aargau,Aargau,Aargau,Birrwil
+4133,Burg (AG),Burg (AG),1905,Kulm,AG,19,Aargau,Aargau,Aargau,Burg (AG)
+4134,Dürrenäsch,Dürrenäsch,1905,Kulm,AG,19,Aargau,Aargau,Aargau,Dürrenäsch
+4135,Gontenschwil,Gontenschwil,1905,Kulm,AG,19,Aargau,Aargau,Aargau,Gontenschwil
+4136,Holziken,Holziken,1905,Kulm,AG,19,Aargau,Aargau,Aargau,Holziken
+4137,Leimbach (AG),Leimbach (AG),1905,Kulm,AG,19,Aargau,Aargau,Aargau,Leimbach (AG)
+4138,Leutwil,Leutwil,1905,Kulm,AG,19,Aargau,Aargau,Aargau,Leutwil
+4139,Menziken,Menziken,1905,Kulm,AG,19,Aargau,Aargau,Aargau,Menziken
+4140,Oberkulm,Oberkulm,1905,Kulm,AG,19,Aargau,Aargau,Aargau,Oberkulm
+4141,Reinach (AG),Reinach (AG),1905,Kulm,AG,19,Aargau,Aargau,Aargau,Reinach (AG)
+4142,Schlossrued,Schlossrued,1905,Kulm,AG,19,Aargau,Aargau,Aargau,Schlossrued
+4143,Schmiedrued,Schmiedrued,1905,Kulm,AG,19,Aargau,Aargau,Aargau,Schmiedrued
+4144,Schöftland,Schöftland,1905,Kulm,AG,19,Aargau,Aargau,Aargau,Schöftland
+4145,Teufenthal (AG),Teufenthal (AG),1905,Kulm,AG,19,Aargau,Aargau,Aargau,Teufenthal (AG)
+4146,Unterkulm,Unterkulm,1905,Kulm,AG,19,Aargau,Aargau,Aargau,Unterkulm
+4147,Zetzwil,Zetzwil,1905,Kulm,AG,19,Aargau,Aargau,Aargau,Zetzwil
+4161,Eiken,Eiken,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Eiken
+4163,Frick,Frick,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Frick
+4164,Gansingen,Gansingen,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Gansingen
+4165,Gipf-Oberfrick,Gipf-Oberfrick,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Gipf-Oberfrick
+4166,Herznach,Herznach,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Herznach
+4169,Kaisten,Kaisten,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Kaisten
+4170,Laufenburg,Laufenburg,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Laufenburg
+4172,Münchwilen (AG),Münchwilen (AG),1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Münchwilen (AG)
+4173,Oberhof,Oberhof,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Oberhof
+4175,Oeschgen,Oeschgen,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Oeschgen
+4176,Schwaderloch,Schwaderloch,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Schwaderloch
+4177,Sisseln,Sisseln,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Sisseln
+4179,Ueken,Ueken,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Ueken
+4181,Wittnau,Wittnau,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Wittnau
+4182,Wölflinswil,Wölflinswil,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Wölflinswil
+4183,Zeihen,Zeihen,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Zeihen
+4184,Mettauertal,Mettauertal,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Mettauertal
+4185,Böztal,Böztal,1906,Laufenburg,AG,19,Aargau,Aargau,Aargau,Böztal
+4191,Ammerswil,Ammerswil,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Ammerswil
+4192,Boniswil,Boniswil,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Boniswil
+4193,Brunegg,Brunegg,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Brunegg
+4194,Dintikon,Dintikon,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Dintikon
+4195,Egliswil,Egliswil,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Egliswil
+4196,Fahrwangen,Fahrwangen,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Fahrwangen
+4197,Hallwil,Hallwil,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Hallwil
+4198,Hendschiken,Hendschiken,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Hendschiken
+4199,Holderbank (AG),Holderbank (AG),1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Holderbank (AG)
+4200,Hunzenschwil,Hunzenschwil,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Hunzenschwil
+4201,Lenzburg,Lenzburg,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Lenzburg
+4202,Meisterschwanden,Meisterschwanden,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Meisterschwanden
+4203,Möriken-Wildegg,Möriken-Wildegg,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Möriken-Wildegg
+4204,Niederlenz,Niederlenz,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Niederlenz
+4205,Othmarsingen,Othmarsingen,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Othmarsingen
+4206,Rupperswil,Rupperswil,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Rupperswil
+4207,Schafisheim,Schafisheim,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Schafisheim
+4208,Seengen,Seengen,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Seengen
+4209,Seon,Seon,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Seon
+4210,Staufen,Staufen,1907,Lenzburg,AG,19,Aargau,Aargau,Aargau,Staufen
+4221,Abtwil,Abtwil,1908,Muri,AG,19,Aargau,Aargau,Aargau,Abtwil
+4222,Aristau,Aristau,1908,Muri,AG,19,Aargau,Aargau,Aargau,Aristau
+4223,Auw,Auw,1908,Muri,AG,19,Aargau,Aargau,Aargau,Auw
+4224,Beinwil (Freiamt),Beinwil (Freiamt),1908,Muri,AG,19,Aargau,Aargau,Aargau,Beinwil (Freiamt)
+4226,Besenbüren,Besenbüren,1908,Muri,AG,19,Aargau,Aargau,Aargau,Besenbüren
+4227,Bettwil,Bettwil,1908,Muri,AG,19,Aargau,Aargau,Aargau,Bettwil
+4228,Boswil,Boswil,1908,Muri,AG,19,Aargau,Aargau,Aargau,Boswil
+4229,Bünzen,Bünzen,1908,Muri,AG,19,Aargau,Aargau,Aargau,Bünzen
+4230,Buttwil,Buttwil,1908,Muri,AG,19,Aargau,Aargau,Aargau,Buttwil
+4231,Dietwil,Dietwil,1908,Muri,AG,19,Aargau,Aargau,Aargau,Dietwil
+4232,Geltwil,Geltwil,1908,Muri,AG,19,Aargau,Aargau,Aargau,Geltwil
+4233,Kallern,Kallern,1908,Muri,AG,19,Aargau,Aargau,Aargau,Kallern
+4234,Merenschwand,Merenschwand,1908,Muri,AG,19,Aargau,Aargau,Aargau,Merenschwand
+4235,Mühlau,Mühlau,1908,Muri,AG,19,Aargau,Aargau,Aargau,Mühlau
+4236,Muri (AG),Muri (AG),1908,Muri,AG,19,Aargau,Aargau,Aargau,Muri (AG)
+4237,Oberrüti,Oberrüti,1908,Muri,AG,19,Aargau,Aargau,Aargau,Oberrüti
+4238,Rottenschwil,Rottenschwil,1908,Muri,AG,19,Aargau,Aargau,Aargau,Rottenschwil
+4239,Sins,Sins,1908,Muri,AG,19,Aargau,Aargau,Aargau,Sins
+4240,Waltenschwil,Waltenschwil,1908,Muri,AG,19,Aargau,Aargau,Aargau,Waltenschwil
+4251,Hellikon,Hellikon,1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Hellikon
+4252,Kaiseraugst,Kaiseraugst,1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Kaiseraugst
+4253,Magden,Magden,1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Magden
+4254,Möhlin,Möhlin,1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Möhlin
+4255,Mumpf,Mumpf,1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Mumpf
+4256,Obermumpf,Obermumpf,1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Obermumpf
+4257,Olsberg,Olsberg,1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Olsberg
+4258,Rheinfelden,Rheinfelden,1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Rheinfelden
+4259,Schupfart,Schupfart,1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Schupfart
+4260,Stein (AG),Stein (AG),1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Stein (AG)
+4261,Wallbach,Wallbach,1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Wallbach
+4262,Wegenstetten,Wegenstetten,1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Wegenstetten
+4263,Zeiningen,Zeiningen,1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Zeiningen
+4264,Zuzgen,Zuzgen,1909,Rheinfelden,AG,19,Aargau,Aargau,Aargau,Zuzgen
+4271,Aarburg,Aarburg,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Aarburg
+4273,Bottenwil,Bottenwil,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Bottenwil
+4274,Brittnau,Brittnau,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Brittnau
+4275,Kirchleerau,Kirchleerau,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Kirchleerau
+4276,Kölliken,Kölliken,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Kölliken
+4277,Moosleerau,Moosleerau,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Moosleerau
+4279,Murgenthal,Murgenthal,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Murgenthal
+4280,Oftringen,Oftringen,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Oftringen
+4281,Reitnau,Reitnau,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Reitnau
+4282,Rothrist,Rothrist,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Rothrist
+4283,Safenwil,Safenwil,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Safenwil
+4284,Staffelbach,Staffelbach,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Staffelbach
+4285,Strengelbach,Strengelbach,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Strengelbach
+4286,Uerkheim,Uerkheim,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Uerkheim
+4287,Vordemwald,Vordemwald,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Vordemwald
+4288,Wiliberg,Wiliberg,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Wiliberg
+4289,Zofingen,Zofingen,1910,Zofingen,AG,19,Aargau,Aargau,Aargau,Zofingen
+4303,Böttstein,Böttstein,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Böttstein
+4304,Döttingen,Döttingen,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Döttingen
+4305,Endingen,Endingen,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Endingen
+4306,Fisibach,Fisibach,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Fisibach
+4307,Full-Reuenthal,Full-Reuenthal,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Full-Reuenthal
+4309,Klingnau,Klingnau,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Klingnau
+4310,Koblenz,Koblenz,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Koblenz
+4311,Leibstadt,Leibstadt,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Leibstadt
+4312,Lengnau (AG),Lengnau (AG),1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Lengnau (AG)
+4313,Leuggern,Leuggern,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Leuggern
+4314,Mellikon,Mellikon,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Mellikon
+4318,Schneisingen,Schneisingen,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Schneisingen
+4319,Siglistorf,Siglistorf,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Siglistorf
+4320,Tegerfelden,Tegerfelden,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Tegerfelden
+4324,Zurzach,Zurzach,1911,Zurzach,AG,19,Aargau,Aargau,Aargau,Zurzach
+4401,Arbon,Arbon,2011,Arbon,TG,20,Thurgau,Thurgau,Thurgau,Arbon
+4406,Dozwil,Dozwil,2011,Arbon,TG,20,Thurgau,Thurgau,Thurgau,Dozwil
+4411,Egnach,Egnach,2011,Arbon,TG,20,Thurgau,Thurgau,Thurgau,Egnach
+4416,Hefenhofen,Hefenhofen,2011,Arbon,TG,20,Thurgau,Thurgau,Thurgau,Hefenhofen
+4421,Horn,Horn,2011,Arbon,TG,20,Thurgau,Thurgau,Thurgau,Horn
+4426,Kesswil,Kesswil,2011,Arbon,TG,20,Thurgau,Thurgau,Thurgau,Kesswil
+4431,Roggwil (TG),Roggwil (TG),2011,Arbon,TG,20,Thurgau,Thurgau,Thurgau,Roggwil (TG)
+4436,Romanshorn,Romanshorn,2011,Arbon,TG,20,Thurgau,Thurgau,Thurgau,Romanshorn
+4441,Salmsach,Salmsach,2011,Arbon,TG,20,Thurgau,Thurgau,Thurgau,Salmsach
+4446,Sommeri,Sommeri,2011,Arbon,TG,20,Thurgau,Thurgau,Thurgau,Sommeri
+4451,Uttwil,Uttwil,2011,Arbon,TG,20,Thurgau,Thurgau,Thurgau,Uttwil
+4461,Amriswil,Amriswil,2011,Arbon,TG,20,Thurgau,Thurgau,Thurgau,Amriswil
+4471,Bischofszell,Bischofszell,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Bischofszell
+4476,Erlen,Erlen,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Erlen
+4486,Hauptwil-Gottshaus,Hauptwil-Gottshaus,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Hauptwil-Gottshaus
+4495,Hohentannen,Hohentannen,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Hohentannen
+4501,Kradolf-Schönenberg,Kradolf-Schönenberg,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Kradolf-Schönenberg
+4506,Sulgen,Sulgen,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Sulgen
+4511,Zihlschlacht-Sitterdorf,Zihlschlacht-Sitterdorf,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Zihlschlacht-Sitterdorf
+4536,Basadingen-Schlattingen,Basadingen-Schlattingen,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Basadingen-Schlattingen
+4545,Diessenhofen,Diessenhofen,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Diessenhofen
+4546,Schlatt (TG),Schlatt (TG),2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Schlatt (TG)
+4551,Aadorf,Aadorf,2014,Münchwilen,TG,20,Thurgau,Thurgau,Thurgau,Aadorf
+4561,Felben-Wellhausen,Felben-Wellhausen,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Felben-Wellhausen
+4566,Frauenfeld,Frauenfeld,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Frauenfeld
+4571,Gachnang,Gachnang,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Gachnang
+4590,Hüttlingen,Hüttlingen,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Hüttlingen
+4591,Matzingen,Matzingen,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Matzingen
+4601,Neunforn,Neunforn,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Neunforn
+4606,Stettfurt,Stettfurt,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Stettfurt
+4611,Thundorf,Thundorf,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Thundorf
+4616,Uesslingen-Buch,Uesslingen-Buch,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Uesslingen-Buch
+4621,Warth-Weiningen,Warth-Weiningen,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Warth-Weiningen
+4641,Altnau,Altnau,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Altnau
+4643,Bottighofen,Bottighofen,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Bottighofen
+4646,Ermatingen,Ermatingen,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Ermatingen
+4651,Gottlieben,Gottlieben,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Gottlieben
+4656,Güttingen,Güttingen,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Güttingen
+4666,Kemmental,Kemmental,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Kemmental
+4671,Kreuzlingen,Kreuzlingen,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Kreuzlingen
+4681,Langrickenbach,Langrickenbach,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Langrickenbach
+4683,Lengwil,Lengwil,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Lengwil
+4691,Münsterlingen,Münsterlingen,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Münsterlingen
+4696,Tägerwilen,Tägerwilen,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Tägerwilen
+4701,Wäldi,Wäldi,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Wäldi
+4711,Affeltrangen,Affeltrangen,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Affeltrangen
+4716,Bettwiesen,Bettwiesen,2014,Münchwilen,TG,20,Thurgau,Thurgau,Thurgau,Bettwiesen
+4721,Bichelsee-Balterswil,Bichelsee-Balterswil,2014,Münchwilen,TG,20,Thurgau,Thurgau,Thurgau,Bichelsee-Balterswil
+4723,Braunau,Braunau,2014,Münchwilen,TG,20,Thurgau,Thurgau,Thurgau,Braunau
+4724,Eschlikon,Eschlikon,2014,Münchwilen,TG,20,Thurgau,Thurgau,Thurgau,Eschlikon
+4726,Fischingen,Fischingen,2014,Münchwilen,TG,20,Thurgau,Thurgau,Thurgau,Fischingen
+4741,Lommis,Lommis,2014,Münchwilen,TG,20,Thurgau,Thurgau,Thurgau,Lommis
+4746,Münchwilen (TG),Münchwilen (TG),2014,Münchwilen,TG,20,Thurgau,Thurgau,Thurgau,Münchwilen (TG)
+4751,Rickenbach (TG),Rickenbach (TG),2014,Münchwilen,TG,20,Thurgau,Thurgau,Thurgau,Rickenbach (TG)
+4756,Schönholzerswilen,Schönholzerswilen,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Schönholzerswilen
+4761,Sirnach,Sirnach,2014,Münchwilen,TG,20,Thurgau,Thurgau,Thurgau,Sirnach
+4776,Tobel-Tägerschen,Tobel-Tägerschen,2014,Münchwilen,TG,20,Thurgau,Thurgau,Thurgau,Tobel-Tägerschen
+4781,Wängi,Wängi,2014,Münchwilen,TG,20,Thurgau,Thurgau,Thurgau,Wängi
+4786,Wilen (TG),Wilen (TG),2014,Münchwilen,TG,20,Thurgau,Thurgau,Thurgau,Wilen (TG)
+4791,Wuppenau,Wuppenau,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Wuppenau
+4801,Berlingen,Berlingen,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Berlingen
+4806,Eschenz,Eschenz,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Eschenz
+4811,Herdern,Herdern,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Herdern
+4816,Homburg,Homburg,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Homburg
+4821,Hüttwilen,Hüttwilen,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Hüttwilen
+4826,Mammern,Mammern,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Mammern
+4831,Müllheim,Müllheim,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Müllheim
+4841,Pfyn,Pfyn,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Pfyn
+4846,Raperswilen,Raperswilen,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Raperswilen
+4851,Salenstein,Salenstein,2013,Kreuzlingen,TG,20,Thurgau,Thurgau,Thurgau,Salenstein
+4864,Steckborn,Steckborn,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Steckborn
+4871,Wagenhausen,Wagenhausen,2012,Frauenfeld,TG,20,Thurgau,Thurgau,Thurgau,Wagenhausen
+4881,Amlikon-Bissegg,Amlikon-Bissegg,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Amlikon-Bissegg
+4891,Berg (TG),Berg (TG),2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Berg (TG)
+4901,Birwinken,Birwinken,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Birwinken
+4911,Bürglen (TG),Bürglen (TG),2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Bürglen (TG)
+4921,Bussnang,Bussnang,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Bussnang
+4941,Märstetten,Märstetten,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Märstetten
+4946,Weinfelden,Weinfelden,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Weinfelden
+4951,Wigoltingen,Wigoltingen,2015,Weinfelden,TG,20,Thurgau,Thurgau,Thurgau,Wigoltingen
+5001,Arbedo-Castione,Arbedo-Castione,2101,Bellinzona,TI,21,Ticino,Tessin,Ticino,Arbedo-Castione
+5002,Bellinzona,Bellinzona,2101,Bellinzona,TI,21,Ticino,Tessin,Ticino,Bellinzona
+5003,Cadenazzo,Cadenazzo,2101,Bellinzona,TI,21,Ticino,Tessin,Ticino,Cadenazzo
+5009,Isone,Isone,2101,Bellinzona,TI,21,Ticino,Tessin,Ticino,Isone
+5010,Lumino,Lumino,2101,Bellinzona,TI,21,Ticino,Tessin,Ticino,Lumino
+5017,Sant'Antonino,Sant'Antonino,2101,Bellinzona,TI,21,Ticino,Tessin,Ticino,Sant'Antonino
+5048,Acquarossa,Acquarossa,2102,Blenio,TI,21,Ticino,Tessin,Ticino,Acquarossa
+5049,Blenio,Blenio,2102,Blenio,TI,21,Ticino,Tessin,Ticino,Blenio
+5050,Serravalle,Serravalle,2102,Blenio,TI,21,Ticino,Tessin,Ticino,Serravalle
+5061,Airolo,Airolo,2103,Leventina,TI,21,Ticino,Tessin,Ticino,Airolo
+5063,Bedretto,Bedretto,2103,Leventina,TI,21,Ticino,Tessin,Ticino,Bedretto
+5064,Bodio,Bodio,2103,Leventina,TI,21,Ticino,Tessin,Ticino,Bodio
+5071,Dalpe,Dalpe,2103,Leventina,TI,21,Ticino,Tessin,Ticino,Dalpe
+5072,Faido,Faido,2103,Leventina,TI,21,Ticino,Tessin,Ticino,Faido
+5073,Giornico,Giornico,2103,Leventina,TI,21,Ticino,Tessin,Ticino,Giornico
+5076,Personico,Personico,2103,Leventina,TI,21,Ticino,Tessin,Ticino,Personico
+5077,Pollegio,Pollegio,2103,Leventina,TI,21,Ticino,Tessin,Ticino,Pollegio
+5078,Prato (Leventina),Prato (Leventina),2103,Leventina,TI,21,Ticino,Tessin,Ticino,Prato (Leventina)
+5079,Quinto,Quinto,2103,Leventina,TI,21,Ticino,Tessin,Ticino,Quinto
+5091,Ascona,Ascona,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Ascona
+5096,Brione sopra Minusio,Brione sopra Minusio,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Brione sopra Minusio
+5097,Brissago,Brissago,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Brissago
+5108,Gordola,Gordola,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Gordola
+5112,Lavertezzo,Lavertezzo,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Lavertezzo
+5113,Locarno,Locarno,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Locarno
+5115,Losone,Losone,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Losone
+5117,Mergoscia,Mergoscia,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Mergoscia
+5118,Minusio,Minusio,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Minusio
+5120,Muralto,Muralto,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Muralto
+5121,Orselina,Orselina,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Orselina
+5125,Ronco sopra Ascona,Ronco sopra Ascona,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Ronco sopra Ascona
+5131,Tenero-Contra,Tenero-Contra,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Tenero-Contra
+5136,Onsernone,Onsernone,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Onsernone
+5138,Cugnasco-Gerra,Cugnasco-Gerra,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Cugnasco-Gerra
+5141,Agno,Agno,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Agno
+5143,Aranno,Aranno,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Aranno
+5144,Arogno,Arogno,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Arogno
+5146,Astano,Astano,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Astano
+5148,Bedano,Bedano,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Bedano
+5149,Bedigliora,Bedigliora,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Bedigliora
+5151,Bioggio,Bioggio,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Bioggio
+5154,Bissone,Bissone,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Bissone
+5160,Brusino Arsizio,Brusino Arsizio,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Brusino Arsizio
+5161,Cademario,Cademario,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Cademario
+5162,Cadempino,Cadempino,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Cadempino
+5167,Canobbio,Canobbio,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Canobbio
+5171,Caslano,Caslano,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Caslano
+5176,Comano,Comano,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Comano
+5180,Cureglia,Cureglia,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Cureglia
+5181,Curio,Curio,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Curio
+5186,Grancia,Grancia,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Grancia
+5187,Gravesano,Gravesano,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Gravesano
+5189,Lamone,Lamone,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Lamone
+5192,Lugano,Lugano,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Lugano
+5193,Magliaso,Magliaso,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Magliaso
+5194,Manno,Manno,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Manno
+5195,Maroggia,Maroggia,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Maroggia
+5196,Massagno,Massagno,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Massagno
+5197,Melano,Melano,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Melano
+5198,Melide,Melide,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Melide
+5199,Mezzovico-Vira,Mezzovico-Vira,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Mezzovico-Vira
+5200,Miglieglia,Miglieglia,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Miglieglia
+5203,Morcote,Morcote,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Morcote
+5205,Muzzano,Muzzano,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Muzzano
+5206,Neggio,Neggio,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Neggio
+5207,Novaggio,Novaggio,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Novaggio
+5208,Origlio,Origlio,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Origlio
+5210,Paradiso,Paradiso,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Paradiso
+5212,Ponte Capriasca,Ponte Capriasca,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Ponte Capriasca
+5214,Porza,Porza,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Porza
+5216,Pura,Pura,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Pura
+5219,Rovio,Rovio,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Rovio
+5221,Savosa,Savosa,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Savosa
+5225,Sorengo,Sorengo,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Sorengo
+5226,Capriasca,Capriasca,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Capriasca
+5227,Torricella-Taverne,Torricella-Taverne,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Torricella-Taverne
+5230,Vernate,Vernate,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Vernate
+5231,Vezia,Vezia,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Vezia
+5233,Vico Morcote,Vico Morcote,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Vico Morcote
+5236,Collina d'Oro,Collina d'Oro,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Collina d'Oro
+5237,Alto Malcantone,Alto Malcantone,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Alto Malcantone
+5238,Monteceneri,Monteceneri,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Monteceneri
+5239,Tresa,Tresa,2105,Lugano,TI,21,Ticino,Tessin,Ticino,Tresa
+5242,Balerna,Balerna,2106,Mendrisio,TI,21,Ticino,Tessin,Ticino,Balerna
+5249,Castel San Pietro,Castel San Pietro,2106,Mendrisio,TI,21,Ticino,Tessin,Ticino,Castel San Pietro
+5250,Chiasso,Chiasso,2106,Mendrisio,TI,21,Ticino,Tessin,Ticino,Chiasso
+5251,Coldrerio,Coldrerio,2106,Mendrisio,TI,21,Ticino,Tessin,Ticino,Coldrerio
+5254,Mendrisio,Mendrisio,2106,Mendrisio,TI,21,Ticino,Tessin,Ticino,Mendrisio
+5257,Morbio Inferiore,Morbio Inferiore,2106,Mendrisio,TI,21,Ticino,Tessin,Ticino,Morbio Inferiore
+5260,Novazzano,Novazzano,2106,Mendrisio,TI,21,Ticino,Tessin,Ticino,Novazzano
+5263,Riva San Vitale,Riva San Vitale,2106,Mendrisio,TI,21,Ticino,Tessin,Ticino,Riva San Vitale
+5266,Stabio,Stabio,2106,Mendrisio,TI,21,Ticino,Tessin,Ticino,Stabio
+5268,Vacallo,Vacallo,2106,Mendrisio,TI,21,Ticino,Tessin,Ticino,Vacallo
+5269,Breggia,Breggia,2106,Mendrisio,TI,21,Ticino,Tessin,Ticino,Breggia
+5281,Biasca,Biasca,2107,Riviera,TI,21,Ticino,Tessin,Ticino,Biasca
+5287,Riviera,Riviera,2107,Riviera,TI,21,Ticino,Tessin,Ticino,Riviera
+5304,Bosco/Gurin,Bosco/Gurin,2108,Vallemaggia,TI,21,Ticino,Tessin,Ticino,Bosco/Gurin
+5307,Campo (Vallemaggia),Campo (Vallemaggia),2108,Vallemaggia,TI,21,Ticino,Tessin,Ticino,Campo (Vallemaggia)
+5309,Cerentino,Cerentino,2108,Vallemaggia,TI,21,Ticino,Tessin,Ticino,Cerentino
+5310,Cevio,Cevio,2108,Vallemaggia,TI,21,Ticino,Tessin,Ticino,Cevio
+5315,Linescio,Linescio,2108,Vallemaggia,TI,21,Ticino,Tessin,Ticino,Linescio
+5317,Maggia,Maggia,2108,Vallemaggia,TI,21,Ticino,Tessin,Ticino,Maggia
+5323,Lavizzara,Lavizzara,2108,Vallemaggia,TI,21,Ticino,Tessin,Ticino,Lavizzara
+5324,Avegno Gordevio,Avegno Gordevio,2108,Vallemaggia,TI,21,Ticino,Tessin,Ticino,Avegno Gordevio
+5396,Terre di Pedemonte,Terre di Pedemonte,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Terre di Pedemonte
+5397,Centovalli,Centovalli,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Centovalli
+5398,Gambarogno,Gambarogno,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Gambarogno
+5399,Verzasca,Verzasca,2104,Locarno,TI,21,Ticino,Tessin,Ticino,Verzasca
+5401,Aigle,Aigle,2221,Aigle,VD,22,Vaud,Waadt,Vaud,Aigle
+5402,Bex,Bex,2221,Aigle,VD,22,Vaud,Waadt,Vaud,Bex
+5403,Chessel,Chessel,2221,Aigle,VD,22,Vaud,Waadt,Vaud,Chessel
+5404,Corbeyrier,Corbeyrier,2221,Aigle,VD,22,Vaud,Waadt,Vaud,Corbeyrier
+5405,Gryon,Gryon,2221,Aigle,VD,22,Vaud,Waadt,Vaud,Gryon
+5406,Lavey-Morcles,Lavey-Morcles,2221,Aigle,VD,22,Vaud,Waadt,Vaud,Lavey-Morcles
+5407,Leysin,Leysin,2221,Aigle,VD,22,Vaud,Waadt,Vaud,Leysin
+5408,Noville,Noville,2221,Aigle,VD,22,Vaud,Waadt,Vaud,Noville
+5409,Ollon,Ollon,2221,Aigle,VD,22,Vaud,Waadt,Vaud,Ollon
+5410,Ormont-Dessous,Ormont-Dessous,2221,Aigle,VD,22,Vaud,Waadt,Vaud,Ormont-Dessous
+5411,Ormont-Dessus,Ormont-Dessus,2221,Aigle,VD,22,Vaud,Waadt,Vaud,Ormont-Dessus
+5412,Rennaz,Rennaz,2221,Aigle,VD,22,Vaud,Waadt,Vaud,Rennaz
+5413,Roche (VD),Roche (VD),2221,Aigle,VD,22,Vaud,Waadt,Vaud,Roche (VD)
+5414,Villeneuve (VD),Villeneuve (VD),2221,Aigle,VD,22,Vaud,Waadt,Vaud,Villeneuve (VD)
+5415,Yvorne,Yvorne,2221,Aigle,VD,22,Vaud,Waadt,Vaud,Yvorne
+5422,Aubonne,Aubonne,2227,Morges,VD,22,Vaud,Waadt,Vaud,Aubonne
+5423,Ballens,Ballens,2227,Morges,VD,22,Vaud,Waadt,Vaud,Ballens
+5424,Berolle,Berolle,2227,Morges,VD,22,Vaud,Waadt,Vaud,Berolle
+5425,Bière,Bière,2227,Morges,VD,22,Vaud,Waadt,Vaud,Bière
+5426,Bougy-Villars,Bougy-Villars,2227,Morges,VD,22,Vaud,Waadt,Vaud,Bougy-Villars
+5427,Féchy,Féchy,2227,Morges,VD,22,Vaud,Waadt,Vaud,Féchy
+5428,Gimel,Gimel,2227,Morges,VD,22,Vaud,Waadt,Vaud,Gimel
+5429,Longirod,Longirod,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Longirod
+5430,Marchissy,Marchissy,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Marchissy
+5431,Mollens (VD),Mollens (VD),2227,Morges,VD,22,Vaud,Waadt,Vaud,Mollens (VD)
+5434,Saint-George,Saint-George,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Saint-George
+5435,Saint-Livres,Saint-Livres,2227,Morges,VD,22,Vaud,Waadt,Vaud,Saint-Livres
+5436,Saint-Oyens,Saint-Oyens,2227,Morges,VD,22,Vaud,Waadt,Vaud,Saint-Oyens
+5437,Saubraz,Saubraz,2227,Morges,VD,22,Vaud,Waadt,Vaud,Saubraz
+5451,Avenches,Avenches,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Avenches
+5456,Cudrefin,Cudrefin,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Cudrefin
+5458,Faoug,Faoug,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Faoug
+5464,Vully-les-Lacs,Vully-les-Lacs,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Vully-les-Lacs
+5471,Bettens,Bettens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Bettens
+5472,Bournens,Bournens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Bournens
+5473,Boussens,Boussens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Boussens
+5474,La Chaux (Cossonay),La Chaux (Cossonay),2227,Morges,VD,22,Vaud,Waadt,Vaud,La Chaux (Cossonay)
+5475,Chavannes-le-Veyron,Chavannes-le-Veyron,2227,Morges,VD,22,Vaud,Waadt,Vaud,Chavannes-le-Veyron
+5476,Chevilly,Chevilly,2227,Morges,VD,22,Vaud,Waadt,Vaud,Chevilly
+5477,Cossonay,Cossonay,2227,Morges,VD,22,Vaud,Waadt,Vaud,Cossonay
+5479,Cuarnens,Cuarnens,2227,Morges,VD,22,Vaud,Waadt,Vaud,Cuarnens
+5480,Daillens,Daillens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Daillens
+5481,Dizy,Dizy,2227,Morges,VD,22,Vaud,Waadt,Vaud,Dizy
+5482,Eclépens,Eclépens,2227,Morges,VD,22,Vaud,Waadt,Vaud,Eclépens
+5483,Ferreyres,Ferreyres,2227,Morges,VD,22,Vaud,Waadt,Vaud,Ferreyres
+5484,Gollion,Gollion,2227,Morges,VD,22,Vaud,Waadt,Vaud,Gollion
+5485,Grancy,Grancy,2227,Morges,VD,22,Vaud,Waadt,Vaud,Grancy
+5486,L'Isle,L'Isle,2227,Morges,VD,22,Vaud,Waadt,Vaud,L'Isle
+5487,Lussery-Villars,Lussery-Villars,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Lussery-Villars
+5488,Mauraz,Mauraz,2227,Morges,VD,22,Vaud,Waadt,Vaud,Mauraz
+5489,Mex (VD),Mex (VD),2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Mex (VD)
+5490,Moiry,Moiry,2227,Morges,VD,22,Vaud,Waadt,Vaud,Moiry
+5491,Mont-la-Ville,Mont-la-Ville,2227,Morges,VD,22,Vaud,Waadt,Vaud,Mont-la-Ville
+5492,Montricher,Montricher,2227,Morges,VD,22,Vaud,Waadt,Vaud,Montricher
+5493,Orny,Orny,2227,Morges,VD,22,Vaud,Waadt,Vaud,Orny
+5495,Penthalaz,Penthalaz,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Penthalaz
+5496,Penthaz,Penthaz,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Penthaz
+5497,Pompaples,Pompaples,2227,Morges,VD,22,Vaud,Waadt,Vaud,Pompaples
+5498,La Sarraz,La Sarraz,2227,Morges,VD,22,Vaud,Waadt,Vaud,La Sarraz
+5499,Senarclens,Senarclens,2227,Morges,VD,22,Vaud,Waadt,Vaud,Senarclens
+5501,Sullens,Sullens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Sullens
+5503,Vufflens-la-Ville,Vufflens-la-Ville,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Vufflens-la-Ville
+5511,Assens,Assens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Assens
+5512,Bercher,Bercher,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Bercher
+5514,Bottens,Bottens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Bottens
+5515,Bretigny-sur-Morrens,Bretigny-sur-Morrens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Bretigny-sur-Morrens
+5516,Cugy (VD),Cugy (VD),2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Cugy (VD)
+5518,Echallens,Echallens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Echallens
+5520,Essertines-sur-Yverdon,Essertines-sur-Yverdon,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Essertines-sur-Yverdon
+5521,Etagnières,Etagnières,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Etagnières
+5522,Fey,Fey,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Fey
+5523,Froideville,Froideville,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Froideville
+5527,Morrens (VD),Morrens (VD),2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Morrens (VD)
+5529,Oulens-sous-Echallens,Oulens-sous-Echallens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Oulens-sous-Echallens
+5530,Pailly,Pailly,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Pailly
+5531,Penthéréaz,Penthéréaz,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Penthéréaz
+5533,Poliez-Pittet,Poliez-Pittet,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Poliez-Pittet
+5534,Rueyres,Rueyres,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Rueyres
+5535,Saint-Barthélemy (VD),Saint-Barthélemy (VD),2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Saint-Barthélemy (VD)
+5537,Villars-le-Terroir,Villars-le-Terroir,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Villars-le-Terroir
+5539,Vuarrens,Vuarrens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Vuarrens
+5540,Montilliez,Montilliez,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Montilliez
+5541,Goumoëns,Goumoëns,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Goumoëns
+5551,Bonvillars,Bonvillars,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Bonvillars
+5552,Bullet,Bullet,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Bullet
+5553,Champagne,Champagne,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Champagne
+5554,Concise,Concise,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Concise
+5555,Corcelles-près-Concise,Corcelles-près-Concise,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Corcelles-près-Concise
+5556,Fiez,Fiez,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Fiez
+5557,Fontaines-sur-Grandson,Fontaines-sur-Grandson,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Fontaines-sur-Grandson
+5559,Giez,Giez,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Giez
+5560,Grandevent,Grandevent,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Grandevent
+5561,Grandson,Grandson,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Grandson
+5562,Mauborget,Mauborget,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Mauborget
+5563,Mutrux,Mutrux,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Mutrux
+5564,Novalles,Novalles,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Novalles
+5565,Onnens (VD),Onnens (VD),2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Onnens (VD)
+5566,Provence,Provence,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Provence
+5568,Sainte-Croix,Sainte-Croix,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Sainte-Croix
+5571,Tévenon,Tévenon,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Tévenon
+5581,Belmont-sur-Lausanne,Belmont-sur-Lausanne,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Belmont-sur-Lausanne
+5582,Cheseaux-sur-Lausanne,Cheseaux-sur-Lausanne,2225,Lausanne,VD,22,Vaud,Waadt,Vaud,Cheseaux-sur-Lausanne
+5583,Crissier,Crissier,2229,Ouest lausannois,VD,22,Vaud,Waadt,Vaud,Crissier
+5584,Epalinges,Epalinges,2225,Lausanne,VD,22,Vaud,Waadt,Vaud,Epalinges
+5585,Jouxtens-Mézery,Jouxtens-Mézery,2225,Lausanne,VD,22,Vaud,Waadt,Vaud,Jouxtens-Mézery
+5586,Lausanne,Lausanne,2225,Lausanne,VD,22,Vaud,Waadt,Vaud,Lausanne
+5587,Le Mont-sur-Lausanne,Le Mont-sur-Lausanne,2225,Lausanne,VD,22,Vaud,Waadt,Vaud,Le Mont-sur-Lausanne
+5588,Paudex,Paudex,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Paudex
+5589,Prilly,Prilly,2229,Ouest lausannois,VD,22,Vaud,Waadt,Vaud,Prilly
+5590,Pully,Pully,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Pully
+5591,Renens (VD),Renens (VD),2229,Ouest lausannois,VD,22,Vaud,Waadt,Vaud,Renens (VD)
+5592,Romanel-sur-Lausanne,Romanel-sur-Lausanne,2225,Lausanne,VD,22,Vaud,Waadt,Vaud,Romanel-sur-Lausanne
+5601,Chexbres,Chexbres,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Chexbres
+5604,Forel (Lavaux),Forel (Lavaux),2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Forel (Lavaux)
+5606,Lutry,Lutry,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Lutry
+5607,Puidoux,Puidoux,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Puidoux
+5609,Rivaz,Rivaz,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Rivaz
+5610,Saint-Saphorin (Lavaux),Saint-Saphorin (Lavaux),2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Saint-Saphorin (Lavaux)
+5611,Savigny,Savigny,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Savigny
+5613,Bourg-en-Lavaux,Bourg-en-Lavaux,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Bourg-en-Lavaux
+5621,Aclens,Aclens,2227,Morges,VD,22,Vaud,Waadt,Vaud,Aclens
+5622,Bremblens,Bremblens,2227,Morges,VD,22,Vaud,Waadt,Vaud,Bremblens
+5623,Buchillon,Buchillon,2227,Morges,VD,22,Vaud,Waadt,Vaud,Buchillon
+5624,Bussigny,Bussigny,2229,Ouest lausannois,VD,22,Vaud,Waadt,Vaud,Bussigny
+5627,Chavannes-près-Renens,Chavannes-près-Renens,2229,Ouest lausannois,VD,22,Vaud,Waadt,Vaud,Chavannes-près-Renens
+5628,Chigny,Chigny,2227,Morges,VD,22,Vaud,Waadt,Vaud,Chigny
+5629,Clarmont,Clarmont,2227,Morges,VD,22,Vaud,Waadt,Vaud,Clarmont
+5631,Denens,Denens,2227,Morges,VD,22,Vaud,Waadt,Vaud,Denens
+5632,Denges,Denges,2227,Morges,VD,22,Vaud,Waadt,Vaud,Denges
+5633,Echandens,Echandens,2227,Morges,VD,22,Vaud,Waadt,Vaud,Echandens
+5634,Echichens,Echichens,2227,Morges,VD,22,Vaud,Waadt,Vaud,Echichens
+5635,Ecublens (VD),Ecublens (VD),2229,Ouest lausannois,VD,22,Vaud,Waadt,Vaud,Ecublens (VD)
+5636,Etoy,Etoy,2227,Morges,VD,22,Vaud,Waadt,Vaud,Etoy
+5637,Lavigny,Lavigny,2227,Morges,VD,22,Vaud,Waadt,Vaud,Lavigny
+5638,Lonay,Lonay,2227,Morges,VD,22,Vaud,Waadt,Vaud,Lonay
+5639,Lully (VD),Lully (VD),2227,Morges,VD,22,Vaud,Waadt,Vaud,Lully (VD)
+5640,Lussy-sur-Morges,Lussy-sur-Morges,2227,Morges,VD,22,Vaud,Waadt,Vaud,Lussy-sur-Morges
+5642,Morges,Morges,2227,Morges,VD,22,Vaud,Waadt,Vaud,Morges
+5643,Préverenges,Préverenges,2227,Morges,VD,22,Vaud,Waadt,Vaud,Préverenges
+5645,Romanel-sur-Morges,Romanel-sur-Morges,2227,Morges,VD,22,Vaud,Waadt,Vaud,Romanel-sur-Morges
+5646,Saint-Prex,Saint-Prex,2227,Morges,VD,22,Vaud,Waadt,Vaud,Saint-Prex
+5648,Saint-Sulpice (VD),Saint-Sulpice (VD),2229,Ouest lausannois,VD,22,Vaud,Waadt,Vaud,Saint-Sulpice (VD)
+5649,Tolochenaz,Tolochenaz,2227,Morges,VD,22,Vaud,Waadt,Vaud,Tolochenaz
+5650,Vaux-sur-Morges,Vaux-sur-Morges,2227,Morges,VD,22,Vaud,Waadt,Vaud,Vaux-sur-Morges
+5651,Villars-Sainte-Croix,Villars-Sainte-Croix,2229,Ouest lausannois,VD,22,Vaud,Waadt,Vaud,Villars-Sainte-Croix
+5652,Villars-sous-Yens,Villars-sous-Yens,2227,Morges,VD,22,Vaud,Waadt,Vaud,Villars-sous-Yens
+5653,Vufflens-le-Château,Vufflens-le-Château,2227,Morges,VD,22,Vaud,Waadt,Vaud,Vufflens-le-Château
+5654,Vullierens,Vullierens,2227,Morges,VD,22,Vaud,Waadt,Vaud,Vullierens
+5655,Yens,Yens,2227,Morges,VD,22,Vaud,Waadt,Vaud,Yens
+5656,Hautemorges,Hautemorges,2227,Morges,VD,22,Vaud,Waadt,Vaud,Hautemorges
+5661,Boulens,Boulens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Boulens
+5663,Bussy-sur-Moudon,Bussy-sur-Moudon,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Bussy-sur-Moudon
+5665,Chavannes-sur-Moudon,Chavannes-sur-Moudon,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Chavannes-sur-Moudon
+5669,Curtilles,Curtilles,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Curtilles
+5671,Dompierre (VD),Dompierre (VD),2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Dompierre (VD)
+5673,Hermenches,Hermenches,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Hermenches
+5674,Lovatens,Lovatens,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Lovatens
+5675,Lucens,Lucens,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Lucens
+5678,Moudon,Moudon,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Moudon
+5680,Ogens,Ogens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Ogens
+5683,Prévonloup,Prévonloup,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Prévonloup
+5684,Rossenges,Rossenges,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Rossenges
+5688,Syens,Syens,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Syens
+5690,Villars-le-Comte,Villars-le-Comte,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Villars-le-Comte
+5692,Vucherens,Vucherens,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Vucherens
+5693,Montanaire,Montanaire,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Montanaire
+5701,Arnex-sur-Nyon,Arnex-sur-Nyon,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Arnex-sur-Nyon
+5702,Arzier-Le Muids,Arzier-Le Muids,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Arzier-Le Muids
+5703,Bassins,Bassins,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Bassins
+5704,Begnins,Begnins,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Begnins
+5705,Bogis-Bossey,Bogis-Bossey,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Bogis-Bossey
+5706,Borex,Borex,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Borex
+5707,Chavannes-de-Bogis,Chavannes-de-Bogis,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Chavannes-de-Bogis
+5708,Chavannes-des-Bois,Chavannes-des-Bois,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Chavannes-des-Bois
+5709,Chéserex,Chéserex,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Chéserex
+5710,Coinsins,Coinsins,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Coinsins
+5711,Commugny,Commugny,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Commugny
+5712,Coppet,Coppet,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Coppet
+5713,Crans (VD),Crans (VD),2228,Nyon,VD,22,Vaud,Waadt,Vaud,Crans (VD)
+5714,Crassier,Crassier,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Crassier
+5715,Duillier,Duillier,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Duillier
+5716,Eysins,Eysins,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Eysins
+5717,Founex,Founex,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Founex
+5718,Genolier,Genolier,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Genolier
+5719,Gingins,Gingins,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Gingins
+5720,Givrins,Givrins,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Givrins
+5721,Gland,Gland,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Gland
+5722,Grens,Grens,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Grens
+5723,Mies,Mies,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Mies
+5724,Nyon,Nyon,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Nyon
+5725,Prangins,Prangins,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Prangins
+5726,La Rippe,La Rippe,2228,Nyon,VD,22,Vaud,Waadt,Vaud,La Rippe
+5727,Saint-Cergue,Saint-Cergue,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Saint-Cergue
+5728,Signy-Avenex,Signy-Avenex,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Signy-Avenex
+5729,Tannay,Tannay,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Tannay
+5730,Trélex,Trélex,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Trélex
+5731,Le Vaud,Le Vaud,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Le Vaud
+5732,Vich,Vich,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Vich
+5741,L'Abergement,L'Abergement,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,L'Abergement
+5742,Agiez,Agiez,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Agiez
+5743,Arnex-sur-Orbe,Arnex-sur-Orbe,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Arnex-sur-Orbe
+5744,Ballaigues,Ballaigues,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Ballaigues
+5745,Baulmes,Baulmes,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Baulmes
+5746,Bavois,Bavois,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Bavois
+5747,Bofflens,Bofflens,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Bofflens
+5748,Bretonnières,Bretonnières,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Bretonnières
+5749,Chavornay,Chavornay,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Chavornay
+5750,Les Clées,Les Clées,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Les Clées
+5752,Croy,Croy,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Croy
+5754,Juriens,Juriens,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Juriens
+5755,Lignerolle,Lignerolle,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Lignerolle
+5756,Montcherand,Montcherand,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Montcherand
+5757,Orbe,Orbe,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Orbe
+5758,La Praz,La Praz,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,La Praz
+5759,Premier,Premier,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Premier
+5760,Rances,Rances,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Rances
+5761,Romainmôtier-Envy,Romainmôtier-Envy,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Romainmôtier-Envy
+5762,Sergey,Sergey,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Sergey
+5763,Valeyres-sous-Rances,Valeyres-sous-Rances,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Valeyres-sous-Rances
+5764,Vallorbe,Vallorbe,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Vallorbe
+5765,Vaulion,Vaulion,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Vaulion
+5766,Vuiteboeuf,Vuiteboeuf,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Vuiteboeuf
+5785,Corcelles-le-Jorat,Corcelles-le-Jorat,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Corcelles-le-Jorat
+5790,Maracon,Maracon,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Maracon
+5792,Montpreveyres,Montpreveyres,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Montpreveyres
+5798,Ropraz,Ropraz,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Ropraz
+5799,Servion,Servion,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Servion
+5803,Vulliens,Vulliens,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Vulliens
+5804,Jorat-Menthue,Jorat-Menthue,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Jorat-Menthue
+5805,Oron,Oron,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Oron
+5806,Jorat-Mézières,Jorat-Mézières,2226,Lavaux-Oron,VD,22,Vaud,Waadt,Vaud,Jorat-Mézières
+5812,Champtauroz,Champtauroz,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Champtauroz
+5813,Chevroux,Chevroux,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Chevroux
+5816,Corcelles-près-Payerne,Corcelles-près-Payerne,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Corcelles-près-Payerne
+5817,Grandcour,Grandcour,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Grandcour
+5819,Henniez,Henniez,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Henniez
+5821,Missy,Missy,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Missy
+5822,Payerne,Payerne,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Payerne
+5827,Trey,Trey,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Trey
+5828,Treytorrens (Payerne),Treytorrens (Payerne),2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Treytorrens (Payerne)
+5830,Villarzel,Villarzel,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Villarzel
+5831,Valbroye,Valbroye,2222,Broye-Vully,VD,22,Vaud,Waadt,Vaud,Valbroye
+5841,Château-d'Oex,Château-d'Oex,2230,Riviera-Pays-d'Enhaut,VD,22,Vaud,Waadt,Vaud,Château-d'Oex
+5842,Rossinière,Rossinière,2230,Riviera-Pays-d'Enhaut,VD,22,Vaud,Waadt,Vaud,Rossinière
+5843,Rougemont,Rougemont,2230,Riviera-Pays-d'Enhaut,VD,22,Vaud,Waadt,Vaud,Rougemont
+5851,Allaman,Allaman,2227,Morges,VD,22,Vaud,Waadt,Vaud,Allaman
+5852,Bursinel,Bursinel,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Bursinel
+5853,Bursins,Bursins,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Bursins
+5854,Burtigny,Burtigny,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Burtigny
+5855,Dully,Dully,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Dully
+5856,Essertines-sur-Rolle,Essertines-sur-Rolle,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Essertines-sur-Rolle
+5857,Gilly,Gilly,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Gilly
+5858,Luins,Luins,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Luins
+5859,Mont-sur-Rolle,Mont-sur-Rolle,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Mont-sur-Rolle
+5860,Perroy,Perroy,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Perroy
+5861,Rolle,Rolle,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Rolle
+5862,Tartegnin,Tartegnin,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Tartegnin
+5863,Vinzel,Vinzel,2228,Nyon,VD,22,Vaud,Waadt,Vaud,Vinzel
+5871,L'Abbaye,L'Abbaye,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,L'Abbaye
+5872,Le Chenit,Le Chenit,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Le Chenit
+5873,Le Lieu,Le Lieu,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Le Lieu
+5882,Chardonne,Chardonne,2230,Riviera-Pays-d'Enhaut,VD,22,Vaud,Waadt,Vaud,Chardonne
+5883,Corseaux,Corseaux,2230,Riviera-Pays-d'Enhaut,VD,22,Vaud,Waadt,Vaud,Corseaux
+5884,Corsier-sur-Vevey,Corsier-sur-Vevey,2230,Riviera-Pays-d'Enhaut,VD,22,Vaud,Waadt,Vaud,Corsier-sur-Vevey
+5885,Jongny,Jongny,2230,Riviera-Pays-d'Enhaut,VD,22,Vaud,Waadt,Vaud,Jongny
+5886,Montreux,Montreux,2230,Riviera-Pays-d'Enhaut,VD,22,Vaud,Waadt,Vaud,Montreux
+5889,La Tour-de-Peilz,La Tour-de-Peilz,2230,Riviera-Pays-d'Enhaut,VD,22,Vaud,Waadt,Vaud,La Tour-de-Peilz
+5890,Vevey,Vevey,2230,Riviera-Pays-d'Enhaut,VD,22,Vaud,Waadt,Vaud,Vevey
+5891,Veytaux,Veytaux,2230,Riviera-Pays-d'Enhaut,VD,22,Vaud,Waadt,Vaud,Veytaux
+5892,Blonay - Saint-Légier,Blonay - Saint-Légier,2230,Riviera-Pays-d'Enhaut,VD,22,Vaud,Waadt,Vaud,Blonay - Saint-Légier
+5902,Belmont-sur-Yverdon,Belmont-sur-Yverdon,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Belmont-sur-Yverdon
+5903,Bioley-Magnoux,Bioley-Magnoux,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Bioley-Magnoux
+5904,Chamblon,Chamblon,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Chamblon
+5905,Champvent,Champvent,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Champvent
+5907,Chavannes-le-Chêne,Chavannes-le-Chêne,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Chavannes-le-Chêne
+5908,Chêne-Pâquier,Chêne-Pâquier,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Chêne-Pâquier
+5909,Cheseaux-Noréaz,Cheseaux-Noréaz,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Cheseaux-Noréaz
+5910,Cronay,Cronay,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Cronay
+5911,Cuarny,Cuarny,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Cuarny
+5912,Démoret,Démoret,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Démoret
+5913,Donneloye,Donneloye,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Donneloye
+5914,Ependes (VD),Ependes (VD),2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Ependes (VD)
+5919,Mathod,Mathod,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Mathod
+5921,Molondin,Molondin,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Molondin
+5922,Montagny-près-Yverdon,Montagny-près-Yverdon,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Montagny-près-Yverdon
+5923,Oppens,Oppens,2223,Gros-de-Vaud,VD,22,Vaud,Waadt,Vaud,Oppens
+5924,Orges,Orges,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Orges
+5925,Orzens,Orzens,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Orzens
+5926,Pomy,Pomy,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Pomy
+5928,Rovray,Rovray,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Rovray
+5929,Suchy,Suchy,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Suchy
+5930,Suscévaz,Suscévaz,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Suscévaz
+5931,Treycovagnes,Treycovagnes,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Treycovagnes
+5932,Ursins,Ursins,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Ursins
+5933,Valeyres-sous-Montagny,Valeyres-sous-Montagny,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Valeyres-sous-Montagny
+5934,Valeyres-sous-Ursins,Valeyres-sous-Ursins,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Valeyres-sous-Ursins
+5935,Villars-Epeney,Villars-Epeney,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Villars-Epeney
+5937,Vugelles-La Mothe,Vugelles-La Mothe,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Vugelles-La Mothe
+5938,Yverdon-les-Bains,Yverdon-les-Bains,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Yverdon-les-Bains
+5939,Yvonand,Yvonand,2224,Jura-Nord vaudois,VD,22,Vaud,Waadt,Vaud,Yvonand
+6002,Brig-Glis,Brig-Glis,2301,Brig,VS,23,Valais / Wallis,Wallis,Valais,Brig-Glis
+6004,Eggerberg,Eggerberg,2301,Brig,VS,23,Valais / Wallis,Wallis,Valais,Eggerberg
+6007,Naters,Naters,2301,Brig,VS,23,Valais / Wallis,Wallis,Valais,Naters
+6008,Ried-Brig,Ried-Brig,2301,Brig,VS,23,Valais / Wallis,Wallis,Valais,Ried-Brig
+6009,Simplon,Simplon,2301,Brig,VS,23,Valais / Wallis,Wallis,Valais,Simplon
+6010,Termen,Termen,2301,Brig,VS,23,Valais / Wallis,Wallis,Valais,Termen
+6011,Zwischbergen,Zwischbergen,2301,Brig,VS,23,Valais / Wallis,Wallis,Valais,Zwischbergen
+6021,Ardon,Ardon,2302,Conthey,VS,23,Valais / Wallis,Wallis,Valais,Ardon
+6022,Chamoson,Chamoson,2302,Conthey,VS,23,Valais / Wallis,Wallis,Valais,Chamoson
+6023,Conthey,Conthey,2302,Conthey,VS,23,Valais / Wallis,Wallis,Valais,Conthey
+6024,Nendaz,Nendaz,2302,Conthey,VS,23,Valais / Wallis,Wallis,Valais,Nendaz
+6025,Vétroz,Vétroz,2302,Conthey,VS,23,Valais / Wallis,Wallis,Valais,Vétroz
+6032,Bourg-Saint-Pierre,Bourg-Saint-Pierre,2303,Entremont,VS,23,Valais / Wallis,Wallis,Valais,Bourg-Saint-Pierre
+6033,Liddes,Liddes,2303,Entremont,VS,23,Valais / Wallis,Wallis,Valais,Liddes
+6034,Orsières,Orsières,2303,Entremont,VS,23,Valais / Wallis,Wallis,Valais,Orsières
+6035,Sembrancher,Sembrancher,2303,Entremont,VS,23,Valais / Wallis,Wallis,Valais,Sembrancher
+6037,Val de Bagnes,Val de Bagnes,2303,Entremont,VS,23,Valais / Wallis,Wallis,Valais,Val de Bagnes
+6052,Bellwald,Bellwald,2304,Goms,VS,23,Valais / Wallis,Wallis,Valais,Bellwald
+6054,Binn,Binn,2304,Goms,VS,23,Valais / Wallis,Wallis,Valais,Binn
+6056,Ernen,Ernen,2304,Goms,VS,23,Valais / Wallis,Wallis,Valais,Ernen
+6057,Fiesch,Fiesch,2304,Goms,VS,23,Valais / Wallis,Wallis,Valais,Fiesch
+6058,Fieschertal,Fieschertal,2304,Goms,VS,23,Valais / Wallis,Wallis,Valais,Fieschertal
+6061,Lax,Lax,2304,Goms,VS,23,Valais / Wallis,Wallis,Valais,Lax
+6076,Obergoms,Obergoms,2304,Goms,VS,23,Valais / Wallis,Wallis,Valais,Obergoms
+6077,Goms,Goms,2304,Goms,VS,23,Valais / Wallis,Wallis,Valais,Goms
+6082,Ayent,Ayent,2305,Hérens,VS,23,Valais / Wallis,Wallis,Valais,Ayent
+6083,Evolène,Evolène,2305,Hérens,VS,23,Valais / Wallis,Wallis,Valais,Evolène
+6084,Hérémence,Hérémence,2305,Hérens,VS,23,Valais / Wallis,Wallis,Valais,Hérémence
+6087,Saint-Martin (VS),Saint-Martin (VS),2305,Hérens,VS,23,Valais / Wallis,Wallis,Valais,Saint-Martin (VS)
+6089,Vex,Vex,2305,Hérens,VS,23,Valais / Wallis,Wallis,Valais,Vex
+6090,Mont-Noble,Mont-Noble,2305,Hérens,VS,23,Valais / Wallis,Wallis,Valais,Mont-Noble
+6101,Agarn,Agarn,2306,Leuk,VS,23,Valais / Wallis,Wallis,Valais,Agarn
+6102,Albinen,Albinen,2306,Leuk,VS,23,Valais / Wallis,Wallis,Valais,Albinen
+6104,Ergisch,Ergisch,2306,Leuk,VS,23,Valais / Wallis,Wallis,Valais,Ergisch
+6109,Inden,Inden,2306,Leuk,VS,23,Valais / Wallis,Wallis,Valais,Inden
+6110,Leuk,Leuk,2306,Leuk,VS,23,Valais / Wallis,Wallis,Valais,Leuk
+6111,Leukerbad,Leukerbad,2306,Leuk,VS,23,Valais / Wallis,Wallis,Valais,Leukerbad
+6112,Oberems,Oberems,2306,Leuk,VS,23,Valais / Wallis,Wallis,Valais,Oberems
+6113,Salgesch,Salgesch,2306,Leuk,VS,23,Valais / Wallis,Wallis,Valais,Salgesch
+6116,Varen,Varen,2306,Leuk,VS,23,Valais / Wallis,Wallis,Valais,Varen
+6117,Guttet-Feschel,Guttet-Feschel,2306,Leuk,VS,23,Valais / Wallis,Wallis,Valais,Guttet-Feschel
+6118,Gampel-Bratsch,Gampel-Bratsch,2306,Leuk,VS,23,Valais / Wallis,Wallis,Valais,Gampel-Bratsch
+6119,Turtmann-Unterems,Turtmann-Unterems,2306,Leuk,VS,23,Valais / Wallis,Wallis,Valais,Turtmann-Unterems
+6131,Bovernier,Bovernier,2307,Martigny,VS,23,Valais / Wallis,Wallis,Valais,Bovernier
+6133,Fully,Fully,2307,Martigny,VS,23,Valais / Wallis,Wallis,Valais,Fully
+6134,Isérables,Isérables,2307,Martigny,VS,23,Valais / Wallis,Wallis,Valais,Isérables
+6135,Leytron,Leytron,2307,Martigny,VS,23,Valais / Wallis,Wallis,Valais,Leytron
+6136,Martigny,Martigny,2307,Martigny,VS,23,Valais / Wallis,Wallis,Valais,Martigny
+6137,Martigny-Combe,Martigny-Combe,2307,Martigny,VS,23,Valais / Wallis,Wallis,Valais,Martigny-Combe
+6139,Riddes,Riddes,2307,Martigny,VS,23,Valais / Wallis,Wallis,Valais,Riddes
+6140,Saillon,Saillon,2307,Martigny,VS,23,Valais / Wallis,Wallis,Valais,Saillon
+6141,Saxon,Saxon,2307,Martigny,VS,23,Valais / Wallis,Wallis,Valais,Saxon
+6142,Trient,Trient,2307,Martigny,VS,23,Valais / Wallis,Wallis,Valais,Trient
+6151,Champéry,Champéry,2308,Monthey,VS,23,Valais / Wallis,Wallis,Valais,Champéry
+6152,Collombey-Muraz,Collombey-Muraz,2308,Monthey,VS,23,Valais / Wallis,Wallis,Valais,Collombey-Muraz
+6153,Monthey,Monthey,2308,Monthey,VS,23,Valais / Wallis,Wallis,Valais,Monthey
+6154,Port-Valais,Port-Valais,2308,Monthey,VS,23,Valais / Wallis,Wallis,Valais,Port-Valais
+6155,Saint-Gingolph,Saint-Gingolph,2308,Monthey,VS,23,Valais / Wallis,Wallis,Valais,Saint-Gingolph
+6156,Troistorrents,Troistorrents,2308,Monthey,VS,23,Valais / Wallis,Wallis,Valais,Troistorrents
+6157,Val-d'Illiez,Val-d'Illiez,2308,Monthey,VS,23,Valais / Wallis,Wallis,Valais,Val-d'Illiez
+6158,Vionnaz,Vionnaz,2308,Monthey,VS,23,Valais / Wallis,Wallis,Valais,Vionnaz
+6159,Vouvry,Vouvry,2308,Monthey,VS,23,Valais / Wallis,Wallis,Valais,Vouvry
+6172,Bister,Bister,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Bister
+6173,Bitsch,Bitsch,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Bitsch
+6177,Grengiols,Grengiols,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Grengiols
+6181,Riederalp,Riederalp,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Riederalp
+6191,Ausserberg,Ausserberg,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Ausserberg
+6192,Blatten,Blatten,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Blatten
+6193,Bürchen,Bürchen,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Bürchen
+6194,Eischoll,Eischoll,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Eischoll
+6195,Ferden,Ferden,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Ferden
+6197,Kippel,Kippel,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Kippel
+6198,Niedergesteln,Niedergesteln,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Niedergesteln
+6199,Raron,Raron,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Raron
+6201,Unterbäch,Unterbäch,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Unterbäch
+6202,Wiler (Lötschen),Wiler (Lötschen),2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Wiler (Lötschen)
+6203,Mörel-Filet,Mörel-Filet,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Mörel-Filet
+6204,Steg-Hohtenn,Steg-Hohtenn,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Steg-Hohtenn
+6205,Bettmeralp,Bettmeralp,2309,Raron,VS,23,Valais / Wallis,Wallis,Valais,Bettmeralp
+6211,Collonges,Collonges,2310,Saint-Maurice,VS,23,Valais / Wallis,Wallis,Valais,Collonges
+6212,Dorénaz,Dorénaz,2310,Saint-Maurice,VS,23,Valais / Wallis,Wallis,Valais,Dorénaz
+6213,Evionnaz,Evionnaz,2310,Saint-Maurice,VS,23,Valais / Wallis,Wallis,Valais,Evionnaz
+6214,Finhaut,Finhaut,2310,Saint-Maurice,VS,23,Valais / Wallis,Wallis,Valais,Finhaut
+6215,Massongex,Massongex,2310,Saint-Maurice,VS,23,Valais / Wallis,Wallis,Valais,Massongex
+6217,Saint-Maurice,Saint-Maurice,2310,Saint-Maurice,VS,23,Valais / Wallis,Wallis,Valais,Saint-Maurice
+6218,Salvan,Salvan,2310,Saint-Maurice,VS,23,Valais / Wallis,Wallis,Valais,Salvan
+6219,Vernayaz,Vernayaz,2310,Saint-Maurice,VS,23,Valais / Wallis,Wallis,Valais,Vernayaz
+6220,Vérossaz,Vérossaz,2310,Saint-Maurice,VS,23,Valais / Wallis,Wallis,Valais,Vérossaz
+6232,Chalais,Chalais,2311,Sierre,VS,23,Valais / Wallis,Wallis,Valais,Chalais
+6235,Chippis,Chippis,2311,Sierre,VS,23,Valais / Wallis,Wallis,Valais,Chippis
+6238,Grône,Grône,2311,Sierre,VS,23,Valais / Wallis,Wallis,Valais,Grône
+6239,Icogne,Icogne,2311,Sierre,VS,23,Valais / Wallis,Wallis,Valais,Icogne
+6240,Lens,Lens,2311,Sierre,VS,23,Valais / Wallis,Wallis,Valais,Lens
+6246,Saint-Léonard,Saint-Léonard,2311,Sierre,VS,23,Valais / Wallis,Wallis,Valais,Saint-Léonard
+6248,Sierre,Sierre,2311,Sierre,VS,23,Valais / Wallis,Wallis,Valais,Sierre
+6252,Anniviers,Anniviers,2311,Sierre,VS,23,Valais / Wallis,Wallis,Valais,Anniviers
+6253,Crans-Montana,Crans-Montana,2311,Sierre,VS,23,Valais / Wallis,Wallis,Valais,Crans-Montana
+6254,Noble-Contrée,Noble-Contrée,2311,Sierre,VS,23,Valais / Wallis,Wallis,Valais,Noble-Contrée
+6261,Arbaz,Arbaz,2312,Sion,VS,23,Valais / Wallis,Wallis,Valais,Arbaz
+6263,Grimisuat,Grimisuat,2312,Sion,VS,23,Valais / Wallis,Wallis,Valais,Grimisuat
+6265,Savièse,Savièse,2312,Sion,VS,23,Valais / Wallis,Wallis,Valais,Savièse
+6266,Sion,Sion,2312,Sion,VS,23,Valais / Wallis,Wallis,Valais,Sion
+6267,Veysonnaz,Veysonnaz,2312,Sion,VS,23,Valais / Wallis,Wallis,Valais,Veysonnaz
+6281,Baltschieder,Baltschieder,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Baltschieder
+6282,Eisten,Eisten,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Eisten
+6283,Embd,Embd,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Embd
+6285,Grächen,Grächen,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Grächen
+6286,Lalden,Lalden,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Lalden
+6287,Randa,Randa,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Randa
+6288,Saas-Almagell,Saas-Almagell,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Saas-Almagell
+6289,Saas-Balen,Saas-Balen,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Saas-Balen
+6290,Saas-Fee,Saas-Fee,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Saas-Fee
+6291,Saas-Grund,Saas-Grund,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Saas-Grund
+6292,St. Niklaus,St. Niklaus,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,St. Niklaus
+6293,Stalden (VS),Stalden (VS),2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Stalden (VS)
+6294,Staldenried,Staldenried,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Staldenried
+6295,Täsch,Täsch,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Täsch
+6296,Törbel,Törbel,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Törbel
+6297,Visp,Visp,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Visp
+6298,Visperterminen,Visperterminen,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Visperterminen
+6299,Zeneggen,Zeneggen,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Zeneggen
+6300,Zermatt,Zermatt,2313,Visp,VS,23,Valais / Wallis,Wallis,Valais,Zermatt
+6404,Boudry,Boudry,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Boudry
+6408,Cortaillod,Cortaillod,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Cortaillod
+6413,Rochefort,Rochefort,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Rochefort
+6416,Milvignes,Milvignes,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Milvignes
+6417,La Grande Béroche,La Grande Béroche,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,La Grande Béroche
+6421,La Chaux-de-Fonds,La Chaux-de-Fonds,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,La Chaux-de-Fonds
+6422,Les Planchettes,Les Planchettes,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Les Planchettes
+6423,La Sagne,La Sagne,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,La Sagne
+6432,La Brévine,La Brévine,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,La Brévine
+6433,Brot-Plamboz,Brot-Plamboz,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Brot-Plamboz
+6434,Le Cerneux-Péquignot,Le Cerneux-Péquignot,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Le Cerneux-Péquignot
+6435,La Chaux-du-Milieu,La Chaux-du-Milieu,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,La Chaux-du-Milieu
+6436,Le Locle,Le Locle,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Le Locle
+6437,Les Ponts-de-Martel,Les Ponts-de-Martel,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Les Ponts-de-Martel
+6451,Cornaux,Cornaux,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Cornaux
+6452,Cressier (NE),Cressier (NE),2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Cressier (NE)
+6453,Enges,Enges,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Enges
+6454,Hauterive (NE),Hauterive (NE),2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Hauterive (NE)
+6455,Le Landeron,Le Landeron,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Le Landeron
+6456,Lignières,Lignières,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Lignières
+6458,Neuchâtel,Neuchâtel,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Neuchâtel
+6459,Saint-Blaise,Saint-Blaise,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Saint-Blaise
+6461,La Tène,La Tène,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,La Tène
+6487,Val-de-Ruz,Val-de-Ruz,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Val-de-Ruz
+6504,La Côte-aux-Fées,La Côte-aux-Fées,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,La Côte-aux-Fées
+6511,Les Verrières,Les Verrières,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Les Verrières
+6512,Val-de-Travers,Val-de-Travers,2400,Cant. de Neuchâtel,NE,24,Neuchâtel,Neuenburg,Neuchâtel,Val-de-Travers
+6601,Aire-la-Ville,Aire-la-Ville,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Aire-la-Ville
+6602,Anières,Anières,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Anières
+6603,Avully,Avully,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Avully
+6604,Avusy,Avusy,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Avusy
+6605,Bardonnex,Bardonnex,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Bardonnex
+6606,Bellevue,Bellevue,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Bellevue
+6607,Bernex,Bernex,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Bernex
+6608,Carouge (GE),Carouge (GE),2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Carouge (GE)
+6609,Cartigny,Cartigny,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Cartigny
+6610,Céligny,Céligny,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Céligny
+6611,Chancy,Chancy,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Chancy
+6612,Chêne-Bougeries,Chêne-Bougeries,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Chêne-Bougeries
+6613,Chêne-Bourg,Chêne-Bourg,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Chêne-Bourg
+6614,Choulex,Choulex,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Choulex
+6615,Collex-Bossy,Collex-Bossy,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Collex-Bossy
+6616,Collonge-Bellerive,Collonge-Bellerive,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Collonge-Bellerive
+6617,Cologny,Cologny,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Cologny
+6618,Confignon,Confignon,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Confignon
+6619,Corsier (GE),Corsier (GE),2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Corsier (GE)
+6620,Dardagny,Dardagny,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Dardagny
+6621,Genève,Genève,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Genève
+6622,Genthod,Genthod,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Genthod
+6623,Le Grand-Saconnex,Le Grand-Saconnex,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Le Grand-Saconnex
+6624,Gy,Gy,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Gy
+6625,Hermance,Hermance,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Hermance
+6626,Jussy,Jussy,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Jussy
+6627,Laconnex,Laconnex,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Laconnex
+6628,Lancy,Lancy,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Lancy
+6629,Meinier,Meinier,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Meinier
+6630,Meyrin,Meyrin,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Meyrin
+6631,Onex,Onex,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Onex
+6632,Perly-Certoux,Perly-Certoux,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Perly-Certoux
+6633,Plan-les-Ouates,Plan-les-Ouates,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Plan-les-Ouates
+6634,Pregny-Chambésy,Pregny-Chambésy,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Pregny-Chambésy
+6635,Presinge,Presinge,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Presinge
+6636,Puplinge,Puplinge,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Puplinge
+6637,Russin,Russin,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Russin
+6638,Satigny,Satigny,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Satigny
+6639,Soral,Soral,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Soral
+6640,Thônex,Thônex,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Thônex
+6641,Troinex,Troinex,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Troinex
+6642,Vandoeuvres,Vandoeuvres,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Vandoeuvres
+6643,Vernier,Vernier,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Vernier
+6644,Versoix,Versoix,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Versoix
+6645,Veyrier,Veyrier,2500,Cant. de Genève,GE,25,Genève,Genf,Genève,Veyrier
+6702,Boécourt,Boécourt,2601,Delémont,JU,26,Jura,Jura,Jura,Boécourt
+6703,Bourrignon,Bourrignon,2601,Delémont,JU,26,Jura,Jura,Jura,Bourrignon
+6704,Châtillon (JU),Châtillon (JU),2601,Delémont,JU,26,Jura,Jura,Jura,Châtillon (JU)
+6706,Courchapoix,Courchapoix,2601,Delémont,JU,26,Jura,Jura,Jura,Courchapoix
+6708,Courrendlin,Courrendlin,2601,Delémont,JU,26,Jura,Jura,Jura,Courrendlin
+6709,Courroux,Courroux,2601,Delémont,JU,26,Jura,Jura,Jura,Courroux
+6710,Courtételle,Courtételle,2601,Delémont,JU,26,Jura,Jura,Jura,Courtételle
+6711,Delémont,Delémont,2601,Delémont,JU,26,Jura,Jura,Jura,Delémont
+6712,Develier,Develier,2601,Delémont,JU,26,Jura,Jura,Jura,Develier
+6713,Ederswiler,Ederswiler,2601,Delémont,JU,26,Jura,Jura,Jura,Ederswiler
+6715,Mervelier,Mervelier,2601,Delémont,JU,26,Jura,Jura,Jura,Mervelier
+6716,Mettembert,Mettembert,2601,Delémont,JU,26,Jura,Jura,Jura,Mettembert
+6718,Movelier,Movelier,2601,Delémont,JU,26,Jura,Jura,Jura,Movelier
+6719,Pleigne,Pleigne,2601,Delémont,JU,26,Jura,Jura,Jura,Pleigne
+6721,Rossemaison,Rossemaison,2601,Delémont,JU,26,Jura,Jura,Jura,Rossemaison
+6722,Saulcy,Saulcy,2601,Delémont,JU,26,Jura,Jura,Jura,Saulcy
+6724,Soyhières,Soyhières,2601,Delémont,JU,26,Jura,Jura,Jura,Soyhières
+6729,Haute-Sorne,Haute-Sorne,2601,Delémont,JU,26,Jura,Jura,Jura,Haute-Sorne
+6730,Val Terbi,Val Terbi,2601,Delémont,JU,26,Jura,Jura,Jura,Val Terbi
+6741,Le Bémont (JU),Le Bémont (JU),2602,Les Franches-Montagnes,JU,26,Jura,Jura,Jura,Le Bémont (JU)
+6742,Les Bois,Les Bois,2602,Les Franches-Montagnes,JU,26,Jura,Jura,Jura,Les Bois
+6743,Les Breuleux,Les Breuleux,2602,Les Franches-Montagnes,JU,26,Jura,Jura,Jura,Les Breuleux
+6744,La Chaux-des-Breuleux,La Chaux-des-Breuleux,2602,Les Franches-Montagnes,JU,26,Jura,Jura,Jura,La Chaux-des-Breuleux
+6745,Les Enfers,Les Enfers,2602,Les Franches-Montagnes,JU,26,Jura,Jura,Jura,Les Enfers
+6748,Les Genevez (JU),Les Genevez (JU),2602,Les Franches-Montagnes,JU,26,Jura,Jura,Jura,Les Genevez (JU)
+6750,Lajoux (JU),Lajoux (JU),2602,Les Franches-Montagnes,JU,26,Jura,Jura,Jura,Lajoux (JU)
+6751,Montfaucon,Montfaucon,2602,Les Franches-Montagnes,JU,26,Jura,Jura,Jura,Montfaucon
+6753,Muriaux,Muriaux,2602,Les Franches-Montagnes,JU,26,Jura,Jura,Jura,Muriaux
+6754,Le Noirmont,Le Noirmont,2602,Les Franches-Montagnes,JU,26,Jura,Jura,Jura,Le Noirmont
+6757,Saignelégier,Saignelégier,2602,Les Franches-Montagnes,JU,26,Jura,Jura,Jura,Saignelégier
+6758,Saint-Brais,Saint-Brais,2602,Les Franches-Montagnes,JU,26,Jura,Jura,Jura,Saint-Brais
+6759,Soubey,Soubey,2602,Les Franches-Montagnes,JU,26,Jura,Jura,Jura,Soubey
+6771,Alle,Alle,2603,Porrentruy,JU,26,Jura,Jura,Jura,Alle
+6773,Beurnevésin,Beurnevésin,2603,Porrentruy,JU,26,Jura,Jura,Jura,Beurnevésin
+6774,Boncourt,Boncourt,2603,Porrentruy,JU,26,Jura,Jura,Jura,Boncourt
+6775,Bonfol,Bonfol,2603,Porrentruy,JU,26,Jura,Jura,Jura,Bonfol
+6778,Bure,Bure,2603,Porrentruy,JU,26,Jura,Jura,Jura,Bure
+6781,Coeuve,Coeuve,2603,Porrentruy,JU,26,Jura,Jura,Jura,Coeuve
+6782,Cornol,Cornol,2603,Porrentruy,JU,26,Jura,Jura,Jura,Cornol
+6783,Courchavon,Courchavon,2603,Porrentruy,JU,26,Jura,Jura,Jura,Courchavon
+6784,Courgenay,Courgenay,2603,Porrentruy,JU,26,Jura,Jura,Jura,Courgenay
+6785,Courtedoux,Courtedoux,2603,Porrentruy,JU,26,Jura,Jura,Jura,Courtedoux
+6787,Damphreux,Damphreux,2603,Porrentruy,JU,26,Jura,Jura,Jura,Damphreux
+6789,Fahy,Fahy,2603,Porrentruy,JU,26,Jura,Jura,Jura,Fahy
+6790,Fontenais,Fontenais,2603,Porrentruy,JU,26,Jura,Jura,Jura,Fontenais
+6792,Grandfontaine,Grandfontaine,2603,Porrentruy,JU,26,Jura,Jura,Jura,Grandfontaine
+6793,Lugnez,Lugnez,2603,Porrentruy,JU,26,Jura,Jura,Jura,Lugnez
+6800,Porrentruy,Porrentruy,2603,Porrentruy,JU,26,Jura,Jura,Jura,Porrentruy
+6806,Vendlincourt,Vendlincourt,2603,Porrentruy,JU,26,Jura,Jura,Jura,Vendlincourt
+6807,Basse-Allaine,Basse-Allaine,2603,Porrentruy,JU,26,Jura,Jura,Jura,Basse-Allaine
+6808,Clos du Doubs,Clos du Doubs,2603,Porrentruy,JU,26,Jura,Jura,Jura,Clos du Doubs
+6809,Haute-Ajoie,Haute-Ajoie,2603,Porrentruy,JU,26,Jura,Jura,Jura,Haute-Ajoie
+6810,La Baroche,La Baroche,2603,Porrentruy,JU,26,Jura,Jura,Jura,La Baroche
