@@ -119,7 +119,7 @@ all_embed_codes <- as.data.frame(t(sapply(c(3023, 97), function(g){
 })))
 
 all_embed_codes2 <- all_embed_codes %>% 
-  rename(embed = V1,
+  rename(embed_aufteilung = V1,
          Gemeinde_Nr = V2) %>% 
   mutate(Gemeinde_Nr = as.numeric(unlist(Gemeinde_Nr)))
 
@@ -136,9 +136,9 @@ sanitise_iframe <- function(i) {
   
 }
 
-dta_elcom_22_plus_with_embed <- dta_elcom_22_plus %>% 
+dta_elcom_22_plus_with_embed_aufteilung <- dta_elcom_22_plus %>% 
   left_join(all_embed_codes2) %>% 
-  mutate(embed = sanitise_iframe(embed))
+  mutate(embed_aufteilung = sanitise_iframe(embed_aufteilung))
   
   
 

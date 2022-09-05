@@ -8,38 +8,26 @@ library(tidyverse)
 source("gde_texte/DW/custom_DW_functions.R")
 
 
-# create dummy df
-
-dummy <- data.frame(Kategorie = c("2-Zimmerwohnung mit E-Herd", "4-Zimmerwohnung mit Herd und Boiler",
-                                  "5-Zimmer Einfamilienhaus", "Mittlerer Betrieb"),
-                    `Preiserhöhung in Rp.`= c(6, 8, 10, 7),
-                    `Erhöhung in Prozent` = c(10, 12, 15, 11),
-                    `Verbrauch in kWh` = c(1600, 4500, 25000, 150000),
-                    `Mehrkosten in Franken` = c(96, 360, 2500, 10500))
-
-write_csv(dummy, "DW/dummy1.csv")
-
 
 
 # set DW API KEY
 
 # siehe txt.key
-#Sys.setenv(DW_API_KEY = "")
+#Sys.setenv(DW_API_KEY = "88c1zJgLmvaDvrsoUGTEEo04CSbmOp6Amb1RTenMeGWq4poourBtgRpenjHb92y7")
 
 # set folder number (as string!)
-folder_region_increase <- "114653"
+folder_region_increase <- "115714"
 
-# load data
+-# load data
 library (readr)
 library(tidyverse)
 
-#zuerst datenbereinigung durchführen, um dta_gesamt2 zu erhalten!
+# get data
 
-gde1 <- read_csv("gde_texte/böseste Gemeinden der Schweiz.csv") %>% 
-  select(-Total) %>%
-  pivot_longer(cols = c(2:15),
-               names_to = "jahr",
-               values_to = "kraenze")
+source("dta_exploring.R")
+
+dta_tabelle1 <- dta_anbieter 
+  
 
 
 # function that returns the data of one `region`
@@ -61,8 +49,8 @@ out <- gde1 %>%
 # function that creates one chart (based on template `old_chart_id`) -and saves the iframe code in a table (`rpl_tbl_path`)
 create_new_chart <- function(neuer_Gemeinde_Name,
                              neue_Gemeinde_Nr,
-                             old_chart_id = "xlvEF" ,
-                             new_folder = "114653", 
+                             old_chart_id = "7EtPS" ,
+                             new_folder = "115714", 
                              rpl_tbl_path) {
   
   new_dta <- create_dta_per_gemeinde(Gemeindename = neuer_Gemeinde_Name)

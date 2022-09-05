@@ -1,7 +1,7 @@
 #libraries
 
 library(tidyverse)
-library(xlsx)
+library(readxl)
 
 
 # get data 
@@ -65,7 +65,7 @@ dta_anbieter <- read_csv("data/elcom-data-2022.csv")
 
 dta_anbieter2 <- read_csv("data/elcom-data-2009.csv")
 
-dta_gde <- xlsx::read.xlsx("data/Schweizerische Gemeinden und zuständige Stromnetzbetreiber.xlsx", 1, startRow = 3)
+dta_gde <- read_xlsx("data/Schweizerische Gemeinden und zuständige Stromnetzbetreiber.xlsx", skip = 2)
 
 
 dta_joined <- left_join(dta_gde, dta_anbieter, by = c("Name" = "operatorLabel")) 
@@ -252,7 +252,7 @@ netzbetreiber_anzahl_pro_gde <- dta_gde %>%
 
 
 dummy_gesamt <- dta_gde %>% 
-  select(Gde.Nr., Gemeinde, Kanton, Name) %>% 
+  select(`Gde-Nr.`, Gemeinde, Kanton, Name) %>% 
  # filter(Gemeinde == "Degersheim") %>%  
   rowwise() %>%
   mutate(preis_2018 = sample(c(15:30),1),
@@ -268,7 +268,7 @@ dummy_gesamt <- dta_gde %>%
          preis_pro_2023 = preis_2023 * verbrauch / 100,
          differenz = preis_pro_2023 - preis_pro_2022) %>% 
   rename(gde_name = Gemeinde,
-         gde_nr = Gde.Nr.) %>% 
+         gde_nr = `Gde-Nr.`) %>% 
   mutate(change_in_prozent = sqrt(change_in_prozent^2),
          entwicklung = ((round(((preis_2019/preis_2018)-1)*100, digits = 2) + 
                            round(((preis_2020/preis_2019)-1)*100, digits = 2) + 
@@ -307,8 +307,73 @@ write_csv(dummy_gesamt2, "dummy_gesamt2.csv")
 
 strompreis_json_dummy_gesamt <- list(all_gde = dummy_gesamt2 %>%
                                        filter(gde_nr %in% c(4726, 3401, 1, 3378)) %>% 
-                                mutate(r = map(gde_nr, function(nr) dummy2 %>% 
+                                mutate(r = map(gde_nr, function(nr) dummy_gesamt2 %>% 
                                                  filter(nr == gde_nr)))
 )
 
 jsonlite::write_json(strompreis_json_dummy_gesamt, "strompreis_json_dummy_gesamt.json")
+
+
+
+#####ta###########################################################################
+################################################################################
+### create dummy_data for first dw ####
+################################################################################
+################################################################################
+
+# dta_tabelle1 <- dta_gesamt %>% 
+#   filter(category %in% c("H3", "C3", "H7", "H1"),
+#          product == "standard",
+#          period >= 2021)
+# 
+# dta_tabelle1.1 <- dta_tabelle1[c(1:4,9:16,2841:2844,2849:2856),]
+# 
+# 
+# dummy_gde <- c(rep("Zürich",4), rep("Benken", 4), rep("Andelfingen", 4),
+#                rep("Zürich",4), rep("Benken", 4), rep("Andelfingen", 4))
+# 
+# dta_tabelle1.2 <- cbind(dummy_gde,dta_tabelle1.1)  
+# 
+# dta_tabelle1.3 <- dta_tabelle1.2 %>% 
+#   select(dummy_gde, period, operatorLabel, total) %>% 
+#   rename(gde_name = dummy_gde,
+#          jahr = period,
+#          anbieter = operatorLabel,
+#          preis = total)
+# 
+# dummy_cat <- c(rep(c("H1", "H3", "H7", "C3"),3))
+# 
+# 
+# 
+# dta_tabelle1.4 <- dta_tabelle1.3 %>% 
+#   pivot_wider(names_from = jahr,
+#               values_from = preis,
+#               names_prefix = "preis_")
+
+
+
+
+
+
+superfunction <- function(preis_alt, preis_neu, gde_name, anbieter){
+  
+  dummy_df <- data.frame(`Kategorie ^ø-Verbrauch^` = c("2-Zimmer-Whg^1600 kWh^",
+                                                       "4-Zimmer-Whg^4500 kWh^",
+                                                       "Einfamilienhaus^25'000 kWh^",
+                                                       "Mittlerer Betrieb^150'000 kWh^"),
+                         `Stromkosten ^in CHF^` = c(NA,NA,NA,NA),
+                         `+/- ^in CHF^` = c(NA,NA,NA,NA),
+                         prozent = c(NA, NA, NA, NA),
+                         gde_name = c(NA, NA, NA, NA),
+                         anbieter = c(NA, NA, NA, NA))
+  
+  dummy_df[1,2] <- preis_neu*1600
+  dummy_df[1,3] <- preis_neu*1600 - preis_alt*1600
+  dummy_df[1,4] <- round(((preis_neu/preis_alt)-1)*100, digits = 2)
+  dummy_df[1,5] <- gde_name
+  dummy_df[1,6] <- anbieter
+  return(dummy_df)
+}
+
+
+test <- superfunction(35,27,"Speicher", "SAK")

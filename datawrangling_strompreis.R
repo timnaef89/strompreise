@@ -5,7 +5,7 @@ library(xlsx)
 
 
 # get data 
-
+source("gde_texte/get_gde_required.R")
 
 # Die Netzbetreiber haben verschiedene Stromtarife, folglich werden für den Tarifvergleich 
 # sogenannte Stromverbrauchsprofile (Kategorien z. B. H1 oder C1) verwendet. 
@@ -60,3 +60,137 @@ library(xlsx)
 # C5: 500'000 kWh/Jahr: Grosser Betrieb, max. beanspruchte Leistung: 150 kW, Mittelspannung, eigene Transformatorenstation
 # C6: 1'500'000 kWh/Jahr: Grosser Betrieb, max. beanspruchte Leistung: 400 kW, Mittelspannung, eigene Transformatorenstation
 # C7: 7'500'000 kWh/Jahr: Grosser Betrieb, max. beanspruchte Leistung: 1'630 kW, Mittelspannung, eigene Transformatorenstation
+
+
+
+# start datawrangling
+
+
+
+# daten 2022
+dta_elcom_22_plus <- read_csv("Energiekrise_Winter_2023-main/Elcom_Tarife_2022_PLUS.xlsx - cleaned.csv") %>% 
+  rename(H4_Total_2022 = H4_Total)
+
+# hier werden die daten von 2023 eingelesen und an die daten von 2022 gejoined
+
+#dta_elcom_23_plus <- read_csv("2023.csv") %>% 
+  rename(H4_Total_2023 = H4_Total)
+
+
+#dta_real_gesamt <- left_join(dta_elcom_22_plus, dta_elcom_23_plus, by = c("Gemeindenummer" = "Gemeindenummer"))
+
+dta_real_gesamt2 <- dta_real_gesamt %>% 
+transmute(Name = Betreiber_Name,
+          Gemeinde_Nr,
+          Gemeinde_Name,
+          Kanton,
+          preis_2022 = H4_Total_2022,
+          preis_2023 = H4_Total_2023) %>% 
+  mutate(verbrauch = 4500) %>% 
+  mutate(change_in_prozent = round(((preis_2023/preis_2022)-1)*100, digits = 2),
+         verbrauch = 4500,
+         preis_pro_2022 = preis_2022 * verbrauch / 100,
+         preis_pro_2023 = preis_2023 * verbrauch / 100,
+         differenz = preis_pro_2023 - preis_pro_2022) %>% 
+  rename(gde_name = Gemeinde_Name,
+         gde_nr = Gemeinde_Nr) %>% 
+  mutate(change_in_prozent = sqrt(change_in_prozent^2),
+         entwicklung = round(((preis_2023/preis_2022)-1)*100, digits = 2)) %>% 
+  ungroup() %>% 
+  mutate(gruppen = as.numeric(ntile(change_in_prozent, 5)),
+         
+         rang = as.numeric(min_rank(desc(change_in_prozent))),
+         rang_preis_pro_2023 = as.numeric(min_rank(desc(preis_pro_2023))))
+
+dta_real_gesamt3 <- dta_real_gesamt2 %>% 
+  group_by(gde_nr) %>% 
+  arrange(desc(change_in_prozent)) %>% 
+  mutate(anb_nr = seq_along(gde_nr)) %>% 
+  ungroup() %>% 
+  gather(key = "Variable", value = "Wert", -c("gde_nr", "gde_name", "Kanton", "anb_nr")) %>% 
+  mutate(Variable = paste0("Anb_", anb_nr, "_", Variable)) %>% 
+  select(-anb_nr) %>% 
+  spread(key = Variable, value= Wert) %>% 
+  select(-c(Anb_4_change_in_prozent:Anb_4_verbrauch)) %>% 
+  group_by(gde_nr) %>% 
+  #filter(gde_name == "Degersheim") %>% 
+  mutate(Anb_1_change_in_prozent = as.numeric(Anb_1_change_in_prozent),
+         Anb_2_change_in_prozent = as.numeric(Anb_2_change_in_prozent),
+         Anb_3_change_in_prozent = as.numeric(Anb_3_change_in_prozent)) %>% 
+  mutate(change_in_perc_schnitt = mean(c(Anb_1_change_in_prozent, Anb_2_change_in_prozent,Anb_3_change_in_prozent), na.rm = T)) %>% 
+  mutate(anzahl_anbieter = ifelse(is.na(Anb_2_change_in_prozent),1,ifelse(is.na(Anb_3_change_in_prozent),2,3)),
+         Anb_1_gruppen = as.numeric(Anb_1_gruppen),
+         Anb_2_gruppen = as.numeric(Anb_2_gruppen),
+         Anb_3_gruppen = as.numeric(Anb_3_gruppen))
+
+
+#csv für karte erstellen
+write_csv(dta_real_gesamt3, "dta_real_gesamt3.csv")
+
+#liste für json 
+strompreis_json_dta_real_gesamt3 <- list(all_gde = dta_real_gesamt3 %>%
+                                           filter(gde_nr  %in% gde_required)) #hier könnte man kantonsfilter einbauen
+#json für arria erstellen
+jsonlite::write_json(strompreis_json_test_daten2, "strompreis_json_dta_real_gesamt3.json")
+
+
+
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+################################################################################
+
+# nochmals test-datensatz erstellen
+
+test_daten <- dta_elcom_22_plus %>% 
+  transmute(Name = Betreiber_Name,
+            Gemeinde_Nr,
+            Gemeinde_Name,
+            Kanton,
+            preis_2022 = H4_Total,
+            preis_2023 = (H4_Total + round(runif(1, -1, 1),2))) %>% #dummy-zahlen
+              mutate(verbrauch = 4500) %>% 
+  mutate(change_in_prozent = round(((preis_2023/preis_2022)-1)*100, digits = 2),
+         verbrauch = 4500,
+         preis_pro_2022 = preis_2022 * verbrauch / 100,
+         preis_pro_2023 = preis_2023 * verbrauch / 100,
+         differenz = preis_pro_2023 - preis_pro_2022) %>% 
+  rename(gde_name = Gemeinde_Name,
+         gde_nr = Gemeinde_Nr) %>% 
+  mutate(change_in_prozent = sqrt(change_in_prozent^2),
+         entwicklung = round(((preis_2023/preis_2022)-1)*100, digits = 2)) %>% 
+  ungroup() %>% 
+  mutate(gruppen = as.numeric(ntile(change_in_prozent, 5)),
+         
+         rang = as.numeric(min_rank(desc(change_in_prozent))),
+         rang_preis_pro_2023 = as.numeric(min_rank(desc(preis_pro_2023))))
+
+test_daten2 <- test_daten %>% 
+  group_by(gde_nr) %>% 
+  arrange(desc(change_in_prozent)) %>% 
+  mutate(anb_nr = seq_along(gde_nr)) %>% 
+  ungroup() %>% 
+  gather(key = "Variable", value = "Wert", -c("gde_nr", "gde_name", "Kanton", "anb_nr")) %>% 
+  mutate(Variable = paste0("Anb_", anb_nr, "_", Variable)) %>% 
+  select(-anb_nr) %>% 
+  spread(key = Variable, value= Wert) %>% 
+  select(-c(Anb_4_change_in_prozent:Anb_4_verbrauch)) %>% 
+  group_by(gde_nr) %>% 
+  #filter(gde_name == "Degersheim") %>% 
+  mutate(Anb_1_change_in_prozent = as.numeric(Anb_1_change_in_prozent),
+         Anb_2_change_in_prozent = as.numeric(Anb_2_change_in_prozent),
+         Anb_3_change_in_prozent = as.numeric(Anb_3_change_in_prozent)) %>% 
+  mutate(change_in_perc_schnitt = mean(c(Anb_1_change_in_prozent, Anb_2_change_in_prozent,Anb_3_change_in_prozent), na.rm = T)) %>% 
+  mutate(anzahl_anbieter = ifelse(is.na(Anb_2_change_in_prozent),1,ifelse(is.na(Anb_3_change_in_prozent),2,3)),
+         Anb_1_gruppen = as.numeric(Anb_1_gruppen),
+         Anb_2_gruppen = as.numeric(Anb_2_gruppen),
+         Anb_3_gruppen = as.numeric(Anb_3_gruppen))
+
+write_csv(test_daten2, "test_daten2.csv")
+
+
+strompreis_json_test_daten2 <- list(all_gde = test_daten2 %>%
+                                       filter(gde_nr %in% c(4726, 3401, 1, 3378)))
+
+jsonlite::write_json(strompreis_json_test_daten2, "strompreis_json_test_daten2.json")
